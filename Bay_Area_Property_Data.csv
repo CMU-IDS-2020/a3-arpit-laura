@@ -1,0 +1,1401 @@
+ID,Address,Beds,Bath,Area,Date,Action,Amount,Rate_sqft,Source
+0,455-N-19th-St_San-Jose_CA_95112_M28836-86707,2bed,1bath,986sqft,10-10-2020,Listed,"$799,998",$811,MLSListings
+1,455-N-19th-St_San-Jose_CA_95112_M28836-86707,2bed,1bath,986sqft,08-03-2007,Sold,"$500,000",$507,Public Record
+2,455-N-19th-St_San-Jose_CA_95112_M28836-86707,2bed,1bath,986sqft,07/20/2006,Sold,"$550,000",$557,Public Record
+3,455-N-19th-St_San-Jose_CA_95112_M28836-86707,2bed,1bath,986sqft,08/26/1994,Sold,"$162,000",$164,Public Record
+4,455-N-19th-St_San-Jose_CA_95112_M28836-86707,2bed,1bath,986sqft,10-10-2020,Listed,"$799,998",$811,MLSListings
+5,455-N-19th-St_San-Jose_CA_95112_M28836-86707,2bed,1bath,986sqft,08-03-2007,Sold,"$500,000",$507,Public Record
+6,455-N-19th-St_San-Jose_CA_95112_M28836-86707,2bed,1bath,986sqft,07/20/2006,Sold,"$550,000",$557,Public Record
+7,455-N-19th-St_San-Jose_CA_95112_M28836-86707,2bed,1bath,986sqft,08/26/1994,Sold,"$162,000",$164,Public Record
+8,San-Jose_CA_95131_M21396-00782,4bed,2bath,"1,168sqft",10-10-2020,Listed,"$898,000",$768,MLSListings
+9,San-Jose_CA_95131_M21396-00782,4bed,2bath,"1,168sqft",10-10-2020,Listed,"$898,000",$768,MLSListings
+10,45-Hobson-St-Apt-10A_San-Jose_CA_95110_M18759-86580,2bed,1bath,907sqft,10-08-2020,Listed,"$608,888",$671,MLSListings
+11,45-Hobson-St-Apt-10A_San-Jose_CA_95110_M18759-86580,2bed,1bath,907sqft,11/16/2018,Sold,"$600,000",$661,SanDiegoCountySPN
+12,45-Hobson-St-Apt-10A_San-Jose_CA_95110_M18759-86580,2bed,1bath,907sqft,10-09-2018,Listed,"$599,000",$660,MLSListings
+13,45-Hobson-St-Apt-10A_San-Jose_CA_95110_M18759-86580,2bed,1bath,907sqft,04/28/2017,Sold,"$650,000",$716,MLSListings
+14,45-Hobson-St-Apt-10A_San-Jose_CA_95110_M18759-86580,2bed,1bath,907sqft,03-08-2017,Listed,"$499,000",$550,MLSListings
+15,45-Hobson-St-Apt-10A_San-Jose_CA_95110_M18759-86580,2bed,1bath,907sqft,04-01-2010,Sold,"$255,000",$281,Public Record
+16,45-Hobson-St-Apt-10A_San-Jose_CA_95110_M18759-86580,2bed,1bath,907sqft,02/25/2010,Listed,"$249,900",$275,MLSListings
+17,45-Hobson-St-Apt-10A_San-Jose_CA_95110_M18759-86580,2bed,1bath,907sqft,09-10-1997,Sold,"$160,000",$176,Public Record
+18,45-Hobson-St-Apt-10A_San-Jose_CA_95110_M18759-86580,2bed,1bath,907sqft,10-08-2020,Listed,"$608,888",$671,MLSListings
+19,45-Hobson-St-Apt-10A_San-Jose_CA_95110_M18759-86580,2bed,1bath,907sqft,11/16/2018,Sold,"$600,000",$661,SanDiegoCountySPN
+20,45-Hobson-St-Apt-10A_San-Jose_CA_95110_M18759-86580,2bed,1bath,907sqft,10-09-2018,Listed,"$599,000",$660,MLSListings
+21,45-Hobson-St-Apt-10A_San-Jose_CA_95110_M18759-86580,2bed,1bath,907sqft,04/28/2017,Sold,"$650,000",$716,MLSListings
+22,45-Hobson-St-Apt-10A_San-Jose_CA_95110_M18759-86580,2bed,1bath,907sqft,03-08-2017,Listed,"$499,000",$550,MLSListings
+23,45-Hobson-St-Apt-10A_San-Jose_CA_95110_M18759-86580,2bed,1bath,907sqft,04-01-2010,Sold,"$255,000",$281,Public Record
+24,45-Hobson-St-Apt-10A_San-Jose_CA_95110_M18759-86580,2bed,1bath,907sqft,02/25/2010,Listed,"$249,900",$275,MLSListings
+25,45-Hobson-St-Apt-10A_San-Jose_CA_95110_M18759-86580,2bed,1bath,907sqft,09-10-1997,Sold,"$160,000",$176,Public Record
+26,3121-Mount-Vista-Dr_San-Jose_CA_95127_M20666-32141,4bed,2bath,"1,260sqft",10-08-2020,Listed,"$949,900",$753,MLSListings
+27,3121-Mount-Vista-Dr_San-Jose_CA_95127_M20666-32141,4bed,2bath,"1,260sqft",09/24/2020,Listed,"$950,000",$753,MLSListings
+28,3121-Mount-Vista-Dr_San-Jose_CA_95127_M20666-32141,4bed,2bath,"1,260sqft",01/27/2005,Sold,"$550,000",$436,Public Record
+29,3121-Mount-Vista-Dr_San-Jose_CA_95127_M20666-32141,4bed,2bath,"1,260sqft",01-09-2004,Sold,"$396,000",$314,Public Record
+30,3121-Mount-Vista-Dr_San-Jose_CA_95127_M20666-32141,4bed,2bath,"1,260sqft",10-08-2020,Listed,"$949,900",$753,MLSListings
+31,3121-Mount-Vista-Dr_San-Jose_CA_95127_M20666-32141,4bed,2bath,"1,260sqft",09/24/2020,Listed,"$950,000",$753,MLSListings
+32,3121-Mount-Vista-Dr_San-Jose_CA_95127_M20666-32141,4bed,2bath,"1,260sqft",01/27/2005,Sold,"$550,000",$436,Public Record
+33,3121-Mount-Vista-Dr_San-Jose_CA_95127_M20666-32141,4bed,2bath,"1,260sqft",01-09-2004,Sold,"$396,000",$314,Public Record
+34,1298-Karl-St_San-Jose_CA_95122_M17719-12249,6bed,3.5bath,"2,289sqft",10-11-2020,Listed,"$999,888",$436,MLSListings
+35,1298-Karl-St_San-Jose_CA_95122_M17719-12249,6bed,3.5bath,"2,289sqft",10-11-2020,Listed,"$999,888",$436,MetroList
+36,1298-Karl-St_San-Jose_CA_95122_M17719-12249,6bed,3.5bath,"2,289sqft",11-03-2017,Sold,"$780,000",$340,MLSListings
+37,1298-Karl-St_San-Jose_CA_95122_M17719-12249,6bed,3.5bath,"2,289sqft",09/22/2017,Listed,"$720,000",$314,MLSListings
+38,1298-Karl-St_San-Jose_CA_95122_M17719-12249,6bed,3.5bath,"2,289sqft",03-07-2001,Sold,"$577,500",$252,Public Record
+39,1298-Karl-St_San-Jose_CA_95122_M17719-12249,6bed,3.5bath,"2,289sqft",10-11-2020,Listed,"$999,888",$436,MLSListings
+40,1298-Karl-St_San-Jose_CA_95122_M17719-12249,6bed,3.5bath,"2,289sqft",10-11-2020,Listed,"$999,888",$436,MetroList
+41,1298-Karl-St_San-Jose_CA_95122_M17719-12249,6bed,3.5bath,"2,289sqft",11-03-2017,Sold,"$780,000",$340,MLSListings
+42,1298-Karl-St_San-Jose_CA_95122_M17719-12249,6bed,3.5bath,"2,289sqft",09/22/2017,Listed,"$720,000",$314,MLSListings
+43,1298-Karl-St_San-Jose_CA_95122_M17719-12249,6bed,3.5bath,"2,289sqft",03-07-2001,Sold,"$577,500",$252,Public Record
+44,971-Minnesota-Ave_San-Jose_CA_95125_M20252-91616,2bed,2bath,"1,121sqft",10-08-2020,Listed,"$1,070,000",$954,MLSListings
+45,971-Minnesota-Ave_San-Jose_CA_95125_M20252-91616,2bed,2bath,"1,121sqft",08/25/2016,Sold,"$875,000",$780,MLSListings
+46,971-Minnesota-Ave_San-Jose_CA_95125_M20252-91616,2bed,2bath,"1,121sqft",08-03-2016,Listed,"$799,000",$712,MLSListings
+47,971-Minnesota-Ave_San-Jose_CA_95125_M20252-91616,2bed,2bath,"1,121sqft",10-12-2012,Sold,"$570,000",$508,MLSListings
+48,971-Minnesota-Ave_San-Jose_CA_95125_M20252-91616,2bed,2bath,"1,121sqft",09/14/2012,Price Changed,"$549,000",$489,MLSListings
+49,971-Minnesota-Ave_San-Jose_CA_95125_M20252-91616,2bed,2bath,"1,121sqft",08-09-2012,Listed,"$599,000",$534,MLSListings
+50,971-Minnesota-Ave_San-Jose_CA_95125_M20252-91616,2bed,2bath,"1,121sqft",04-04-2006,Sold,"$649,000",$578,Public Record
+51,971-Minnesota-Ave_San-Jose_CA_95125_M20252-91616,2bed,2bath,"1,121sqft",10-08-2020,Listed,"$1,070,000",$954,MLSListings
+52,971-Minnesota-Ave_San-Jose_CA_95125_M20252-91616,2bed,2bath,"1,121sqft",08/25/2016,Sold,"$875,000",$780,MLSListings
+53,971-Minnesota-Ave_San-Jose_CA_95125_M20252-91616,2bed,2bath,"1,121sqft",08-03-2016,Listed,"$799,000",$712,MLSListings
+54,971-Minnesota-Ave_San-Jose_CA_95125_M20252-91616,2bed,2bath,"1,121sqft",10-12-2012,Sold,"$570,000",$508,MLSListings
+55,971-Minnesota-Ave_San-Jose_CA_95125_M20252-91616,2bed,2bath,"1,121sqft",09/14/2012,Price Changed,"$549,000",$489,MLSListings
+56,971-Minnesota-Ave_San-Jose_CA_95125_M20252-91616,2bed,2bath,"1,121sqft",08-09-2012,Listed,"$599,000",$534,MLSListings
+57,971-Minnesota-Ave_San-Jose_CA_95125_M20252-91616,2bed,2bath,"1,121sqft",04-04-2006,Sold,"$649,000",$578,Public Record
+58,96-Kenbrook-Cir_San-Jose_CA_95111_M23294-56238,1bed,1bath,950sqft,10-12-2020,Listed,"$479,000",$504,BayEast
+59,96-Kenbrook-Cir_San-Jose_CA_95111_M23294-56238,1bed,1bath,950sqft,12/22/2016,Sold,"$370,000",$389,MLSListings
+60,96-Kenbrook-Cir_San-Jose_CA_95111_M23294-56238,1bed,1bath,950sqft,12-03-2016,Listed,"$359,000",$377,ContraCosta
+61,96-Kenbrook-Cir_San-Jose_CA_95111_M23294-56238,1bed,1bath,950sqft,10/28/2016,Listed,"$359,000",$377,MLSListings
+62,96-Kenbrook-Cir_San-Jose_CA_95111_M23294-56238,1bed,1bath,950sqft,10-12-2020,Listed,"$479,000",$504,BayEast
+63,96-Kenbrook-Cir_San-Jose_CA_95111_M23294-56238,1bed,1bath,950sqft,12/22/2016,Sold,"$370,000",$389,MLSListings
+64,96-Kenbrook-Cir_San-Jose_CA_95111_M23294-56238,1bed,1bath,950sqft,12-03-2016,Listed,"$359,000",$377,ContraCosta
+65,96-Kenbrook-Cir_San-Jose_CA_95111_M23294-56238,1bed,1bath,950sqft,10/28/2016,Listed,"$359,000",$377,MLSListings
+66,2108-Mendocino-Ln_San-Jose_CA_95124_M15633-81481,3bed,2.5bath,"1,535sqft",10-07-2020,Listed,"$1,088,000",$708,MLSListings
+67,2108-Mendocino-Ln_San-Jose_CA_95124_M15633-81481,3bed,2.5bath,"1,535sqft",04/30/2008,Sold,"$649,000",$422,Public Record
+68,2108-Mendocino-Ln_San-Jose_CA_95124_M15633-81481,3bed,2.5bath,"1,535sqft",10-07-2020,Listed,"$1,088,000",$708,MLSListings
+69,2108-Mendocino-Ln_San-Jose_CA_95124_M15633-81481,3bed,2.5bath,"1,535sqft",04/30/2008,Sold,"$649,000",$422,Public Record
+70,1608-Almond-Blossom-Ln_San-Jose_CA_95124_M21885-29039,6bed,4bath,"2,989sqft",10-12-2020,Listed,"$1,789,000",$598,MLSListings
+71,1608-Almond-Blossom-Ln_San-Jose_CA_95124_M21885-29039,6bed,4bath,"2,989sqft",01/19/2005,Sold,"$580,000",$299,Public Record
+72,1608-Almond-Blossom-Ln_San-Jose_CA_95124_M21885-29039,6bed,4bath,"2,989sqft",10-12-2020,Listed,"$1,789,000",$598,MLSListings
+73,1608-Almond-Blossom-Ln_San-Jose_CA_95124_M21885-29039,6bed,4bath,"2,989sqft",01/19/2005,Sold,"$580,000",$299,Public Record
+74,1691-Lupton-Ave_San-Jose_CA_95125_M20464-24554,3bed,2bath,"1,434sqft",10-09-2020,Listed,"$1,375,000",$958,MLSListings
+75,1691-Lupton-Ave_San-Jose_CA_95125_M20464-24554,3bed,2bath,"1,434sqft",07-12-2012,Sold,"$940,000",$655,MLSListings
+76,1691-Lupton-Ave_San-Jose_CA_95125_M20464-24554,3bed,2bath,"1,434sqft",05/30/2012,Listed,"$950,000",$662,MLSListings
+77,1691-Lupton-Ave_San-Jose_CA_95125_M20464-24554,3bed,2bath,"1,434sqft",10-04-2001,Sold,"$568,000",$396,Public Record
+78,1691-Lupton-Ave_San-Jose_CA_95125_M20464-24554,3bed,2bath,"1,434sqft",03/29/1996,Sold,"$317,000",$221,Public Record
+79,1691-Lupton-Ave_San-Jose_CA_95125_M20464-24554,3bed,2bath,"1,434sqft",10-09-2020,Listed,"$1,375,000",$958,MLSListings
+80,1691-Lupton-Ave_San-Jose_CA_95125_M20464-24554,3bed,2bath,"1,434sqft",07-12-2012,Sold,"$940,000",$655,MLSListings
+81,1691-Lupton-Ave_San-Jose_CA_95125_M20464-24554,3bed,2bath,"1,434sqft",05/30/2012,Listed,"$950,000",$662,MLSListings
+82,1691-Lupton-Ave_San-Jose_CA_95125_M20464-24554,3bed,2bath,"1,434sqft",10-04-2001,Sold,"$568,000",$396,Public Record
+83,1691-Lupton-Ave_San-Jose_CA_95125_M20464-24554,3bed,2bath,"1,434sqft",03/29/1996,Sold,"$317,000",$221,Public Record
+84,165-Blossom-Hill-Rd-Spc-146_San-Jose_CA_95123_M17931-51910,2bed,1bath,960sqft,10-07-2020,Listed,"$189,000",$196,MyStateMLS
+85,2681-Thrasher-Ln_San-Jose_CA_95125_M12278-98945,4bed,3bath,"2,132sqft",10-08-2020,Listed,"$1,798,000",$843,MLSListings
+86,2681-Thrasher-Ln_San-Jose_CA_95125_M12278-98945,4bed,3bath,"2,132sqft",04/15/2016,Sold,"$1,500,000",$697,MLSListings
+87,2681-Thrasher-Ln_San-Jose_CA_95125_M12278-98945,4bed,3bath,"2,132sqft",03/24/2016,Listed,"$1,388,000",$645,MLSListings
+88,2681-Thrasher-Ln_San-Jose_CA_95125_M12278-98945,4bed,3bath,"2,132sqft",03-02-2016,Listed,"$1,388,000",$645,MLSListings
+89,2681-Thrasher-Ln_San-Jose_CA_95125_M12278-98945,4bed,3bath,"2,132sqft",10/15/2010,Sold,"$715,000",$335,Public Record
+90,2681-Thrasher-Ln_San-Jose_CA_95125_M12278-98945,4bed,3bath,"2,132sqft",09-03-2010,Listed,"$735,000",$449,MLSListings
+91,2681-Thrasher-Ln_San-Jose_CA_95125_M12278-98945,4bed,3bath,"2,132sqft",04-03-2001,Sold,"$710,000",$333,Public Record
+92,2681-Thrasher-Ln_San-Jose_CA_95125_M12278-98945,4bed,3bath,"2,132sqft",10-08-2020,Listed,"$1,798,000",$843,MLSListings
+93,2681-Thrasher-Ln_San-Jose_CA_95125_M12278-98945,4bed,3bath,"2,132sqft",04/15/2016,Sold,"$1,500,000",$697,MLSListings
+94,2681-Thrasher-Ln_San-Jose_CA_95125_M12278-98945,4bed,3bath,"2,132sqft",03/24/2016,Listed,"$1,388,000",$645,MLSListings
+95,2681-Thrasher-Ln_San-Jose_CA_95125_M12278-98945,4bed,3bath,"2,132sqft",03-02-2016,Listed,"$1,388,000",$645,MLSListings
+96,2681-Thrasher-Ln_San-Jose_CA_95125_M12278-98945,4bed,3bath,"2,132sqft",10/15/2010,Sold,"$715,000",$335,Public Record
+97,2681-Thrasher-Ln_San-Jose_CA_95125_M12278-98945,4bed,3bath,"2,132sqft",09-03-2010,Listed,"$735,000",$449,MLSListings
+98,2681-Thrasher-Ln_San-Jose_CA_95125_M12278-98945,4bed,3bath,"2,132sqft",04-03-2001,Sold,"$710,000",$333,Public Record
+99,3417-Virgo-Ln_San-Jose_CA_95111_M20390-39600,3bed,2bath,"1,197sqft",10/13/2020,Listed,"$559,888",$467,MLSListings
+100,3417-Virgo-Ln_San-Jose_CA_95111_M20390-39600,3bed,2bath,"1,197sqft",05/28/2014,Price Changed,"$359,999",$300,MLSListings
+101,3417-Virgo-Ln_San-Jose_CA_95111_M20390-39600,3bed,2bath,"1,197sqft",05-01-2014,Listed,"$379,999",$317,MLSListings
+102,3417-Virgo-Ln_San-Jose_CA_95111_M20390-39600,3bed,2bath,"1,197sqft",04/30/2014,Listed,"$359,999",$300,MLSListings
+103,3417-Virgo-Ln_San-Jose_CA_95111_M20390-39600,3bed,2bath,"1,197sqft",03/18/1999,Sold,"$150,000",$125,Public Record
+104,3417-Virgo-Ln_San-Jose_CA_95111_M20390-39600,3bed,2bath,"1,197sqft",08-02-1991,Sold,"$122,000",$101,Public Record
+105,3417-Virgo-Ln_San-Jose_CA_95111_M20390-39600,3bed,2bath,"1,197sqft",10/13/2020,Listed,"$559,888",$467,MLSListings
+106,3417-Virgo-Ln_San-Jose_CA_95111_M20390-39600,3bed,2bath,"1,197sqft",05/28/2014,Price Changed,"$359,999",$300,MLSListings
+107,3417-Virgo-Ln_San-Jose_CA_95111_M20390-39600,3bed,2bath,"1,197sqft",05-01-2014,Listed,"$379,999",$317,MLSListings
+108,3417-Virgo-Ln_San-Jose_CA_95111_M20390-39600,3bed,2bath,"1,197sqft",04/30/2014,Listed,"$359,999",$300,MLSListings
+109,3417-Virgo-Ln_San-Jose_CA_95111_M20390-39600,3bed,2bath,"1,197sqft",03/18/1999,Sold,"$150,000",$125,Public Record
+110,3417-Virgo-Ln_San-Jose_CA_95111_M20390-39600,3bed,2bath,"1,197sqft",08-02-1991,Sold,"$122,000",$101,Public Record
+111,5001-Forest-View-Dr_San-Jose_CA_95129_M24759-09466,4bed,2bath,"1,653sqft",10-07-2020,Listed,"$1,575,000",$952,BayEast
+112,5001-Forest-View-Dr_San-Jose_CA_95129_M24759-09466,4bed,2bath,"1,653sqft",10-07-2020,Listed,"$1,575,000",$952,BayEast
+113,3655-Kersten-Dr_San-Jose_CA_95124_M13741-90514,3bed,2bath,"1,215sqft",10-12-2020,Listed,"$1,230,000","$1,012",MLSListings
+114,3655-Kersten-Dr_San-Jose_CA_95124_M13741-90514,3bed,2bath,"1,215sqft",10-03-2003,Sold,"$500,000",$411,Public Record
+115,3655-Kersten-Dr_San-Jose_CA_95124_M13741-90514,3bed,2bath,"1,215sqft",10-12-2020,Listed,"$1,230,000","$1,012",MLSListings
+116,3655-Kersten-Dr_San-Jose_CA_95124_M13741-90514,3bed,2bath,"1,215sqft",10-03-2003,Sold,"$500,000",$411,Public Record
+117,1753-El-Codo-Way_San-Jose_CA_95124_M16024-18519,4bed,2bath,"1,558sqft",10-07-2020,Listed,"$1,200,000",$770,MLSListings
+118,1753-El-Codo-Way_San-Jose_CA_95124_M16024-18519,4bed,2bath,"1,558sqft",01-12-1989,Sold,"$262,500",$168,Public Record
+119,1753-El-Codo-Way_San-Jose_CA_95124_M16024-18519,4bed,2bath,"1,558sqft",07/16/1986,Sold,"$179,000",$114,Public Record
+120,1753-El-Codo-Way_San-Jose_CA_95124_M16024-18519,4bed,2bath,"1,558sqft",10-07-2020,Listed,"$1,200,000",$770,MLSListings
+121,1753-El-Codo-Way_San-Jose_CA_95124_M16024-18519,4bed,2bath,"1,558sqft",01-12-1989,Sold,"$262,500",$168,Public Record
+122,1753-El-Codo-Way_San-Jose_CA_95124_M16024-18519,4bed,2bath,"1,558sqft",07/16/1986,Sold,"$179,000",$114,Public Record
+123,2664-Senter-Rd-Apt-228_San-Jose_CA_95111_M28197-93286,2bed,2bath,"1,026sqft",10-09-2020,Listed,"$529,888",$516,MLSListings
+124,2664-Senter-Rd-Apt-228_San-Jose_CA_95111_M28197-93286,2bed,2bath,"1,026sqft",12/21/2004,Sold,"$347,500",$338,Public Record
+125,2664-Senter-Rd-Apt-228_San-Jose_CA_95111_M28197-93286,2bed,2bath,"1,026sqft",08/17/1990,Sold,"$153,000",$149,Public Record
+126,2664-Senter-Rd-Apt-228_San-Jose_CA_95111_M28197-93286,2bed,2bath,"1,026sqft",10-09-2020,Listed,"$529,888",$516,MLSListings
+127,2664-Senter-Rd-Apt-228_San-Jose_CA_95111_M28197-93286,2bed,2bath,"1,026sqft",12/21/2004,Sold,"$347,500",$338,Public Record
+128,2664-Senter-Rd-Apt-228_San-Jose_CA_95111_M28197-93286,2bed,2bath,"1,026sqft",08/17/1990,Sold,"$153,000",$149,Public Record
+129,3501-Ranch-Pl_San-Jose_CA_95132_M24804-18645,4bed,2bath,"2,404sqft",10-10-2020,Listed,"$1,599,000",$665,BayEast
+130,3501-Ranch-Pl_San-Jose_CA_95132_M24804-18645,4bed,2bath,"2,404sqft",10-10-2020,Listed,"$1,599,000",$665,MLSListings
+131,3501-Ranch-Pl_San-Jose_CA_95132_M24804-18645,4bed,2bath,"2,404sqft",06/25/1984,Sold,"$115,000",$47,Public Record
+132,3501-Ranch-Pl_San-Jose_CA_95132_M24804-18645,4bed,2bath,"2,404sqft",10-10-2020,Listed,"$1,599,000",$665,BayEast
+133,3501-Ranch-Pl_San-Jose_CA_95132_M24804-18645,4bed,2bath,"2,404sqft",10-10-2020,Listed,"$1,599,000",$665,MLSListings
+134,3501-Ranch-Pl_San-Jose_CA_95132_M24804-18645,4bed,2bath,"2,404sqft",06/25/1984,Sold,"$115,000",$47,Public Record
+135,2362-La-Terrace-Cir_San-Jose_CA_95123_M24356-65396,2bed,2bath,"1,157sqft",10-08-2020,Listed,"$650,000",$561,MLSListings
+136,2362-La-Terrace-Cir_San-Jose_CA_95123_M24356-65396,2bed,2bath,"1,157sqft",11/15/2011,Sold,"$290,000",$254,MLSListings
+137,2362-La-Terrace-Cir_San-Jose_CA_95123_M24356-65396,2bed,2bath,"1,157sqft",08/24/2011,Listed,"$299,000",$262,MLSListings
+138,2362-La-Terrace-Cir_San-Jose_CA_95123_M24356-65396,2bed,2bath,"1,157sqft",07/29/2011,Listed,"$299,000",$262,MLSListings
+139,2362-La-Terrace-Cir_San-Jose_CA_95123_M24356-65396,2bed,2bath,"1,157sqft",07/13/2004,Sold,"$365,000",$320,Public Record
+140,2362-La-Terrace-Cir_San-Jose_CA_95123_M24356-65396,2bed,2bath,"1,157sqft",04/18/1989,Sold,"$120,000",$105,Public Record
+141,2362-La-Terrace-Cir_San-Jose_CA_95123_M24356-65396,2bed,2bath,"1,157sqft",12/31/1987,Sold,"$22,000,000","$19,332",Public Record
+142,2362-La-Terrace-Cir_San-Jose_CA_95123_M24356-65396,2bed,2bath,"1,157sqft",10-08-2020,Listed,"$650,000",$561,MLSListings
+143,2362-La-Terrace-Cir_San-Jose_CA_95123_M24356-65396,2bed,2bath,"1,157sqft",11/15/2011,Sold,"$290,000",$254,MLSListings
+144,2362-La-Terrace-Cir_San-Jose_CA_95123_M24356-65396,2bed,2bath,"1,157sqft",08/24/2011,Listed,"$299,000",$262,MLSListings
+145,2362-La-Terrace-Cir_San-Jose_CA_95123_M24356-65396,2bed,2bath,"1,157sqft",07/29/2011,Listed,"$299,000",$262,MLSListings
+146,2362-La-Terrace-Cir_San-Jose_CA_95123_M24356-65396,2bed,2bath,"1,157sqft",07/13/2004,Sold,"$365,000",$320,Public Record
+147,2362-La-Terrace-Cir_San-Jose_CA_95123_M24356-65396,2bed,2bath,"1,157sqft",04/18/1989,Sold,"$120,000",$105,Public Record
+148,2362-La-Terrace-Cir_San-Jose_CA_95123_M24356-65396,2bed,2bath,"1,157sqft",12/31/1987,Sold,"$22,000,000","$19,332",Public Record
+149,1847-Vollmer-Way_San-Jose_CA_95116_M10061-05354,3bed,1bath,"1,109sqft",10/13/2020,Listed,"$749,900",$676,MLSListings
+150,1847-Vollmer-Way_San-Jose_CA_95116_M10061-05354,3bed,1bath,"1,109sqft",05/23/2003,Sold,"$380,000",$342,Public Record
+151,1847-Vollmer-Way_San-Jose_CA_95116_M10061-05354,3bed,1bath,"1,109sqft",10/13/2020,Listed,"$749,900",$676,MLSListings
+152,1847-Vollmer-Way_San-Jose_CA_95116_M10061-05354,3bed,1bath,"1,109sqft",05/23/2003,Sold,"$380,000",$342,Public Record
+153,1317-Crossgates-Ln_San-Jose_CA_95120_M18495-45431,4bed,2.5bath,"1,997sqft",10-09-2020,Listed,"$1,480,000",$741,MLSListings
+154,1317-Crossgates-Ln_San-Jose_CA_95120_M18495-45431,4bed,2.5bath,"1,997sqft",05/25/2006,Sold,"$910,000",$455,Public Record
+155,1317-Crossgates-Ln_San-Jose_CA_95120_M18495-45431,4bed,2.5bath,"1,997sqft",11-04-2004,Sold,"$740,000",$370,Public Record
+156,1317-Crossgates-Ln_San-Jose_CA_95120_M18495-45431,4bed,2.5bath,"1,997sqft",05/29/1987,Sold,"$210,000",$105,Public Record
+157,1317-Crossgates-Ln_San-Jose_CA_95120_M18495-45431,4bed,2.5bath,"1,997sqft",10-09-2020,Listed,"$1,480,000",$741,MLSListings
+158,1317-Crossgates-Ln_San-Jose_CA_95120_M18495-45431,4bed,2.5bath,"1,997sqft",05/25/2006,Sold,"$910,000",$455,Public Record
+159,1317-Crossgates-Ln_San-Jose_CA_95120_M18495-45431,4bed,2.5bath,"1,997sqft",11-04-2004,Sold,"$740,000",$370,Public Record
+160,1317-Crossgates-Ln_San-Jose_CA_95120_M18495-45431,4bed,2.5bath,"1,997sqft",05/29/1987,Sold,"$210,000",$105,Public Record
+161,1840-Northwest-Cir_San-Jose_CA_95131_M17635-09742,3bed,2.5bath,"1,651sqft",10-08-2020,Listed,"$1,058,000",$640,MLSListings
+162,1840-Northwest-Cir_San-Jose_CA_95131_M17635-09742,3bed,2.5bath,"1,651sqft",08/15/2008,Sold,"$570,000",$345,Public Record
+163,1840-Northwest-Cir_San-Jose_CA_95131_M17635-09742,3bed,2.5bath,"1,651sqft",10/17/2003,Sold,"$470,000",$284,Public Record
+164,1840-Northwest-Cir_San-Jose_CA_95131_M17635-09742,3bed,2.5bath,"1,651sqft",05/26/1995,Sold,"$227,500",$137,Public Record
+165,1840-Northwest-Cir_San-Jose_CA_95131_M17635-09742,3bed,2.5bath,"1,651sqft",10-08-2020,Listed,"$1,058,000",$640,MLSListings
+166,1840-Northwest-Cir_San-Jose_CA_95131_M17635-09742,3bed,2.5bath,"1,651sqft",08/15/2008,Sold,"$570,000",$345,Public Record
+167,1840-Northwest-Cir_San-Jose_CA_95131_M17635-09742,3bed,2.5bath,"1,651sqft",10/17/2003,Sold,"$470,000",$284,Public Record
+168,1840-Northwest-Cir_San-Jose_CA_95131_M17635-09742,3bed,2.5bath,"1,651sqft",05/26/1995,Sold,"$227,500",$137,Public Record
+169,765-Toyon-Ave_San-Jose_CA_95127_M23289-49036,3bed,1bath,"1,027sqft",10-08-2020,Listed,"$724,888",$705,MLSListings
+170,765-Toyon-Ave_San-Jose_CA_95127_M23289-49036,3bed,1bath,"1,027sqft",07/28/2015,Sold,"$625,000",$608,MLSListings
+171,765-Toyon-Ave_San-Jose_CA_95127_M23289-49036,3bed,1bath,"1,027sqft",05-11-2015,Listed,"$599,000",$583,MLSListings
+172,765-Toyon-Ave_San-Jose_CA_95127_M23289-49036,3bed,1bath,"1,027sqft",05-11-2015,Listed,"$599,000",$583,MLSListings
+173,765-Toyon-Ave_San-Jose_CA_95127_M23289-49036,3bed,1bath,"1,027sqft",05-04-2000,Sold,"$330,000",$321,Public Record
+174,765-Toyon-Ave_San-Jose_CA_95127_M23289-49036,3bed,1bath,"1,027sqft",04/29/1998,Sold,"$216,000",$210,Public Record
+175,765-Toyon-Ave_San-Jose_CA_95127_M23289-49036,3bed,1bath,"1,027sqft",10-08-2020,Listed,"$724,888",$705,MLSListings
+176,765-Toyon-Ave_San-Jose_CA_95127_M23289-49036,3bed,1bath,"1,027sqft",07/28/2015,Sold,"$625,000",$608,MLSListings
+177,765-Toyon-Ave_San-Jose_CA_95127_M23289-49036,3bed,1bath,"1,027sqft",05-11-2015,Listed,"$599,000",$583,MLSListings
+178,765-Toyon-Ave_San-Jose_CA_95127_M23289-49036,3bed,1bath,"1,027sqft",05-11-2015,Listed,"$599,000",$583,MLSListings
+179,765-Toyon-Ave_San-Jose_CA_95127_M23289-49036,3bed,1bath,"1,027sqft",05-04-2000,Sold,"$330,000",$321,Public Record
+180,765-Toyon-Ave_San-Jose_CA_95127_M23289-49036,3bed,1bath,"1,027sqft",04/29/1998,Sold,"$216,000",$210,Public Record
+181,4867-Indian-River-Ct_San-Jose_CA_95136_M28158-72138,3bed,2.5bath,"1,360sqft",10-09-2020,Listed,"$700,000",$514,MLSListings
+182,4867-Indian-River-Ct_San-Jose_CA_95136_M28158-72138,3bed,2.5bath,"1,360sqft",06/29/2007,Sold,"$560,000",$411,Public Record
+183,4867-Indian-River-Ct_San-Jose_CA_95136_M28158-72138,3bed,2.5bath,"1,360sqft",01/24/1986,Sold,"$133,000",$97,Public Record
+184,4867-Indian-River-Ct_San-Jose_CA_95136_M28158-72138,3bed,2.5bath,"1,360sqft",10-09-2020,Listed,"$700,000",$514,MLSListings
+185,4867-Indian-River-Ct_San-Jose_CA_95136_M28158-72138,3bed,2.5bath,"1,360sqft",06/29/2007,Sold,"$560,000",$411,Public Record
+186,4867-Indian-River-Ct_San-Jose_CA_95136_M28158-72138,3bed,2.5bath,"1,360sqft",01/24/1986,Sold,"$133,000",$97,Public Record
+187,5060-Wayland-Ave_San-Jose_CA_95118_M23263-58090,3bed,2bath,"1,232sqft",10-08-2020,Listed,"$935,000",$758,MLSListings
+188,5060-Wayland-Ave_San-Jose_CA_95118_M23263-58090,3bed,2bath,"1,232sqft",08-12-2005,Sold,"$645,000",$523,Public Record
+189,5060-Wayland-Ave_San-Jose_CA_95118_M23263-58090,3bed,2bath,"1,232sqft",08/24/2000,Sold,"$405,000",$328,Public Record
+190,5060-Wayland-Ave_San-Jose_CA_95118_M23263-58090,3bed,2bath,"1,232sqft",10-08-2020,Listed,"$935,000",$758,MLSListings
+191,5060-Wayland-Ave_San-Jose_CA_95118_M23263-58090,3bed,2bath,"1,232sqft",08-12-2005,Sold,"$645,000",$523,Public Record
+192,5060-Wayland-Ave_San-Jose_CA_95118_M23263-58090,3bed,2bath,"1,232sqft",08/24/2000,Sold,"$405,000",$328,Public Record
+193,5640-Coniston-Way_San-Jose_CA_95118_M21635-25518,3bed,2bath,"1,555sqft",10-08-2020,Listed,"$1,199,000",$771,MLSListings
+194,5640-Coniston-Way_San-Jose_CA_95118_M21635-25518,3bed,2bath,"1,555sqft",03/28/1997,Sold,"$240,000",$154,Public Record
+195,5640-Coniston-Way_San-Jose_CA_95118_M21635-25518,3bed,2bath,"1,555sqft",11-07-1986,Sold,"$139,500",$89,Public Record
+196,5640-Coniston-Way_San-Jose_CA_95118_M21635-25518,3bed,2bath,"1,555sqft",10-08-2020,Listed,"$1,199,000",$771,MLSListings
+197,5640-Coniston-Way_San-Jose_CA_95118_M21635-25518,3bed,2bath,"1,555sqft",03/28/1997,Sold,"$240,000",$154,Public Record
+198,5640-Coniston-Way_San-Jose_CA_95118_M21635-25518,3bed,2bath,"1,555sqft",11-07-1986,Sold,"$139,500",$89,Public Record
+199,5962-Pala-Mesa-Dr_San-Jose_CA_95123_M29363-27037,4bed,2.5bath,"2,734sqft",10-10-2020,Listed,"$1,450,000",$530,MLSListings
+200,5962-Pala-Mesa-Dr_San-Jose_CA_95123_M29363-27037,4bed,2.5bath,"2,734sqft",09/22/2014,Sold,"$935,000",$341,MLSListings
+201,5962-Pala-Mesa-Dr_San-Jose_CA_95123_M29363-27037,4bed,2.5bath,"2,734sqft",08-05-2014,Listed,"$899,000",$328,MLSListings
+202,5962-Pala-Mesa-Dr_San-Jose_CA_95123_M29363-27037,4bed,2.5bath,"2,734sqft",08-05-2014,Listed,"$899,000",$328,MLSListings
+203,5962-Pala-Mesa-Dr_San-Jose_CA_95123_M29363-27037,4bed,2.5bath,"2,734sqft",11/29/2000,Sold,"$769,000",$281,Public Record
+204,5962-Pala-Mesa-Dr_San-Jose_CA_95123_M29363-27037,4bed,2.5bath,"2,734sqft",10-10-2020,Listed,"$1,450,000",$530,MLSListings
+205,5962-Pala-Mesa-Dr_San-Jose_CA_95123_M29363-27037,4bed,2.5bath,"2,734sqft",09/22/2014,Sold,"$935,000",$341,MLSListings
+206,5962-Pala-Mesa-Dr_San-Jose_CA_95123_M29363-27037,4bed,2.5bath,"2,734sqft",08-05-2014,Listed,"$899,000",$328,MLSListings
+207,5962-Pala-Mesa-Dr_San-Jose_CA_95123_M29363-27037,4bed,2.5bath,"2,734sqft",08-05-2014,Listed,"$899,000",$328,MLSListings
+208,5962-Pala-Mesa-Dr_San-Jose_CA_95123_M29363-27037,4bed,2.5bath,"2,734sqft",11/29/2000,Sold,"$769,000",$281,Public Record
+209,7558-Morevern-Cir_San-Jose_CA_95135_M23102-67427,2bed,2bath,"1,572sqft",10-08-2020,Listed,"$699,000",$444,MLSListings
+210,7558-Morevern-Cir_San-Jose_CA_95135_M23102-67427,2bed,2bath,"1,572sqft",01-03-2014,Sold,"$530,000",$337,MLSListings
+211,7558-Morevern-Cir_San-Jose_CA_95135_M23102-67427,2bed,2bath,"1,572sqft",11/29/2013,Relisted,"$525,000",$333,MLSListings
+212,7558-Morevern-Cir_San-Jose_CA_95135_M23102-67427,2bed,2bath,"1,572sqft",10/22/2013,Listed,"$525,000",$333,MLSListings
+213,7558-Morevern-Cir_San-Jose_CA_95135_M23102-67427,2bed,2bath,"1,572sqft",10/22/2013,Listed,"$525,000",$333,MLSListings
+214,7558-Morevern-Cir_San-Jose_CA_95135_M23102-67427,2bed,2bath,"1,572sqft",10-08-2020,Listed,"$699,000",$444,MLSListings
+215,7558-Morevern-Cir_San-Jose_CA_95135_M23102-67427,2bed,2bath,"1,572sqft",01-03-2014,Sold,"$530,000",$337,MLSListings
+216,7558-Morevern-Cir_San-Jose_CA_95135_M23102-67427,2bed,2bath,"1,572sqft",11/29/2013,Relisted,"$525,000",$333,MLSListings
+217,7558-Morevern-Cir_San-Jose_CA_95135_M23102-67427,2bed,2bath,"1,572sqft",10/22/2013,Listed,"$525,000",$333,MLSListings
+218,7558-Morevern-Cir_San-Jose_CA_95135_M23102-67427,2bed,2bath,"1,572sqft",10/22/2013,Listed,"$525,000",$333,MLSListings
+219,374-Coyote-Creek-Cir_San-Jose_CA_95116_M14424-57349,2bed,2bath,849sqft,10-08-2020,Listed,"$539,000",$634,MLSListings
+220,374-Coyote-Creek-Cir_San-Jose_CA_95116_M14424-57349,2bed,2bath,849sqft,12-04-2018,Sold,"$505,000",$594,SanDiegoCountySPN
+221,374-Coyote-Creek-Cir_San-Jose_CA_95116_M14424-57349,2bed,2bath,849sqft,10/30/2018,Listed,"$499,000",$587,SanDiegoCountySPN
+222,374-Coyote-Creek-Cir_San-Jose_CA_95116_M14424-57349,2bed,2bath,849sqft,10/30/2018,Listed,"$499,000",$587,MLSListings
+223,374-Coyote-Creek-Cir_San-Jose_CA_95116_M14424-57349,2bed,2bath,849sqft,10/31/1985,Sold,"$92,000",$108,Public Record
+224,374-Coyote-Creek-Cir_San-Jose_CA_95116_M14424-57349,2bed,2bath,849sqft,10-08-2020,Listed,"$539,000",$634,MLSListings
+225,374-Coyote-Creek-Cir_San-Jose_CA_95116_M14424-57349,2bed,2bath,849sqft,12-04-2018,Sold,"$505,000",$594,SanDiegoCountySPN
+226,374-Coyote-Creek-Cir_San-Jose_CA_95116_M14424-57349,2bed,2bath,849sqft,10/30/2018,Listed,"$499,000",$587,SanDiegoCountySPN
+227,374-Coyote-Creek-Cir_San-Jose_CA_95116_M14424-57349,2bed,2bath,849sqft,10/30/2018,Listed,"$499,000",$587,MLSListings
+228,374-Coyote-Creek-Cir_San-Jose_CA_95116_M14424-57349,2bed,2bath,849sqft,10/31/1985,Sold,"$92,000",$108,Public Record
+229,1534-Willowgate-Dr_San-Jose_CA_95118_M13647-35115,4bed,2bath,"1,233sqft",10-12-2020,Listed,"$950,000",$770,MLSListings
+230,1534-Willowgate-Dr_San-Jose_CA_95118_M13647-35115,4bed,2bath,"1,233sqft",10-12-2020,Listed,"$950,000",$770,MLSListings
+231,3681-Manda-Dr_San-Jose_CA_95124_M14798-76727,3bed,2bath,"1,309sqft",10-09-2020,Listed,"$1,235,000",$943,MLSListings
+232,3681-Manda-Dr_San-Jose_CA_95124_M14798-76727,3bed,2bath,"1,309sqft",03/15/2016,Sold,"$1,000,000",$763,MLSListings
+233,3681-Manda-Dr_San-Jose_CA_95124_M14798-76727,3bed,2bath,"1,309sqft",02-12-2016,Listed,"$899,990",$687,MLSListings
+234,3681-Manda-Dr_San-Jose_CA_95124_M14798-76727,3bed,2bath,"1,309sqft",02-12-2016,Listed,"$899,990",$687,MLSListings
+235,3681-Manda-Dr_San-Jose_CA_95124_M14798-76727,3bed,2bath,"1,309sqft",12/23/2004,Sold,"$610,000",$466,Public Record
+236,3681-Manda-Dr_San-Jose_CA_95124_M14798-76727,3bed,2bath,"1,309sqft",09/17/1976,Sold,"$48,700",$37,Public Record
+237,3681-Manda-Dr_San-Jose_CA_95124_M14798-76727,3bed,2bath,"1,309sqft",10-09-2020,Listed,"$1,235,000",$943,MLSListings
+238,3681-Manda-Dr_San-Jose_CA_95124_M14798-76727,3bed,2bath,"1,309sqft",03/15/2016,Sold,"$1,000,000",$763,MLSListings
+239,3681-Manda-Dr_San-Jose_CA_95124_M14798-76727,3bed,2bath,"1,309sqft",02-12-2016,Listed,"$899,990",$687,MLSListings
+240,3681-Manda-Dr_San-Jose_CA_95124_M14798-76727,3bed,2bath,"1,309sqft",02-12-2016,Listed,"$899,990",$687,MLSListings
+241,3681-Manda-Dr_San-Jose_CA_95124_M14798-76727,3bed,2bath,"1,309sqft",12/23/2004,Sold,"$610,000",$466,Public Record
+242,3681-Manda-Dr_San-Jose_CA_95124_M14798-76727,3bed,2bath,"1,309sqft",09/17/1976,Sold,"$48,700",$37,Public Record
+243,1707-Chesterton-Cir_San-Jose_CA_95133_M22029-80704,4bed,3bath,"1,707sqft",10-10-2020,Listed,"$1,150,888",$674,MLSListings
+244,1707-Chesterton-Cir_San-Jose_CA_95133_M22029-80704,4bed,3bath,"1,707sqft",11/27/2017,Sold,"$1,136,000",$665,Public Record
+245,1707-Chesterton-Cir_San-Jose_CA_95133_M22029-80704,4bed,3bath,"1,707sqft",05/30/2003,Sold,"$490,000",$286,Public Record
+246,1707-Chesterton-Cir_San-Jose_CA_95133_M22029-80704,4bed,3bath,"1,707sqft",05-03-2001,Sold,"$260,000",$152,Public Record
+247,1707-Chesterton-Cir_San-Jose_CA_95133_M22029-80704,4bed,3bath,"1,707sqft",04/16/1998,Sold,"$257,000",$150,Public Record
+248,1707-Chesterton-Cir_San-Jose_CA_95133_M22029-80704,4bed,3bath,"1,707sqft",07/13/1994,Sold,"$245,000",$143,Public Record
+249,1707-Chesterton-Cir_San-Jose_CA_95133_M22029-80704,4bed,3bath,"1,707sqft",10-10-2020,Listed,"$1,150,888",$674,MLSListings
+250,1707-Chesterton-Cir_San-Jose_CA_95133_M22029-80704,4bed,3bath,"1,707sqft",11/27/2017,Sold,"$1,136,000",$665,Public Record
+251,1707-Chesterton-Cir_San-Jose_CA_95133_M22029-80704,4bed,3bath,"1,707sqft",05/30/2003,Sold,"$490,000",$286,Public Record
+252,1707-Chesterton-Cir_San-Jose_CA_95133_M22029-80704,4bed,3bath,"1,707sqft",05-03-2001,Sold,"$260,000",$152,Public Record
+253,1707-Chesterton-Cir_San-Jose_CA_95133_M22029-80704,4bed,3bath,"1,707sqft",04/16/1998,Sold,"$257,000",$150,Public Record
+254,1707-Chesterton-Cir_San-Jose_CA_95133_M22029-80704,4bed,3bath,"1,707sqft",07/13/1994,Sold,"$245,000",$143,Public Record
+255,1334-Garrans-Dr_San-Jose_CA_95130_M20827-86667,3bed,2bath,"1,368sqft",10-09-2020,Listed,"$1,399,000","$1,022",MLSListings
+256,1334-Garrans-Dr_San-Jose_CA_95130_M20827-86667,3bed,2bath,"1,368sqft",11/20/1987,Sold,"$173,000",$126,Public Record
+257,1334-Garrans-Dr_San-Jose_CA_95130_M20827-86667,3bed,2bath,"1,368sqft",10-09-2020,Listed,"$1,399,000","$1,022",MLSListings
+258,1334-Garrans-Dr_San-Jose_CA_95130_M20827-86667,3bed,2bath,"1,368sqft",11/20/1987,Sold,"$173,000",$126,Public Record
+259,130-E-San-Fernando-St-Apt-420_San-Jose_CA_95112_M28214-36136,2bed,2bath,"1,622sqft",10-09-2020,Listed,"$825,000",$508,MLSListings
+260,130-E-San-Fernando-St-Apt-420_San-Jose_CA_95112_M28214-36136,2bed,2bath,"1,622sqft",09/23/2008,Sold,"$550,000",$339,Public Record
+261,130-E-San-Fernando-St-Apt-420_San-Jose_CA_95112_M28214-36136,2bed,2bath,"1,622sqft",11/27/2000,Sold,"$413,000",$254,Public Record
+262,130-E-San-Fernando-St-Apt-420_San-Jose_CA_95112_M28214-36136,2bed,2bath,"1,622sqft",10-09-2020,Listed,"$825,000",$508,MLSListings
+263,130-E-San-Fernando-St-Apt-420_San-Jose_CA_95112_M28214-36136,2bed,2bath,"1,622sqft",09/23/2008,Sold,"$550,000",$339,Public Record
+264,130-E-San-Fernando-St-Apt-420_San-Jose_CA_95112_M28214-36136,2bed,2bath,"1,622sqft",11/27/2000,Sold,"$413,000",$254,Public Record
+265,824-Blossom-Hill-Rd-Apt-3_San-Jose_CA_95123_M12783-34287,2bed,1bath,903sqft,10-08-2020,Listed,"$449,999",$498,MLSListings
+266,824-Blossom-Hill-Rd-Apt-3_San-Jose_CA_95123_M12783-34287,2bed,1bath,903sqft,09/17/2020,Listed,"$449,999",$498,MLSListings
+267,824-Blossom-Hill-Rd-Apt-3_San-Jose_CA_95123_M12783-34287,2bed,1bath,903sqft,07/25/1997,Sold,"$108,000",$119,Public Record
+268,824-Blossom-Hill-Rd-Apt-3_San-Jose_CA_95123_M12783-34287,2bed,1bath,903sqft,10/26/1979,Sold,"$52,000",$57,Public Record
+269,824-Blossom-Hill-Rd-Apt-3_San-Jose_CA_95123_M12783-34287,2bed,1bath,903sqft,10-08-2020,Listed,"$449,999",$498,MLSListings
+270,824-Blossom-Hill-Rd-Apt-3_San-Jose_CA_95123_M12783-34287,2bed,1bath,903sqft,09/17/2020,Listed,"$449,999",$498,MLSListings
+271,824-Blossom-Hill-Rd-Apt-3_San-Jose_CA_95123_M12783-34287,2bed,1bath,903sqft,07/25/1997,Sold,"$108,000",$119,Public Record
+272,824-Blossom-Hill-Rd-Apt-3_San-Jose_CA_95123_M12783-34287,2bed,1bath,903sqft,10/26/1979,Sold,"$52,000",$57,Public Record
+273,3301-Cannongate-Ct_San-Jose_CA_95121_M26222-72418,2bed,1bath,826sqft,10-10-2020,Listed,"$559,000",$676,MLSListings
+274,3301-Cannongate-Ct_San-Jose_CA_95121_M26222-72418,2bed,1bath,826sqft,12/13/2016,Price Changed for rent,"$2,395",$2,RentlinxUnits
+275,3301-Cannongate-Ct_San-Jose_CA_95121_M26222-72418,2bed,1bath,826sqft,08/24/2015,Sold,"$411,000",$497,MLSListings
+276,3301-Cannongate-Ct_San-Jose_CA_95121_M26222-72418,2bed,1bath,826sqft,07/17/2015,Listed,"$360,000",$435,MLSListings
+277,3301-Cannongate-Ct_San-Jose_CA_95121_M26222-72418,2bed,1bath,826sqft,07/17/2015,Listed,"$360,000",$435,MLSListings
+278,3301-Cannongate-Ct_San-Jose_CA_95121_M26222-72418,2bed,1bath,826sqft,04/29/2005,Sold,"$370,000",$447,Public Record
+279,3301-Cannongate-Ct_San-Jose_CA_95121_M26222-72418,2bed,1bath,826sqft,04/25/1996,Sold,"$114,000",$138,Public Record
+280,3301-Cannongate-Ct_San-Jose_CA_95121_M26222-72418,2bed,1bath,826sqft,05/16/1989,Sold,"$123,000",$148,Public Record
+281,3301-Cannongate-Ct_San-Jose_CA_95121_M26222-72418,2bed,1bath,826sqft,,,,,
+282,3301-Cannongate-Ct_San-Jose_CA_95121_M26222-72418,2bed,1bath,826sqft,10-10-2020,Listed,"$559,000",$676,MLSListings
+283,3301-Cannongate-Ct_San-Jose_CA_95121_M26222-72418,2bed,1bath,826sqft,12/13/2016,Price Changed for rent,"$2,395",$2,RentlinxUnits
+284,3301-Cannongate-Ct_San-Jose_CA_95121_M26222-72418,2bed,1bath,826sqft,08/24/2015,Sold,"$411,000",$497,MLSListings
+285,3301-Cannongate-Ct_San-Jose_CA_95121_M26222-72418,2bed,1bath,826sqft,07/17/2015,Listed,"$360,000",$435,MLSListings
+286,3301-Cannongate-Ct_San-Jose_CA_95121_M26222-72418,2bed,1bath,826sqft,07/17/2015,Listed,"$360,000",$435,MLSListings
+287,3301-Cannongate-Ct_San-Jose_CA_95121_M26222-72418,2bed,1bath,826sqft,04/29/2005,Sold,"$370,000",$447,Public Record
+288,3301-Cannongate-Ct_San-Jose_CA_95121_M26222-72418,2bed,1bath,826sqft,04/25/1996,Sold,"$114,000",$138,Public Record
+289,3301-Cannongate-Ct_San-Jose_CA_95121_M26222-72418,2bed,1bath,826sqft,05/16/1989,Sold,"$123,000",$148,Public Record
+290,3301-Cannongate-Ct_San-Jose_CA_95121_M26222-72418,2bed,1bath,826sqft,,,,,
+291,3176-Vinifera-Dr_San-Jose_CA_95135_M27392-50211,3bed,2.5bath,"1,628sqft",10-10-2020,Listed,"$1,049,000",$644,BayEast
+292,3176-Vinifera-Dr_San-Jose_CA_95135_M27392-50211,3bed,2.5bath,"1,628sqft",10-09-2020,Listed,"$1,049,000",$644,BayEast
+293,3176-Vinifera-Dr_San-Jose_CA_95135_M27392-50211,3bed,2.5bath,"1,628sqft",09-04-2020,Listed,"$1,088,000",$668,BayEast
+294,3176-Vinifera-Dr_San-Jose_CA_95135_M27392-50211,3bed,2.5bath,"1,628sqft",08-01-2020,Listed,"$1,088,000",$668,BayEast
+295,3176-Vinifera-Dr_San-Jose_CA_95135_M27392-50211,3bed,2.5bath,"1,628sqft",07/31/2020,Listed,"$1,088,000",$668,MLSListings
+296,3176-Vinifera-Dr_San-Jose_CA_95135_M27392-50211,3bed,2.5bath,"1,628sqft",08-10-2012,Sold,"$560,000",$343,MLSListings
+297,3176-Vinifera-Dr_San-Jose_CA_95135_M27392-50211,3bed,2.5bath,"1,628sqft",06-12-2012,Listed,"$567,000",$348,MLSListings
+298,3176-Vinifera-Dr_San-Jose_CA_95135_M27392-50211,3bed,2.5bath,"1,628sqft",05-11-2012,Listed,"$567,000",$348,MLSListings
+299,3176-Vinifera-Dr_San-Jose_CA_95135_M27392-50211,3bed,2.5bath,"1,628sqft",,,,,
+300,3176-Vinifera-Dr_San-Jose_CA_95135_M27392-50211,3bed,2.5bath,"1,628sqft",,,,,
+301,3176-Vinifera-Dr_San-Jose_CA_95135_M27392-50211,3bed,2.5bath,"1,628sqft",,,,,
+302,3176-Vinifera-Dr_San-Jose_CA_95135_M27392-50211,3bed,2.5bath,"1,628sqft",,,,,
+303,3176-Vinifera-Dr_San-Jose_CA_95135_M27392-50211,3bed,2.5bath,"1,628sqft",,,,,
+304,3176-Vinifera-Dr_San-Jose_CA_95135_M27392-50211,3bed,2.5bath,"1,628sqft",,,,,
+305,3176-Vinifera-Dr_San-Jose_CA_95135_M27392-50211,3bed,2.5bath,"1,628sqft",10-10-2020,Listed,"$1,049,000",$644,BayEast
+306,3176-Vinifera-Dr_San-Jose_CA_95135_M27392-50211,3bed,2.5bath,"1,628sqft",10-09-2020,Listed,"$1,049,000",$644,BayEast
+307,3176-Vinifera-Dr_San-Jose_CA_95135_M27392-50211,3bed,2.5bath,"1,628sqft",09-04-2020,Listed,"$1,088,000",$668,BayEast
+308,3176-Vinifera-Dr_San-Jose_CA_95135_M27392-50211,3bed,2.5bath,"1,628sqft",08-01-2020,Listed,"$1,088,000",$668,BayEast
+309,3176-Vinifera-Dr_San-Jose_CA_95135_M27392-50211,3bed,2.5bath,"1,628sqft",07/31/2020,Listed,"$1,088,000",$668,MLSListings
+310,3176-Vinifera-Dr_San-Jose_CA_95135_M27392-50211,3bed,2.5bath,"1,628sqft",08-10-2012,Sold,"$560,000",$343,MLSListings
+311,3176-Vinifera-Dr_San-Jose_CA_95135_M27392-50211,3bed,2.5bath,"1,628sqft",06-12-2012,Listed,"$567,000",$348,MLSListings
+312,3176-Vinifera-Dr_San-Jose_CA_95135_M27392-50211,3bed,2.5bath,"1,628sqft",05-11-2012,Listed,"$567,000",$348,MLSListings
+313,3176-Vinifera-Dr_San-Jose_CA_95135_M27392-50211,3bed,2.5bath,"1,628sqft",,,,,
+314,3176-Vinifera-Dr_San-Jose_CA_95135_M27392-50211,3bed,2.5bath,"1,628sqft",,,,,
+315,3176-Vinifera-Dr_San-Jose_CA_95135_M27392-50211,3bed,2.5bath,"1,628sqft",,,,,
+316,3176-Vinifera-Dr_San-Jose_CA_95135_M27392-50211,3bed,2.5bath,"1,628sqft",,,,,
+317,3176-Vinifera-Dr_San-Jose_CA_95135_M27392-50211,3bed,2.5bath,"1,628sqft",,,,,
+318,3176-Vinifera-Dr_San-Jose_CA_95135_M27392-50211,3bed,2.5bath,"1,628sqft",,,,,
+319,1112-Sultana-Dr_San-Jose_CA_95122_M13143-40188,3bed,2bath,"1,368sqft",10-08-2020,Listed,"$838,000",$612,MLSListings
+320,1112-Sultana-Dr_San-Jose_CA_95122_M13143-40188,3bed,2bath,"1,368sqft",12-10-2015,Sold,"$535,000",$391,MLSListings
+321,1112-Sultana-Dr_San-Jose_CA_95122_M13143-40188,3bed,2bath,"1,368sqft",10-07-2015,Listed,"$550,000",$402,MLSListings
+322,1112-Sultana-Dr_San-Jose_CA_95122_M13143-40188,3bed,2bath,"1,368sqft",07/28/2015,Listed,"$550,000",$402,MLSListings
+323,1112-Sultana-Dr_San-Jose_CA_95122_M13143-40188,3bed,2bath,"1,368sqft",10-08-2020,Listed,"$838,000",$612,MLSListings
+324,1112-Sultana-Dr_San-Jose_CA_95122_M13143-40188,3bed,2bath,"1,368sqft",12-10-2015,Sold,"$535,000",$391,MLSListings
+325,1112-Sultana-Dr_San-Jose_CA_95122_M13143-40188,3bed,2bath,"1,368sqft",10-07-2015,Listed,"$550,000",$402,MLSListings
+326,1112-Sultana-Dr_San-Jose_CA_95122_M13143-40188,3bed,2bath,"1,368sqft",07/28/2015,Listed,"$550,000",$402,MLSListings
+327,3210-Gatelight-Ct_San-Jose_CA_95148_M26543-98809,4bed,3bath,"2,021sqft",10-09-2020,Listed,"$1,350,000",$667,MLSListings
+328,3210-Gatelight-Ct_San-Jose_CA_95148_M26543-98809,4bed,3bath,"2,021sqft",10-09-2020,Listed,"$1,350,000",$667,MLSListings
+329,1777-Whispering-Willow-Pl_San-Jose_CA_95125_M25592-39262,4bed,2.5bath,"2,949sqft",10-09-2020,Listed,"$1,798,000",$609,MLSListings
+330,1777-Whispering-Willow-Pl_San-Jose_CA_95125_M25592-39262,4bed,2.5bath,"2,949sqft",10-09-2020,Listed,"$1,798,000",$609,MLSListings
+331,3151-Arroba-Way_San-Jose_CA_95118_M10747-80188,4bed,1bath,"1,140sqft",10-09-2020,Listed,"$1,089,000",$955,BayEast
+332,3151-Arroba-Way_San-Jose_CA_95118_M10747-80188,4bed,1bath,"1,140sqft",07-10-2020,Sold,"$895,000",$785,MLSListings
+333,3151-Arroba-Way_San-Jose_CA_95118_M10747-80188,4bed,1bath,"1,140sqft",07-02-2020,Price Changed,"$899,000",$788,MLSListings
+334,3151-Arroba-Way_San-Jose_CA_95118_M10747-80188,4bed,1bath,"1,140sqft",04/25/2020,Listed,"$928,000",$814,MLSListings
+335,3151-Arroba-Way_San-Jose_CA_95118_M10747-80188,4bed,1bath,"1,140sqft",02-06-2019,Sold,"$875,000",$767,SanDiegoCountySPN
+336,3151-Arroba-Way_San-Jose_CA_95118_M10747-80188,4bed,1bath,"1,140sqft",01/14/2019,Price Changed,"$865,000",$758,MLSListings
+337,3151-Arroba-Way_San-Jose_CA_95118_M10747-80188,4bed,1bath,"1,140sqft",12/26/2018,Price Changed,"$899,000",$788,MLSListings
+338,3151-Arroba-Way_San-Jose_CA_95118_M10747-80188,4bed,1bath,"1,140sqft",11/27/2018,Listed,"$939,980",$824,MLSListings
+339,3151-Arroba-Way_San-Jose_CA_95118_M10747-80188,4bed,1bath,"1,140sqft",10-09-2020,Listed,"$1,089,000",$955,BayEast
+340,3151-Arroba-Way_San-Jose_CA_95118_M10747-80188,4bed,1bath,"1,140sqft",07-10-2020,Sold,"$895,000",$785,MLSListings
+341,3151-Arroba-Way_San-Jose_CA_95118_M10747-80188,4bed,1bath,"1,140sqft",07-02-2020,Price Changed,"$899,000",$788,MLSListings
+342,3151-Arroba-Way_San-Jose_CA_95118_M10747-80188,4bed,1bath,"1,140sqft",04/25/2020,Listed,"$928,000",$814,MLSListings
+343,3151-Arroba-Way_San-Jose_CA_95118_M10747-80188,4bed,1bath,"1,140sqft",02-06-2019,Sold,"$875,000",$767,SanDiegoCountySPN
+344,3151-Arroba-Way_San-Jose_CA_95118_M10747-80188,4bed,1bath,"1,140sqft",01/14/2019,Price Changed,"$865,000",$758,MLSListings
+345,3151-Arroba-Way_San-Jose_CA_95118_M10747-80188,4bed,1bath,"1,140sqft",12/26/2018,Price Changed,"$899,000",$788,MLSListings
+346,3151-Arroba-Way_San-Jose_CA_95118_M10747-80188,4bed,1bath,"1,140sqft",11/27/2018,Listed,"$939,980",$824,MLSListings
+347,5378-Studebaker-Cir_San-Jose_CA_95136_M29376-79983,3bed,3bath,"1,347sqft",10-10-2020,Price Changed,"$974,000",$723,MLSListings
+348,5378-Studebaker-Cir_San-Jose_CA_95136_M29376-79983,3bed,3bath,"1,347sqft",10-09-2020,Listed,"$949,999",$705,MLSListings
+349,5378-Studebaker-Cir_San-Jose_CA_95136_M29376-79983,3bed,3bath,"1,347sqft",03/24/1994,Sold,"$205,000",$152,Public Record
+350,5378-Studebaker-Cir_San-Jose_CA_95136_M29376-79983,3bed,3bath,"1,347sqft",09/29/1988,Sold,"$183,000",$135,Public Record
+351,5378-Studebaker-Cir_San-Jose_CA_95136_M29376-79983,3bed,3bath,"1,347sqft",10-10-2020,Price Changed,"$974,000",$723,MLSListings
+352,5378-Studebaker-Cir_San-Jose_CA_95136_M29376-79983,3bed,3bath,"1,347sqft",10-09-2020,Listed,"$949,999",$705,MLSListings
+353,5378-Studebaker-Cir_San-Jose_CA_95136_M29376-79983,3bed,3bath,"1,347sqft",03/24/1994,Sold,"$205,000",$152,Public Record
+354,5378-Studebaker-Cir_San-Jose_CA_95136_M29376-79983,3bed,3bath,"1,347sqft",09/29/1988,Sold,"$183,000",$135,Public Record
+355,826-Blue-Opal-Dr_San-Jose_CA_95123_M23010-07097,4bed,2.5bath,"2,030sqft",10-09-2020,Listed,"$1,169,888",$576,MLSListings
+356,826-Blue-Opal-Dr_San-Jose_CA_95123_M23010-07097,4bed,2.5bath,"2,030sqft",08/28/2014,Sold,"$939,880",$367,MLSListings
+357,826-Blue-Opal-Dr_San-Jose_CA_95123_M23010-07097,4bed,2.5bath,"2,030sqft",04-09-2014,Listed,"$939,880",$367,MLSListings
+358,826-Blue-Opal-Dr_San-Jose_CA_95123_M23010-07097,4bed,2.5bath,"2,030sqft",10-09-2020,Listed,"$1,169,888",$576,MLSListings
+359,826-Blue-Opal-Dr_San-Jose_CA_95123_M23010-07097,4bed,2.5bath,"2,030sqft",08/28/2014,Sold,"$939,880",$367,MLSListings
+360,826-Blue-Opal-Dr_San-Jose_CA_95123_M23010-07097,4bed,2.5bath,"2,030sqft",04-09-2014,Listed,"$939,880",$367,MLSListings
+361,165-Blossom-Hill-Rd-Spc-206_San-Jose_CA_95123_M96920-64267,2bed,2bath,"1,060sqft",10-12-2020,Listed,"$189,000",$178,MyStateMLS
+362,165-Blossom-Hill-Rd-Spc-206_San-Jose_CA_95123_M96920-64267,2bed,2bath,"1,060sqft",10-11-2020,Listed,"$189,000",$178,MLSListings
+363,2722-Millbrae-Way_San-Jose_CA_95121_M14022-22727,2bed,1bath,992sqft,10-10-2020,Listed,"$698,000",$703,BayEast
+364,2722-Millbrae-Way_San-Jose_CA_95121_M14022-22727,2bed,1bath,992sqft,10-09-2020,Listed,"$698,000",$703,MLSListings
+365,2722-Millbrae-Way_San-Jose_CA_95121_M14022-22727,2bed,1bath,992sqft,06/24/1976,Sold,"$35,500",$35,Public Record
+366,2722-Millbrae-Way_San-Jose_CA_95121_M14022-22727,2bed,1bath,992sqft,10-10-2020,Listed,"$698,000",$703,BayEast
+367,2722-Millbrae-Way_San-Jose_CA_95121_M14022-22727,2bed,1bath,992sqft,10-09-2020,Listed,"$698,000",$703,MLSListings
+368,2722-Millbrae-Way_San-Jose_CA_95121_M14022-22727,2bed,1bath,992sqft,06/24/1976,Sold,"$35,500",$35,Public Record
+369,554-Toyon-Ave-Apt-11_San-Jose_CA_95127_M12983-88438,3bed,2bath,"1,419sqft",10-08-2020,Listed,"$599,888",$422,MLSListings
+370,554-Toyon-Ave-Apt-11_San-Jose_CA_95127_M12983-88438,3bed,2bath,"1,419sqft",06/20/2017,Sold,"$580,000",$408,MLSListings
+371,554-Toyon-Ave-Apt-11_San-Jose_CA_95127_M12983-88438,3bed,2bath,"1,419sqft",05/16/2017,Price Changed,"$579,999",$408,MLSListings
+372,554-Toyon-Ave-Apt-11_San-Jose_CA_95127_M12983-88438,3bed,2bath,"1,419sqft",04/13/2017,Listed,"$599,999",$422,MLSListings
+373,554-Toyon-Ave-Apt-11_San-Jose_CA_95127_M12983-88438,3bed,2bath,"1,419sqft",06/23/2014,Sold,"$410,000",$288,MLSListings
+374,554-Toyon-Ave-Apt-11_San-Jose_CA_95127_M12983-88438,3bed,2bath,"1,419sqft",05/22/2014,Price Changed,"$399,950",$281,MLSListings
+375,554-Toyon-Ave-Apt-11_San-Jose_CA_95127_M12983-88438,3bed,2bath,"1,419sqft",05-01-2014,Listed,"$420,000",$295,MLSListings
+376,554-Toyon-Ave-Apt-11_San-Jose_CA_95127_M12983-88438,3bed,2bath,"1,419sqft",05-01-2014,Listed,"$419,950",$295,MLSListings
+377,554-Toyon-Ave-Apt-11_San-Jose_CA_95127_M12983-88438,3bed,2bath,"1,419sqft",,,,,
+378,554-Toyon-Ave-Apt-11_San-Jose_CA_95127_M12983-88438,3bed,2bath,"1,419sqft",,,,,
+379,554-Toyon-Ave-Apt-11_San-Jose_CA_95127_M12983-88438,3bed,2bath,"1,419sqft",,,,,
+380,554-Toyon-Ave-Apt-11_San-Jose_CA_95127_M12983-88438,3bed,2bath,"1,419sqft",,,,,
+381,554-Toyon-Ave-Apt-11_San-Jose_CA_95127_M12983-88438,3bed,2bath,"1,419sqft",,,,,
+382,554-Toyon-Ave-Apt-11_San-Jose_CA_95127_M12983-88438,3bed,2bath,"1,419sqft",10-08-2020,Listed,"$599,888",$422,MLSListings
+383,554-Toyon-Ave-Apt-11_San-Jose_CA_95127_M12983-88438,3bed,2bath,"1,419sqft",06/20/2017,Sold,"$580,000",$408,MLSListings
+384,554-Toyon-Ave-Apt-11_San-Jose_CA_95127_M12983-88438,3bed,2bath,"1,419sqft",05/16/2017,Price Changed,"$579,999",$408,MLSListings
+385,554-Toyon-Ave-Apt-11_San-Jose_CA_95127_M12983-88438,3bed,2bath,"1,419sqft",04/13/2017,Listed,"$599,999",$422,MLSListings
+386,554-Toyon-Ave-Apt-11_San-Jose_CA_95127_M12983-88438,3bed,2bath,"1,419sqft",06/23/2014,Sold,"$410,000",$288,MLSListings
+387,554-Toyon-Ave-Apt-11_San-Jose_CA_95127_M12983-88438,3bed,2bath,"1,419sqft",05/22/2014,Price Changed,"$399,950",$281,MLSListings
+388,554-Toyon-Ave-Apt-11_San-Jose_CA_95127_M12983-88438,3bed,2bath,"1,419sqft",05-01-2014,Listed,"$420,000",$295,MLSListings
+389,554-Toyon-Ave-Apt-11_San-Jose_CA_95127_M12983-88438,3bed,2bath,"1,419sqft",05-01-2014,Listed,"$419,950",$295,MLSListings
+390,554-Toyon-Ave-Apt-11_San-Jose_CA_95127_M12983-88438,3bed,2bath,"1,419sqft",,,,,
+391,554-Toyon-Ave-Apt-11_San-Jose_CA_95127_M12983-88438,3bed,2bath,"1,419sqft",,,,,
+392,554-Toyon-Ave-Apt-11_San-Jose_CA_95127_M12983-88438,3bed,2bath,"1,419sqft",,,,,
+393,554-Toyon-Ave-Apt-11_San-Jose_CA_95127_M12983-88438,3bed,2bath,"1,419sqft",,,,,
+394,554-Toyon-Ave-Apt-11_San-Jose_CA_95127_M12983-88438,3bed,2bath,"1,419sqft",,,,,
+395,7365-Forsum-Rd_San-Jose_CA_95138_M17440-53771,4bed,3bath,"1,827sqft",10-07-2020,Listed,"$1,049,888",$574,BayEast
+396,7365-Forsum-Rd_San-Jose_CA_95138_M17440-53771,4bed,3bath,"1,827sqft",10/29/2014,Listed,"$749,888",-,ContraCosta
+397,7365-Forsum-Rd_San-Jose_CA_95138_M17440-53771,4bed,3bath,"1,827sqft",09/18/2008,Sold,"$580,000",$317,Public Record
+398,7365-Forsum-Rd_San-Jose_CA_95138_M17440-53771,4bed,3bath,"1,827sqft",09/29/2006,Sold,"$760,000",$415,Public Record
+399,7365-Forsum-Rd_San-Jose_CA_95138_M17440-53771,4bed,3bath,"1,827sqft",01-08-2004,Sold,"$515,000",$281,Public Record
+400,7365-Forsum-Rd_San-Jose_CA_95138_M17440-53771,4bed,3bath,"1,827sqft",11-10-1998,Sold,"$354,000",$193,Public Record
+401,7365-Forsum-Rd_San-Jose_CA_95138_M17440-53771,4bed,3bath,"1,827sqft",11/27/1991,Sold,"$291,500",$159,Public Record
+402,7365-Forsum-Rd_San-Jose_CA_95138_M17440-53771,4bed,3bath,"1,827sqft",10-07-2020,Listed,"$1,049,888",$574,BayEast
+403,7365-Forsum-Rd_San-Jose_CA_95138_M17440-53771,4bed,3bath,"1,827sqft",10/29/2014,Listed,"$749,888",-,ContraCosta
+404,7365-Forsum-Rd_San-Jose_CA_95138_M17440-53771,4bed,3bath,"1,827sqft",09/18/2008,Sold,"$580,000",$317,Public Record
+405,7365-Forsum-Rd_San-Jose_CA_95138_M17440-53771,4bed,3bath,"1,827sqft",09/29/2006,Sold,"$760,000",$415,Public Record
+406,7365-Forsum-Rd_San-Jose_CA_95138_M17440-53771,4bed,3bath,"1,827sqft",01-08-2004,Sold,"$515,000",$281,Public Record
+407,7365-Forsum-Rd_San-Jose_CA_95138_M17440-53771,4bed,3bath,"1,827sqft",11-10-1998,Sold,"$354,000",$193,Public Record
+408,7365-Forsum-Rd_San-Jose_CA_95138_M17440-53771,4bed,3bath,"1,827sqft",11/27/1991,Sold,"$291,500",$159,Public Record
+409,413-Cloverdale-Ln_Campbell_CA_95008_M15940-34902,3bed,2.5bath,"1,988sqft",10-08-2020,Listed,"$1,698,000",$854,MLSListings
+410,413-Cloverdale-Ln_Campbell_CA_95008_M15940-34902,3bed,2.5bath,"1,988sqft",04-10-2014,Sold,"$985,000",$603,Public Record
+411,413-Cloverdale-Ln_Campbell_CA_95008_M15940-34902,3bed,2.5bath,"1,988sqft",10/21/2004,Sold,"$707,000",$433,Public Record
+412,413-Cloverdale-Ln_Campbell_CA_95008_M15940-34902,3bed,2.5bath,"1,988sqft",08/18/1999,Sold,"$420,000",$257,Public Record
+413,413-Cloverdale-Ln_Campbell_CA_95008_M15940-34902,3bed,2.5bath,"1,988sqft",10-08-2020,Listed,"$1,698,000",$854,MLSListings
+414,413-Cloverdale-Ln_Campbell_CA_95008_M15940-34902,3bed,2.5bath,"1,988sqft",04-10-2014,Sold,"$985,000",$603,Public Record
+415,413-Cloverdale-Ln_Campbell_CA_95008_M15940-34902,3bed,2.5bath,"1,988sqft",10/21/2004,Sold,"$707,000",$433,Public Record
+416,413-Cloverdale-Ln_Campbell_CA_95008_M15940-34902,3bed,2.5bath,"1,988sqft",08/18/1999,Sold,"$420,000",$257,Public Record
+417,426-Chestnut-Park-Ct_San-Jose_CA_95136_M20923-33046,4bed,2.5bath,"2,124sqft",10-09-2020,Listed,"$1,128,888",$531,MLSListings
+418,426-Chestnut-Park-Ct_San-Jose_CA_95136_M20923-33046,4bed,2.5bath,"2,124sqft",05-07-2014,Sold,"$800,000",$376,MLSListings
+419,426-Chestnut-Park-Ct_San-Jose_CA_95136_M20923-33046,4bed,2.5bath,"2,124sqft",04-11-2014,Listed,"$815,000",$383,MLSListings
+420,426-Chestnut-Park-Ct_San-Jose_CA_95136_M20923-33046,4bed,2.5bath,"2,124sqft",10-09-2020,Listed,"$1,128,888",$531,MLSListings
+421,426-Chestnut-Park-Ct_San-Jose_CA_95136_M20923-33046,4bed,2.5bath,"2,124sqft",05-07-2014,Sold,"$800,000",$376,MLSListings
+422,426-Chestnut-Park-Ct_San-Jose_CA_95136_M20923-33046,4bed,2.5bath,"2,124sqft",04-11-2014,Listed,"$815,000",$383,MLSListings
+423,5726-San-Lorenzo-Dr_San-Jose_CA_95123_M21223-33353,4bed,2bath,"1,530sqft",10-08-2020,Listed,"$869,000",$567,MLSListings
+424,5726-San-Lorenzo-Dr_San-Jose_CA_95123_M21223-33353,4bed,2bath,"1,530sqft",10-08-2020,Listed,"$869,000",$567,MLSListings
+425,3306-Mosscreek-Ln_San-Jose_CA_95121_M22481-10984,2bed,1.5bath,"1,008sqft",10-09-2020,Listed,"$555,000",$550,MLSListings
+426,3306-Mosscreek-Ln_San-Jose_CA_95121_M22481-10984,2bed,1.5bath,"1,008sqft",12-05-2003,Sold,"$313,000",$310,Public Record
+427,3306-Mosscreek-Ln_San-Jose_CA_95121_M22481-10984,2bed,1.5bath,"1,008sqft",12/19/1990,Sold,"$132,000",$130,Public Record
+428,3306-Mosscreek-Ln_San-Jose_CA_95121_M22481-10984,2bed,1.5bath,"1,008sqft",06/21/1988,Sold,"$98,000",$97,Public Record
+429,3306-Mosscreek-Ln_San-Jose_CA_95121_M22481-10984,2bed,1.5bath,"1,008sqft",10-09-2020,Listed,"$555,000",$550,MLSListings
+430,3306-Mosscreek-Ln_San-Jose_CA_95121_M22481-10984,2bed,1.5bath,"1,008sqft",12-05-2003,Sold,"$313,000",$310,Public Record
+431,3306-Mosscreek-Ln_San-Jose_CA_95121_M22481-10984,2bed,1.5bath,"1,008sqft",12/19/1990,Sold,"$132,000",$130,Public Record
+432,3306-Mosscreek-Ln_San-Jose_CA_95121_M22481-10984,2bed,1.5bath,"1,008sqft",06/21/1988,Sold,"$98,000",$97,Public Record
+433,36-Avenida-Espana_San-Jose_CA_95139_M19818-07335,4bed,1.5bath,"1,360sqft",10-08-2020,Listed,"$959,000",$705,MLSListings
+434,36-Avenida-Espana_San-Jose_CA_95139_M19818-07335,4bed,1.5bath,"1,360sqft",01/13/2014,Sold,"$511,000",$375,MLSListings
+435,36-Avenida-Espana_San-Jose_CA_95139_M19818-07335,4bed,1.5bath,"1,360sqft",06/18/2013,Sold,"$511,000",$375,Public Record
+436,36-Avenida-Espana_San-Jose_CA_95139_M19818-07335,4bed,1.5bath,"1,360sqft",05-09-2013,Listed,"$500,000",$367,MLSListings
+437,36-Avenida-Espana_San-Jose_CA_95139_M19818-07335,4bed,1.5bath,"1,360sqft",03/18/2011,Sold,"$430,000",$316,MLSListings
+438,36-Avenida-Espana_San-Jose_CA_95139_M19818-07335,4bed,1.5bath,"1,360sqft",04/30/2010,Price Changed,"$425,000",$312,MLSListings
+439,36-Avenida-Espana_San-Jose_CA_95139_M19818-07335,4bed,1.5bath,"1,360sqft",04/19/2010,Price Changed,"$446,000",$327,MLSListings
+440,36-Avenida-Espana_San-Jose_CA_95139_M19818-07335,4bed,1.5bath,"1,360sqft",03/30/2010,Listed,"$464,000",$341,MLSListings
+441,36-Avenida-Espana_San-Jose_CA_95139_M19818-07335,4bed,1.5bath,"1,360sqft",,,,,
+442,36-Avenida-Espana_San-Jose_CA_95139_M19818-07335,4bed,1.5bath,"1,360sqft",,,,,
+443,36-Avenida-Espana_San-Jose_CA_95139_M19818-07335,4bed,1.5bath,"1,360sqft",,,,,
+444,36-Avenida-Espana_San-Jose_CA_95139_M19818-07335,4bed,1.5bath,"1,360sqft",,,,,
+445,36-Avenida-Espana_San-Jose_CA_95139_M19818-07335,4bed,1.5bath,"1,360sqft",10-08-2020,Listed,"$959,000",$705,MLSListings
+446,36-Avenida-Espana_San-Jose_CA_95139_M19818-07335,4bed,1.5bath,"1,360sqft",01/13/2014,Sold,"$511,000",$375,MLSListings
+447,36-Avenida-Espana_San-Jose_CA_95139_M19818-07335,4bed,1.5bath,"1,360sqft",06/18/2013,Sold,"$511,000",$375,Public Record
+448,36-Avenida-Espana_San-Jose_CA_95139_M19818-07335,4bed,1.5bath,"1,360sqft",05-09-2013,Listed,"$500,000",$367,MLSListings
+449,36-Avenida-Espana_San-Jose_CA_95139_M19818-07335,4bed,1.5bath,"1,360sqft",03/18/2011,Sold,"$430,000",$316,MLSListings
+450,36-Avenida-Espana_San-Jose_CA_95139_M19818-07335,4bed,1.5bath,"1,360sqft",04/30/2010,Price Changed,"$425,000",$312,MLSListings
+451,36-Avenida-Espana_San-Jose_CA_95139_M19818-07335,4bed,1.5bath,"1,360sqft",04/19/2010,Price Changed,"$446,000",$327,MLSListings
+452,36-Avenida-Espana_San-Jose_CA_95139_M19818-07335,4bed,1.5bath,"1,360sqft",03/30/2010,Listed,"$464,000",$341,MLSListings
+453,36-Avenida-Espana_San-Jose_CA_95139_M19818-07335,4bed,1.5bath,"1,360sqft",,,,,
+454,36-Avenida-Espana_San-Jose_CA_95139_M19818-07335,4bed,1.5bath,"1,360sqft",,,,,
+455,36-Avenida-Espana_San-Jose_CA_95139_M19818-07335,4bed,1.5bath,"1,360sqft",,,,,
+456,36-Avenida-Espana_San-Jose_CA_95139_M19818-07335,4bed,1.5bath,"1,360sqft",,,,,
+457,88-E-San-Fernando-St-Unit-1806_San-Jose_CA_95113_M14260-94542,Studio,1bath,673sqft,10-10-2020,Listed,"$589,000",$875,SanFrancisco
+458,88-E-San-Fernando-St-Unit-1806_San-Jose_CA_95113_M14260-94542,Studio,1bath,673sqft,10-09-2020,Listed,"$589,000",$875,MLSListings
+459,88-E-San-Fernando-St-Unit-1806_San-Jose_CA_95113_M14260-94542,Studio,1bath,673sqft,09/19/2012,Sold,"$338,000",$502,Public Record
+460,88-E-San-Fernando-St-Unit-1806_San-Jose_CA_95113_M14260-94542,Studio,1bath,673sqft,10-10-2020,Listed,"$589,000",$875,SanFrancisco
+461,88-E-San-Fernando-St-Unit-1806_San-Jose_CA_95113_M14260-94542,Studio,1bath,673sqft,10-09-2020,Listed,"$589,000",$875,MLSListings
+462,88-E-San-Fernando-St-Unit-1806_San-Jose_CA_95113_M14260-94542,Studio,1bath,673sqft,09/19/2012,Sold,"$338,000",$502,Public Record
+463,3449-Cedardale-Dr_San-Jose_CA_95148_M15006-50304,4bed,2.5bath,"2,516sqft",10-09-2020,Listed,"$1,348,000",$535,BayEast
+464,3449-Cedardale-Dr_San-Jose_CA_95148_M15006-50304,4bed,2.5bath,"2,516sqft",10-09-2020,Listed,"$1,348,000",$535,MLSListings
+465,3449-Cedardale-Dr_San-Jose_CA_95148_M15006-50304,4bed,2.5bath,"2,516sqft",04/24/1997,Sold,"$379,000",$150,Public Record
+466,3449-Cedardale-Dr_San-Jose_CA_95148_M15006-50304,4bed,2.5bath,"2,516sqft",12-03-1993,Sold,"$330,000",$131,Public Record
+467,3449-Cedardale-Dr_San-Jose_CA_95148_M15006-50304,4bed,2.5bath,"2,516sqft",10-09-2020,Listed,"$1,348,000",$535,BayEast
+468,3449-Cedardale-Dr_San-Jose_CA_95148_M15006-50304,4bed,2.5bath,"2,516sqft",10-09-2020,Listed,"$1,348,000",$535,MLSListings
+469,3449-Cedardale-Dr_San-Jose_CA_95148_M15006-50304,4bed,2.5bath,"2,516sqft",04/24/1997,Sold,"$379,000",$150,Public Record
+470,3449-Cedardale-Dr_San-Jose_CA_95148_M15006-50304,4bed,2.5bath,"2,516sqft",12-03-1993,Sold,"$330,000",$131,Public Record
+471,5262-Camden-Ave_San-Jose_CA_95124_M13091-53221,3bed,2bath,"1,372sqft",10-08-2020,Listed,"$1,249,000",$910,MLSListings
+472,5262-Camden-Ave_San-Jose_CA_95124_M13091-53221,3bed,2bath,"1,372sqft",12-08-2016,Sold,"$755,000",$550,MLSListings
+473,5262-Camden-Ave_San-Jose_CA_95124_M13091-53221,3bed,2bath,"1,372sqft",09/19/2016,Sold,"$755,100",$550,Public Record
+474,5262-Camden-Ave_San-Jose_CA_95124_M13091-53221,3bed,2bath,"1,372sqft",08/19/2016,Price Changed,"$749,999",$546,MLSListings
+475,5262-Camden-Ave_San-Jose_CA_95124_M13091-53221,3bed,2bath,"1,372sqft",07/25/2016,Listed,"$899,000",$655,MLSListings
+476,5262-Camden-Ave_San-Jose_CA_95124_M13091-53221,3bed,2bath,"1,372sqft",01/21/1977,Sold,"$54,000",$39,Public Record
+477,5262-Camden-Ave_San-Jose_CA_95124_M13091-53221,3bed,2bath,"1,372sqft",10-08-2020,Listed,"$1,249,000",$910,MLSListings
+478,5262-Camden-Ave_San-Jose_CA_95124_M13091-53221,3bed,2bath,"1,372sqft",12-08-2016,Sold,"$755,000",$550,MLSListings
+479,5262-Camden-Ave_San-Jose_CA_95124_M13091-53221,3bed,2bath,"1,372sqft",09/19/2016,Sold,"$755,100",$550,Public Record
+480,5262-Camden-Ave_San-Jose_CA_95124_M13091-53221,3bed,2bath,"1,372sqft",08/19/2016,Price Changed,"$749,999",$546,MLSListings
+481,5262-Camden-Ave_San-Jose_CA_95124_M13091-53221,3bed,2bath,"1,372sqft",07/25/2016,Listed,"$899,000",$655,MLSListings
+482,5262-Camden-Ave_San-Jose_CA_95124_M13091-53221,3bed,2bath,"1,372sqft",01/21/1977,Sold,"$54,000",$39,Public Record
+483,2730-Viterbo-Ct-Unit-2_San-Jose_CA_95111_M97660-74744,2bed,2.5bath,"1,303sqft",10-10-2020,Listed,"$739,000",$567,BayEast
+484,2730-Viterbo-Ct-Unit-2_San-Jose_CA_95111_M97660-74744,2bed,2.5bath,"1,303sqft",10-10-2020,Listed,"$739,000",$567,MLSListings
+485,2730-Viterbo-Ct-Unit-2_San-Jose_CA_95111_M97660-74744,2bed,2.5bath,"1,303sqft",08/20/2020,Listed,"$749,000",$574,MLSListings
+486,2730-Viterbo-Ct-Unit-2_San-Jose_CA_95111_M97660-74744,2bed,2.5bath,"1,303sqft",08/19/2020,Price Changed,"$749,000",$574,BayEast
+487,2730-Viterbo-Ct-Unit-2_San-Jose_CA_95111_M97660-74744,2bed,2.5bath,"1,303sqft",07/30/2020,Listed,"$759,000",$582,BayEast
+488,2730-Viterbo-Ct-Unit-2_San-Jose_CA_95111_M97660-74744,2bed,2.5bath,"1,303sqft",10-10-2020,Listed,"$739,000",$567,BayEast
+489,2730-Viterbo-Ct-Unit-2_San-Jose_CA_95111_M97660-74744,2bed,2.5bath,"1,303sqft",10-10-2020,Listed,"$739,000",$567,MLSListings
+490,2730-Viterbo-Ct-Unit-2_San-Jose_CA_95111_M97660-74744,2bed,2.5bath,"1,303sqft",08/20/2020,Listed,"$749,000",$574,MLSListings
+491,2730-Viterbo-Ct-Unit-2_San-Jose_CA_95111_M97660-74744,2bed,2.5bath,"1,303sqft",08/19/2020,Price Changed,"$749,000",$574,BayEast
+492,2730-Viterbo-Ct-Unit-2_San-Jose_CA_95111_M97660-74744,2bed,2.5bath,"1,303sqft",07/30/2020,Listed,"$759,000",$582,BayEast
+493,427-Coakley-Dr_San-Jose_CA_95117_M19797-52634,3bed,2bath,"1,488sqft",10-08-2020,Listed,"$1,225,000",$823,BayEast
+494,427-Coakley-Dr_San-Jose_CA_95117_M19797-52634,3bed,2bath,"1,488sqft",07/23/2020,Price Changed,"$1,299,000",$872,MLSListings
+495,427-Coakley-Dr_San-Jose_CA_95117_M19797-52634,3bed,2bath,"1,488sqft",07-11-2020,Price Changed,"$1,380,000",$927,MLSListings
+496,427-Coakley-Dr_San-Jose_CA_95117_M19797-52634,3bed,2bath,"1,488sqft",06/27/2020,Listed,"$1,400,000",$940,MLSListings
+497,427-Coakley-Dr_San-Jose_CA_95117_M19797-52634,3bed,2bath,"1,488sqft",03/29/2020,Listed,"$1,450,000",$974,MLSListings
+498,427-Coakley-Dr_San-Jose_CA_95117_M19797-52634,3bed,2bath,"1,488sqft",12-11-2019,Relisted,"$1,510,000","$1,014",MLSListings
+499,427-Coakley-Dr_San-Jose_CA_95117_M19797-52634,3bed,2bath,"1,488sqft",12-11-2019,Price Changed,"$1,510,000","$1,014",CRMLS
+500,427-Coakley-Dr_San-Jose_CA_95117_M19797-52634,3bed,2bath,"1,488sqft",12-10-2019,Listed,"$1,450,000",$974,CRMLS
+501,427-Coakley-Dr_San-Jose_CA_95117_M19797-52634,3bed,2bath,"1,488sqft",,,,,
+502,427-Coakley-Dr_San-Jose_CA_95117_M19797-52634,3bed,2bath,"1,488sqft",,,,,
+503,427-Coakley-Dr_San-Jose_CA_95117_M19797-52634,3bed,2bath,"1,488sqft",10-08-2020,Listed,"$1,225,000",$823,BayEast
+504,427-Coakley-Dr_San-Jose_CA_95117_M19797-52634,3bed,2bath,"1,488sqft",07/23/2020,Price Changed,"$1,299,000",$872,MLSListings
+505,427-Coakley-Dr_San-Jose_CA_95117_M19797-52634,3bed,2bath,"1,488sqft",07-11-2020,Price Changed,"$1,380,000",$927,MLSListings
+506,427-Coakley-Dr_San-Jose_CA_95117_M19797-52634,3bed,2bath,"1,488sqft",06/27/2020,Listed,"$1,400,000",$940,MLSListings
+507,427-Coakley-Dr_San-Jose_CA_95117_M19797-52634,3bed,2bath,"1,488sqft",03/29/2020,Listed,"$1,450,000",$974,MLSListings
+508,427-Coakley-Dr_San-Jose_CA_95117_M19797-52634,3bed,2bath,"1,488sqft",12-11-2019,Relisted,"$1,510,000","$1,014",MLSListings
+509,427-Coakley-Dr_San-Jose_CA_95117_M19797-52634,3bed,2bath,"1,488sqft",12-11-2019,Price Changed,"$1,510,000","$1,014",CRMLS
+510,427-Coakley-Dr_San-Jose_CA_95117_M19797-52634,3bed,2bath,"1,488sqft",12-10-2019,Listed,"$1,450,000",$974,CRMLS
+511,427-Coakley-Dr_San-Jose_CA_95117_M19797-52634,3bed,2bath,"1,488sqft",,,,,
+512,427-Coakley-Dr_San-Jose_CA_95117_M19797-52634,3bed,2bath,"1,488sqft",,,,,
+513,1068-Bigleaf-Pl-Unit-302_San-Jose_CA_95131_M26356-86014,3bed,2.5bath,"1,850sqft",10-07-2020,Listed,"$1,098,888",$593,MLSListings
+514,1068-Bigleaf-Pl-Unit-302_San-Jose_CA_95131_M26356-86014,3bed,2.5bath,"1,850sqft",10-07-2020,Listed,"$1,098,888",$593,MLSListings
+515,410-Auburn-Way-Apt-26_San-Jose_CA_95129_M11039-22155,2bed,1.5bath,"1,099sqft",10/13/2020,Listed,"$588,000",$535,MLSListings
+516,410-Auburn-Way-Apt-26_San-Jose_CA_95129_M11039-22155,2bed,1.5bath,"1,099sqft",03-04-2015,Sold,"$476,000",$433,MLSListings
+517,410-Auburn-Way-Apt-26_San-Jose_CA_95129_M11039-22155,2bed,1.5bath,"1,099sqft",12-12-2014,Listed,"$450,000",$409,MLSListings
+518,410-Auburn-Way-Apt-26_San-Jose_CA_95129_M11039-22155,2bed,1.5bath,"1,099sqft",12-12-2014,Listed,"$450,000",$409,MLSListings
+519,410-Auburn-Way-Apt-26_San-Jose_CA_95129_M11039-22155,2bed,1.5bath,"1,099sqft",05/23/2008,Sold,"$320,000",$291,Public Record
+520,410-Auburn-Way-Apt-26_San-Jose_CA_95129_M11039-22155,2bed,1.5bath,"1,099sqft",10/24/2000,Sold,"$280,000",$254,Public Record
+521,410-Auburn-Way-Apt-26_San-Jose_CA_95129_M11039-22155,2bed,1.5bath,"1,099sqft",02-06-1996,Sold,"$91,000",$82,Public Record
+522,410-Auburn-Way-Apt-26_San-Jose_CA_95129_M11039-22155,2bed,1.5bath,"1,099sqft",09/30/1988,Sold,"$91,000",$82,Public Record
+523,410-Auburn-Way-Apt-26_San-Jose_CA_95129_M11039-22155,2bed,1.5bath,"1,099sqft",10/13/2020,Listed,"$588,000",$535,MLSListings
+524,410-Auburn-Way-Apt-26_San-Jose_CA_95129_M11039-22155,2bed,1.5bath,"1,099sqft",03-04-2015,Sold,"$476,000",$433,MLSListings
+525,410-Auburn-Way-Apt-26_San-Jose_CA_95129_M11039-22155,2bed,1.5bath,"1,099sqft",12-12-2014,Listed,"$450,000",$409,MLSListings
+526,410-Auburn-Way-Apt-26_San-Jose_CA_95129_M11039-22155,2bed,1.5bath,"1,099sqft",12-12-2014,Listed,"$450,000",$409,MLSListings
+527,410-Auburn-Way-Apt-26_San-Jose_CA_95129_M11039-22155,2bed,1.5bath,"1,099sqft",05/23/2008,Sold,"$320,000",$291,Public Record
+528,410-Auburn-Way-Apt-26_San-Jose_CA_95129_M11039-22155,2bed,1.5bath,"1,099sqft",10/24/2000,Sold,"$280,000",$254,Public Record
+529,410-Auburn-Way-Apt-26_San-Jose_CA_95129_M11039-22155,2bed,1.5bath,"1,099sqft",02-06-1996,Sold,"$91,000",$82,Public Record
+530,410-Auburn-Way-Apt-26_San-Jose_CA_95129_M11039-22155,2bed,1.5bath,"1,099sqft",09/30/1988,Sold,"$91,000",$82,Public Record
+531,1495-Lee-Pl_San-Jose_CA_95131_M22858-02593,3bed,2.5bath,"1,671sqft",10-07-2020,Listed,"$998,000",$597,MLSListings
+532,1495-Lee-Pl_San-Jose_CA_95131_M22858-02593,3bed,2.5bath,"1,671sqft",07-08-2020,Listed,"$1,035,000",$619,MLSListings
+533,1495-Lee-Pl_San-Jose_CA_95131_M22858-02593,3bed,2.5bath,"1,671sqft",06/15/2017,Sold,"$880,000",$526,MLSListings
+534,1495-Lee-Pl_San-Jose_CA_95131_M22858-02593,3bed,2.5bath,"1,671sqft",05-10-2017,Listed,"$799,888",$478,MLSListings
+535,1495-Lee-Pl_San-Jose_CA_95131_M22858-02593,3bed,2.5bath,"1,671sqft",10-07-2020,Listed,"$998,000",$597,MLSListings
+536,1495-Lee-Pl_San-Jose_CA_95131_M22858-02593,3bed,2.5bath,"1,671sqft",07-08-2020,Listed,"$1,035,000",$619,MLSListings
+537,1495-Lee-Pl_San-Jose_CA_95131_M22858-02593,3bed,2.5bath,"1,671sqft",06/15/2017,Sold,"$880,000",$526,MLSListings
+538,1495-Lee-Pl_San-Jose_CA_95131_M22858-02593,3bed,2.5bath,"1,671sqft",05-10-2017,Listed,"$799,888",$478,MLSListings
+539,1953-Ceylon-Ave_San-Jose_CA_95122_M15722-67222,3bed,1.5bath,960sqft,10/13/2020,Listed,"$650,000",$677,MLSListings
+540,1953-Ceylon-Ave_San-Jose_CA_95122_M15722-67222,3bed,1.5bath,960sqft,10/13/2020,Listed,"$650,000",$677,MLSListings
+541,2150-Almaden-Rd-Spc-244_San-Jose_CA_95125_M96523-87266,3bed,2bath,"1,160sqft",10-10-2020,Listed,"$289,000",$249,MLSListings
+542,2150-Almaden-Rd-Spc-244_San-Jose_CA_95125_M96523-87266,3bed,2bath,"1,160sqft",09/17/2020,Relisted,"$289,000",$248,MyStateMLS
+543,2150-Almaden-Rd-Spc-244_San-Jose_CA_95125_M96523-87266,3bed,2bath,"1,160sqft",05-11-2020,Listed,"$289,000",$248,MLSListings
+544,2150-Almaden-Rd-Spc-244_San-Jose_CA_95125_M96523-87266,3bed,2bath,"1,160sqft",02-03-2020,Listed,"$289,000",$248,MyStateMLS
+545,4226-Siena-Ct_San-Jose_CA_95135_M13571-68202,3bed,2.5bath,"1,456sqft",10-07-2020,Listed,"$1,088,000",$747,MLSListings
+546,4226-Siena-Ct_San-Jose_CA_95135_M13571-68202,3bed,2.5bath,"1,456sqft",02/25/2005,Sold,"$678,000",$465,Public Record
+547,4226-Siena-Ct_San-Jose_CA_95135_M13571-68202,3bed,2.5bath,"1,456sqft",05/17/2001,Sold,"$493,500",$338,Public Record
+548,4226-Siena-Ct_San-Jose_CA_95135_M13571-68202,3bed,2.5bath,"1,456sqft",10-07-2020,Listed,"$1,088,000",$747,MLSListings
+549,4226-Siena-Ct_San-Jose_CA_95135_M13571-68202,3bed,2.5bath,"1,456sqft",02/25/2005,Sold,"$678,000",$465,Public Record
+550,4226-Siena-Ct_San-Jose_CA_95135_M13571-68202,3bed,2.5bath,"1,456sqft",05/17/2001,Sold,"$493,500",$338,Public Record
+551,686-Webster-Dr_San-Jose_CA_95133_M11437-36703,4bed,2bath,"1,392sqft",10-09-2020,Listed,"$865,000",$621,MLSListings
+552,686-Webster-Dr_San-Jose_CA_95133_M11437-36703,4bed,2bath,"1,392sqft",11/13/1992,Sold,"$205,000",$147,Public Record
+553,686-Webster-Dr_San-Jose_CA_95133_M11437-36703,4bed,2bath,"1,392sqft",10-09-2020,Listed,"$865,000",$621,MLSListings
+554,686-Webster-Dr_San-Jose_CA_95133_M11437-36703,4bed,2bath,"1,392sqft",11/13/1992,Sold,"$205,000",$147,Public Record
+555,516-Hyde-Park-Dr_San-Jose_CA_95136_M12183-52566,5bed,3bath,"2,533sqft",10-10-2020,Listed,"$1,260,000",$497,MLSListings
+556,516-Hyde-Park-Dr_San-Jose_CA_95136_M12183-52566,5bed,3bath,"2,533sqft",11-06-2015,Sold,"$875,000",$345,MLSListings
+557,516-Hyde-Park-Dr_San-Jose_CA_95136_M12183-52566,5bed,3bath,"2,533sqft",09/24/2015,Price Changed,"$875,000",$345,MLSListings
+558,516-Hyde-Park-Dr_San-Jose_CA_95136_M12183-52566,5bed,3bath,"2,533sqft",09/16/2015,Listed,"$900,000",$355,MLSListings
+559,516-Hyde-Park-Dr_San-Jose_CA_95136_M12183-52566,5bed,3bath,"2,533sqft",08/27/2015,Listed,"$875,000",$345,MLSListings
+560,516-Hyde-Park-Dr_San-Jose_CA_95136_M12183-52566,5bed,3bath,"2,533sqft",07/16/2013,Sold,"$651,000",$257,SanFrancisco
+561,516-Hyde-Park-Dr_San-Jose_CA_95136_M12183-52566,5bed,3bath,"2,533sqft",10/17/2012,Sold,"$651,000",$257,Public Record
+562,516-Hyde-Park-Dr_San-Jose_CA_95136_M12183-52566,5bed,3bath,"2,533sqft",06/13/2012,Price Changed,"$640,200",$252,MLSListings
+563,516-Hyde-Park-Dr_San-Jose_CA_95136_M12183-52566,5bed,3bath,"2,533sqft",,,,,
+564,516-Hyde-Park-Dr_San-Jose_CA_95136_M12183-52566,5bed,3bath,"2,533sqft",,,,,
+565,516-Hyde-Park-Dr_San-Jose_CA_95136_M12183-52566,5bed,3bath,"2,533sqft",,,,,
+566,516-Hyde-Park-Dr_San-Jose_CA_95136_M12183-52566,5bed,3bath,"2,533sqft",,,,,
+567,516-Hyde-Park-Dr_San-Jose_CA_95136_M12183-52566,5bed,3bath,"2,533sqft",,,,,
+568,516-Hyde-Park-Dr_San-Jose_CA_95136_M12183-52566,5bed,3bath,"2,533sqft",,,,,
+569,516-Hyde-Park-Dr_San-Jose_CA_95136_M12183-52566,5bed,3bath,"2,533sqft",10-10-2020,Listed,"$1,260,000",$497,MLSListings
+570,516-Hyde-Park-Dr_San-Jose_CA_95136_M12183-52566,5bed,3bath,"2,533sqft",11-06-2015,Sold,"$875,000",$345,MLSListings
+571,516-Hyde-Park-Dr_San-Jose_CA_95136_M12183-52566,5bed,3bath,"2,533sqft",09/24/2015,Price Changed,"$875,000",$345,MLSListings
+572,516-Hyde-Park-Dr_San-Jose_CA_95136_M12183-52566,5bed,3bath,"2,533sqft",09/16/2015,Listed,"$900,000",$355,MLSListings
+573,516-Hyde-Park-Dr_San-Jose_CA_95136_M12183-52566,5bed,3bath,"2,533sqft",08/27/2015,Listed,"$875,000",$345,MLSListings
+574,516-Hyde-Park-Dr_San-Jose_CA_95136_M12183-52566,5bed,3bath,"2,533sqft",07/16/2013,Sold,"$651,000",$257,SanFrancisco
+575,516-Hyde-Park-Dr_San-Jose_CA_95136_M12183-52566,5bed,3bath,"2,533sqft",10/17/2012,Sold,"$651,000",$257,Public Record
+576,516-Hyde-Park-Dr_San-Jose_CA_95136_M12183-52566,5bed,3bath,"2,533sqft",06/13/2012,Price Changed,"$640,200",$252,MLSListings
+577,516-Hyde-Park-Dr_San-Jose_CA_95136_M12183-52566,5bed,3bath,"2,533sqft",,,,,
+578,516-Hyde-Park-Dr_San-Jose_CA_95136_M12183-52566,5bed,3bath,"2,533sqft",,,,,
+579,516-Hyde-Park-Dr_San-Jose_CA_95136_M12183-52566,5bed,3bath,"2,533sqft",,,,,
+580,516-Hyde-Park-Dr_San-Jose_CA_95136_M12183-52566,5bed,3bath,"2,533sqft",,,,,
+581,516-Hyde-Park-Dr_San-Jose_CA_95136_M12183-52566,5bed,3bath,"2,533sqft",,,,,
+582,516-Hyde-Park-Dr_San-Jose_CA_95136_M12183-52566,5bed,3bath,"2,533sqft",,,,,
+583,1070-Saddlewood-Dr_San-Jose_CA_95121_M27943-08456,3bed,2.5bath,"1,178sqft",10-09-2020,Listed,"$799,999",$679,MLSListings
+584,1070-Saddlewood-Dr_San-Jose_CA_95121_M27943-08456,3bed,2.5bath,"1,178sqft",04-02-2004,Sold,"$455,000",$386,Public Record
+585,1070-Saddlewood-Dr_San-Jose_CA_95121_M27943-08456,3bed,2.5bath,"1,178sqft",03-09-1992,Sold,"$181,500",$154,Public Record
+586,1070-Saddlewood-Dr_San-Jose_CA_95121_M27943-08456,3bed,2.5bath,"1,178sqft",10-09-2020,Listed,"$799,999",$679,MLSListings
+587,1070-Saddlewood-Dr_San-Jose_CA_95121_M27943-08456,3bed,2.5bath,"1,178sqft",04-02-2004,Sold,"$455,000",$386,Public Record
+588,1070-Saddlewood-Dr_San-Jose_CA_95121_M27943-08456,3bed,2.5bath,"1,178sqft",03-09-1992,Sold,"$181,500",$154,Public Record
+589,1215-Bird-Ave-Apt-105_San-Jose_CA_95125_M12925-21238,2bed,1bath,749sqft,10-09-2020,Listed,"$533,000",$711,MLSListings
+590,1215-Bird-Ave-Apt-105_San-Jose_CA_95125_M12925-21238,2bed,1bath,749sqft,12-08-2016,Sold,"$480,000",$643,MLSListings
+591,1215-Bird-Ave-Apt-105_San-Jose_CA_95125_M12925-21238,2bed,1bath,749sqft,10-03-2016,Sold,"$480,000",$640,Public Record
+592,1215-Bird-Ave-Apt-105_San-Jose_CA_95125_M12925-21238,2bed,1bath,749sqft,08/23/2016,Listed,"$455,000",$609,MLSListings
+593,1215-Bird-Ave-Apt-105_San-Jose_CA_95125_M12925-21238,2bed,1bath,749sqft,01/31/2013,Sold,"$265,000",$353,Public Record
+594,1215-Bird-Ave-Apt-105_San-Jose_CA_95125_M12925-21238,2bed,1bath,749sqft,03-11-2008,Sold,"$475,000",$634,Public Record
+595,1215-Bird-Ave-Apt-105_San-Jose_CA_95125_M12925-21238,2bed,1bath,749sqft,10-09-2020,Listed,"$533,000",$711,MLSListings
+596,1215-Bird-Ave-Apt-105_San-Jose_CA_95125_M12925-21238,2bed,1bath,749sqft,12-08-2016,Sold,"$480,000",$643,MLSListings
+597,1215-Bird-Ave-Apt-105_San-Jose_CA_95125_M12925-21238,2bed,1bath,749sqft,10-03-2016,Sold,"$480,000",$640,Public Record
+598,1215-Bird-Ave-Apt-105_San-Jose_CA_95125_M12925-21238,2bed,1bath,749sqft,08/23/2016,Listed,"$455,000",$609,MLSListings
+599,1215-Bird-Ave-Apt-105_San-Jose_CA_95125_M12925-21238,2bed,1bath,749sqft,01/31/2013,Sold,"$265,000",$353,Public Record
+600,1215-Bird-Ave-Apt-105_San-Jose_CA_95125_M12925-21238,2bed,1bath,749sqft,03-11-2008,Sold,"$475,000",$634,Public Record
+601,5249-Cribari-Hls_San-Jose_CA_95135_M12698-99588,2bed,2bath,"1,348sqft",10/13/2020,Listed,"$518,888",$384,MLSListings
+602,5249-Cribari-Hls_San-Jose_CA_95135_M12698-99588,2bed,2bath,"1,348sqft",07/26/2005,Sold,"$400,000",$296,Public Record
+603,5249-Cribari-Hls_San-Jose_CA_95135_M12698-99588,2bed,2bath,"1,348sqft",03/23/2000,Sold,"$325,000",$241,Public Record
+604,5249-Cribari-Hls_San-Jose_CA_95135_M12698-99588,2bed,2bath,"1,348sqft",08/18/1995,Sold,"$145,000",$107,Public Record
+605,5249-Cribari-Hls_San-Jose_CA_95135_M12698-99588,2bed,2bath,"1,348sqft",10/13/2020,Listed,"$518,888",$384,MLSListings
+606,5249-Cribari-Hls_San-Jose_CA_95135_M12698-99588,2bed,2bath,"1,348sqft",07/26/2005,Sold,"$400,000",$296,Public Record
+607,5249-Cribari-Hls_San-Jose_CA_95135_M12698-99588,2bed,2bath,"1,348sqft",03/23/2000,Sold,"$325,000",$241,Public Record
+608,5249-Cribari-Hls_San-Jose_CA_95135_M12698-99588,2bed,2bath,"1,348sqft",08/18/1995,Sold,"$145,000",$107,Public Record
+609,15104-Cooper-Ave_San-Jose_CA_95124_M17300-10808,5bed,4.5bath,"3,708sqft",10-07-2020,Listed,"$2,780,000",$888,MLSListings
+610,15104-Cooper-Ave_San-Jose_CA_95124_M17300-10808,5bed,4.5bath,"3,708sqft",11-01-2016,Sold,"$1,130,000",$655,MLSListings
+611,15104-Cooper-Ave_San-Jose_CA_95124_M17300-10808,5bed,4.5bath,"3,708sqft",10-11-2016,Listed,"$1,150,000",$667,MLSListings
+612,15104-Cooper-Ave_San-Jose_CA_95124_M17300-10808,5bed,4.5bath,"3,708sqft",12/24/2014,Sold,"$1,075,101",$623,MLSListings
+613,15104-Cooper-Ave_San-Jose_CA_95124_M17300-10808,5bed,4.5bath,"3,708sqft",12/13/2014,Relisted,"$985,000",$571,MLSListings
+614,15104-Cooper-Ave_San-Jose_CA_95124_M17300-10808,5bed,4.5bath,"3,708sqft",09/19/2014,Listed,"$985,000",$571,MLSListings
+615,15104-Cooper-Ave_San-Jose_CA_95124_M17300-10808,5bed,4.5bath,"3,708sqft",05-07-2004,Sold,"$525,000",$167,Public Record
+616,15104-Cooper-Ave_San-Jose_CA_95124_M17300-10808,5bed,4.5bath,"3,708sqft",12/15/1988,Sold,"$216,000",$69,Public Record
+617,15104-Cooper-Ave_San-Jose_CA_95124_M17300-10808,5bed,4.5bath,"3,708sqft",,,,,
+618,15104-Cooper-Ave_San-Jose_CA_95124_M17300-10808,5bed,4.5bath,"3,708sqft",10-07-2020,Listed,"$2,780,000",$888,MLSListings
+619,15104-Cooper-Ave_San-Jose_CA_95124_M17300-10808,5bed,4.5bath,"3,708sqft",11-01-2016,Sold,"$1,130,000",$655,MLSListings
+620,15104-Cooper-Ave_San-Jose_CA_95124_M17300-10808,5bed,4.5bath,"3,708sqft",10-11-2016,Listed,"$1,150,000",$667,MLSListings
+621,15104-Cooper-Ave_San-Jose_CA_95124_M17300-10808,5bed,4.5bath,"3,708sqft",12/24/2014,Sold,"$1,075,101",$623,MLSListings
+622,15104-Cooper-Ave_San-Jose_CA_95124_M17300-10808,5bed,4.5bath,"3,708sqft",12/13/2014,Relisted,"$985,000",$571,MLSListings
+623,15104-Cooper-Ave_San-Jose_CA_95124_M17300-10808,5bed,4.5bath,"3,708sqft",09/19/2014,Listed,"$985,000",$571,MLSListings
+624,15104-Cooper-Ave_San-Jose_CA_95124_M17300-10808,5bed,4.5bath,"3,708sqft",05-07-2004,Sold,"$525,000",$167,Public Record
+625,15104-Cooper-Ave_San-Jose_CA_95124_M17300-10808,5bed,4.5bath,"3,708sqft",12/15/1988,Sold,"$216,000",$69,Public Record
+626,15104-Cooper-Ave_San-Jose_CA_95124_M17300-10808,5bed,4.5bath,"3,708sqft",,,,,
+627,20-Larisa-Oaks-Pl_San-Jose_CA_95138_M29212-65298,4bed,2.5bath,"1,722sqft",10-08-2020,Listed,"$1,088,000",$631,MLSListings
+628,20-Larisa-Oaks-Pl_San-Jose_CA_95138_M29212-65298,4bed,2.5bath,"1,722sqft",09/18/2019,Sold,"$999,000",$580,MLSListings
+629,20-Larisa-Oaks-Pl_San-Jose_CA_95138_M29212-65298,4bed,2.5bath,"1,722sqft",12-06-2012,Sold,"$450,000",$261,Public Record
+630,20-Larisa-Oaks-Pl_San-Jose_CA_95138_M29212-65298,4bed,2.5bath,"1,722sqft",08-08-2012,Listed,"$445,000",$258,MLSListings
+631,20-Larisa-Oaks-Pl_San-Jose_CA_95138_M29212-65298,4bed,2.5bath,"1,722sqft",02/18/2004,Sold,"$565,000",$328,Public Record
+632,20-Larisa-Oaks-Pl_San-Jose_CA_95138_M29212-65298,4bed,2.5bath,"1,722sqft",10-08-2020,Listed,"$1,088,000",$631,MLSListings
+633,20-Larisa-Oaks-Pl_San-Jose_CA_95138_M29212-65298,4bed,2.5bath,"1,722sqft",09/18/2019,Sold,"$999,000",$580,MLSListings
+634,20-Larisa-Oaks-Pl_San-Jose_CA_95138_M29212-65298,4bed,2.5bath,"1,722sqft",12-06-2012,Sold,"$450,000",$261,Public Record
+635,20-Larisa-Oaks-Pl_San-Jose_CA_95138_M29212-65298,4bed,2.5bath,"1,722sqft",08-08-2012,Listed,"$445,000",$258,MLSListings
+636,20-Larisa-Oaks-Pl_San-Jose_CA_95138_M29212-65298,4bed,2.5bath,"1,722sqft",02/18/2004,Sold,"$565,000",$328,Public Record
+637,5799-Barnswell-Way_San-Jose_CA_95138_M25604-61518,4bed,3bath,"1,987sqft",10-09-2020,Listed,"$998,000",$502,SanFrancisco
+638,5799-Barnswell-Way_San-Jose_CA_95138_M25604-61518,4bed,3bath,"1,987sqft",10-09-2020,Listed,"$998,000",$502,MLSListings
+639,5799-Barnswell-Way_San-Jose_CA_95138_M25604-61518,4bed,3bath,"1,987sqft",10-01-2010,Sold,"$520,000",$261,Public Record
+640,5799-Barnswell-Way_San-Jose_CA_95138_M25604-61518,4bed,3bath,"1,987sqft",08-08-2010,Listed,"$518,000",$260,MLSListings
+641,5799-Barnswell-Way_San-Jose_CA_95138_M25604-61518,4bed,3bath,"1,987sqft",07/22/2010,Listed,"$544,888",$274,MLSListings
+642,5799-Barnswell-Way_San-Jose_CA_95138_M25604-61518,4bed,3bath,"1,987sqft",06/18/2010,Price Changed,"$559,990",$281,MLSListings
+643,5799-Barnswell-Way_San-Jose_CA_95138_M25604-61518,4bed,3bath,"1,987sqft",06/17/2010,Listed,"$569,990",$286,MLSListings
+644,5799-Barnswell-Way_San-Jose_CA_95138_M25604-61518,4bed,3bath,"1,987sqft",05/20/2010,Listed,"$559,990",$281,MLSListings
+645,5799-Barnswell-Way_San-Jose_CA_95138_M25604-61518,4bed,3bath,"1,987sqft",,,,,
+646,5799-Barnswell-Way_San-Jose_CA_95138_M25604-61518,4bed,3bath,"1,987sqft",,,,,
+647,5799-Barnswell-Way_San-Jose_CA_95138_M25604-61518,4bed,3bath,"1,987sqft",,,,,
+648,5799-Barnswell-Way_San-Jose_CA_95138_M25604-61518,4bed,3bath,"1,987sqft",,,,,
+649,5799-Barnswell-Way_San-Jose_CA_95138_M25604-61518,4bed,3bath,"1,987sqft",10-09-2020,Listed,"$998,000",$502,SanFrancisco
+650,5799-Barnswell-Way_San-Jose_CA_95138_M25604-61518,4bed,3bath,"1,987sqft",10-09-2020,Listed,"$998,000",$502,MLSListings
+651,5799-Barnswell-Way_San-Jose_CA_95138_M25604-61518,4bed,3bath,"1,987sqft",10-01-2010,Sold,"$520,000",$261,Public Record
+652,5799-Barnswell-Way_San-Jose_CA_95138_M25604-61518,4bed,3bath,"1,987sqft",08-08-2010,Listed,"$518,000",$260,MLSListings
+653,5799-Barnswell-Way_San-Jose_CA_95138_M25604-61518,4bed,3bath,"1,987sqft",07/22/2010,Listed,"$544,888",$274,MLSListings
+654,5799-Barnswell-Way_San-Jose_CA_95138_M25604-61518,4bed,3bath,"1,987sqft",06/18/2010,Price Changed,"$559,990",$281,MLSListings
+655,5799-Barnswell-Way_San-Jose_CA_95138_M25604-61518,4bed,3bath,"1,987sqft",06/17/2010,Listed,"$569,990",$286,MLSListings
+656,5799-Barnswell-Way_San-Jose_CA_95138_M25604-61518,4bed,3bath,"1,987sqft",05/20/2010,Listed,"$559,990",$281,MLSListings
+657,5799-Barnswell-Way_San-Jose_CA_95138_M25604-61518,4bed,3bath,"1,987sqft",,,,,
+658,5799-Barnswell-Way_San-Jose_CA_95138_M25604-61518,4bed,3bath,"1,987sqft",,,,,
+659,5799-Barnswell-Way_San-Jose_CA_95138_M25604-61518,4bed,3bath,"1,987sqft",,,,,
+660,5799-Barnswell-Way_San-Jose_CA_95138_M25604-61518,4bed,3bath,"1,987sqft",,,,,
+661,4999-Gazania-Dr_San-Jose_CA_95111_M13755-95248,3bed,2bath,"1,374sqft",10-12-2020,Listed,"$799,900",$582,MLSListings
+662,4999-Gazania-Dr_San-Jose_CA_95111_M13755-95248,3bed,2bath,"1,374sqft",08/14/1979,Sold,"$64,000",$46,Public Record
+663,4999-Gazania-Dr_San-Jose_CA_95111_M13755-95248,3bed,2bath,"1,374sqft",10-12-2020,Listed,"$799,900",$582,MLSListings
+664,4999-Gazania-Dr_San-Jose_CA_95111_M13755-95248,3bed,2bath,"1,374sqft",08/14/1979,Sold,"$64,000",$46,Public Record
+665,1842-University-Ave_San-Jose_CA_95126_M29090-64814,4bed,3bath,"2,695sqft",10-08-2020,Listed,"$2,799,000","$1,038",MLSListings
+666,1842-University-Ave_San-Jose_CA_95126_M29090-64814,4bed,3bath,"2,695sqft",06/19/2014,Sold,"$1,680,000",$623,MLSListings
+667,1842-University-Ave_San-Jose_CA_95126_M29090-64814,4bed,3bath,"2,695sqft",05-06-2014,Listed,"$1,649,000",$611,MLSListings
+668,1842-University-Ave_San-Jose_CA_95126_M29090-64814,4bed,3bath,"2,695sqft",03/13/1996,Sold,"$521,000",$203,Public Record
+669,1842-University-Ave_San-Jose_CA_95126_M29090-64814,4bed,3bath,"2,695sqft",10-08-2020,Listed,"$2,799,000","$1,038",MLSListings
+670,1842-University-Ave_San-Jose_CA_95126_M29090-64814,4bed,3bath,"2,695sqft",06/19/2014,Sold,"$1,680,000",$623,MLSListings
+671,1842-University-Ave_San-Jose_CA_95126_M29090-64814,4bed,3bath,"2,695sqft",05-06-2014,Listed,"$1,649,000",$611,MLSListings
+672,1842-University-Ave_San-Jose_CA_95126_M29090-64814,4bed,3bath,"2,695sqft",03/13/1996,Sold,"$521,000",$203,Public Record
+673,1334-Rimrock-Dr_San-Jose_CA_95120_M19278-96112,5bed,3.5bath,"3,126sqft",10-09-2020,Listed,"$2,350,000",$751,MLSListings
+674,1334-Rimrock-Dr_San-Jose_CA_95120_M19278-96112,5bed,3.5bath,"3,126sqft",04-03-2007,Sold,"$1,435,000",$459,Public Record
+675,1334-Rimrock-Dr_San-Jose_CA_95120_M19278-96112,5bed,3.5bath,"3,126sqft",02/20/2002,Sold,"$925,000",$295,Public Record
+676,1334-Rimrock-Dr_San-Jose_CA_95120_M19278-96112,5bed,3.5bath,"3,126sqft",06-01-2000,Listed,"$1,995,999",$554,ContraCosta
+677,1334-Rimrock-Dr_San-Jose_CA_95120_M19278-96112,5bed,3.5bath,"3,126sqft",11/29/1984,Sold,"$370,000",$118,Public Record
+678,1334-Rimrock-Dr_San-Jose_CA_95120_M19278-96112,5bed,3.5bath,"3,126sqft",10-09-2020,Listed,"$2,350,000",$751,MLSListings
+679,1334-Rimrock-Dr_San-Jose_CA_95120_M19278-96112,5bed,3.5bath,"3,126sqft",04-03-2007,Sold,"$1,435,000",$459,Public Record
+680,1334-Rimrock-Dr_San-Jose_CA_95120_M19278-96112,5bed,3.5bath,"3,126sqft",02/20/2002,Sold,"$925,000",$295,Public Record
+681,1334-Rimrock-Dr_San-Jose_CA_95120_M19278-96112,5bed,3.5bath,"3,126sqft",06-01-2000,Listed,"$1,995,999",$554,ContraCosta
+682,1334-Rimrock-Dr_San-Jose_CA_95120_M19278-96112,5bed,3.5bath,"3,126sqft",11/29/1984,Sold,"$370,000",$118,Public Record
+683,247-Martinvale-Ln_San-Jose_CA_95119_M17375-95391,4bed,2bath,"1,308sqft",10-07-2020,Listed,"$888,000",$678,MLSListings
+684,247-Martinvale-Ln_San-Jose_CA_95119_M17375-95391,4bed,2bath,"1,308sqft",10/28/1991,Sold,"$225,000",$172,Public Record
+685,247-Martinvale-Ln_San-Jose_CA_95119_M17375-95391,4bed,2bath,"1,308sqft",10-07-2020,Listed,"$888,000",$678,MLSListings
+686,247-Martinvale-Ln_San-Jose_CA_95119_M17375-95391,4bed,2bath,"1,308sqft",10/28/1991,Sold,"$225,000",$172,Public Record
+687,1665-Collingwood-Ave_San-Jose_CA_95125_M22460-95474,4bed,3.5bath,"2,598sqft",10-08-2020,Listed,"$2,149,000",$827,MLSListings
+688,1665-Collingwood-Ave_San-Jose_CA_95125_M22460-95474,4bed,3.5bath,"2,598sqft",10/13/2013,Sold,"$1,495,000",$575,MLSListings
+689,1665-Collingwood-Ave_San-Jose_CA_95125_M22460-95474,4bed,3.5bath,"2,598sqft",09-10-2013,Price Changed,"$1,549,000",$596,MLSListings
+690,1665-Collingwood-Ave_San-Jose_CA_95125_M22460-95474,4bed,3.5bath,"2,598sqft",07/19/2013,Listed,"$1,595,000",$613,MLSListings
+691,1665-Collingwood-Ave_San-Jose_CA_95125_M22460-95474,4bed,3.5bath,"2,598sqft",12/28/2010,Sold,"$1,155,000",$444,Public Record
+692,1665-Collingwood-Ave_San-Jose_CA_95125_M22460-95474,4bed,3.5bath,"2,598sqft",11/19/2010,Listed,"$1,199,000",$461,MLSListings
+693,1665-Collingwood-Ave_San-Jose_CA_95125_M22460-95474,4bed,3.5bath,"2,598sqft",09/23/2010,Listed,"$1,249,000",$480,MLSListings
+694,1665-Collingwood-Ave_San-Jose_CA_95125_M22460-95474,4bed,3.5bath,"2,598sqft",07/19/2010,Listed,"$1,299,000",$500,MLSListings
+695,1665-Collingwood-Ave_San-Jose_CA_95125_M22460-95474,4bed,3.5bath,"2,598sqft",,,,,
+696,1665-Collingwood-Ave_San-Jose_CA_95125_M22460-95474,4bed,3.5bath,"2,598sqft",,,,,
+697,1665-Collingwood-Ave_San-Jose_CA_95125_M22460-95474,4bed,3.5bath,"2,598sqft",,,,,
+698,1665-Collingwood-Ave_San-Jose_CA_95125_M22460-95474,4bed,3.5bath,"2,598sqft",,,,,
+699,1665-Collingwood-Ave_San-Jose_CA_95125_M22460-95474,4bed,3.5bath,"2,598sqft",10-08-2020,Listed,"$2,149,000",$827,MLSListings
+700,1665-Collingwood-Ave_San-Jose_CA_95125_M22460-95474,4bed,3.5bath,"2,598sqft",10/13/2013,Sold,"$1,495,000",$575,MLSListings
+701,1665-Collingwood-Ave_San-Jose_CA_95125_M22460-95474,4bed,3.5bath,"2,598sqft",09-10-2013,Price Changed,"$1,549,000",$596,MLSListings
+702,1665-Collingwood-Ave_San-Jose_CA_95125_M22460-95474,4bed,3.5bath,"2,598sqft",07/19/2013,Listed,"$1,595,000",$613,MLSListings
+703,1665-Collingwood-Ave_San-Jose_CA_95125_M22460-95474,4bed,3.5bath,"2,598sqft",12/28/2010,Sold,"$1,155,000",$444,Public Record
+704,1665-Collingwood-Ave_San-Jose_CA_95125_M22460-95474,4bed,3.5bath,"2,598sqft",11/19/2010,Listed,"$1,199,000",$461,MLSListings
+705,1665-Collingwood-Ave_San-Jose_CA_95125_M22460-95474,4bed,3.5bath,"2,598sqft",09/23/2010,Listed,"$1,249,000",$480,MLSListings
+706,1665-Collingwood-Ave_San-Jose_CA_95125_M22460-95474,4bed,3.5bath,"2,598sqft",07/19/2010,Listed,"$1,299,000",$500,MLSListings
+707,1665-Collingwood-Ave_San-Jose_CA_95125_M22460-95474,4bed,3.5bath,"2,598sqft",,,,,
+708,1665-Collingwood-Ave_San-Jose_CA_95125_M22460-95474,4bed,3.5bath,"2,598sqft",,,,,
+709,1665-Collingwood-Ave_San-Jose_CA_95125_M22460-95474,4bed,3.5bath,"2,598sqft",,,,,
+710,1665-Collingwood-Ave_San-Jose_CA_95125_M22460-95474,4bed,3.5bath,"2,598sqft",,,,,
+711,3510-Hilary-Dr_San-Jose_CA_95124_M18104-35787,3bed,2bath,"1,281sqft",10-07-2020,Listed,"$1,289,000","$1,006",MLSListings
+712,3510-Hilary-Dr_San-Jose_CA_95124_M18104-35787,3bed,2bath,"1,281sqft",07/29/2008,Sold,"$708,000",$552,Public Record
+713,3510-Hilary-Dr_San-Jose_CA_95124_M18104-35787,3bed,2bath,"1,281sqft",08/27/2003,Sold,"$536,000",$418,Public Record
+714,3510-Hilary-Dr_San-Jose_CA_95124_M18104-35787,3bed,2bath,"1,281sqft",03/30/2000,Sold,"$450,000",$351,Public Record
+715,3510-Hilary-Dr_San-Jose_CA_95124_M18104-35787,3bed,2bath,"1,281sqft",10-07-2020,Listed,"$1,289,000","$1,006",MLSListings
+716,3510-Hilary-Dr_San-Jose_CA_95124_M18104-35787,3bed,2bath,"1,281sqft",07/29/2008,Sold,"$708,000",$552,Public Record
+717,3510-Hilary-Dr_San-Jose_CA_95124_M18104-35787,3bed,2bath,"1,281sqft",08/27/2003,Sold,"$536,000",$418,Public Record
+718,3510-Hilary-Dr_San-Jose_CA_95124_M18104-35787,3bed,2bath,"1,281sqft",03/30/2000,Sold,"$450,000",$351,Public Record
+719,1296-Aberford-Dr_San-Jose_CA_95131_M10931-84489,4bed,2bath,"1,393sqft",10-08-2020,Listed,"$998,000",$716,MLSListings
+720,1296-Aberford-Dr_San-Jose_CA_95131_M10931-84489,4bed,2bath,"1,393sqft",07-10-1975,Sold,"$39,000",$27,Public Record
+721,1296-Aberford-Dr_San-Jose_CA_95131_M10931-84489,4bed,2bath,"1,393sqft",10-08-2020,Listed,"$998,000",$716,MLSListings
+722,1296-Aberford-Dr_San-Jose_CA_95131_M10931-84489,4bed,2bath,"1,393sqft",07-10-1975,Sold,"$39,000",$27,Public Record
+723,658-Arrowhead-Dr_San-Jose_CA_95123_M11724-50372,4bed,2bath,"1,321sqft",10-07-2020,Listed,"$975,000",$738,MLSListings
+724,658-Arrowhead-Dr_San-Jose_CA_95123_M11724-50372,4bed,2bath,"1,321sqft",06/28/2010,Sold,"$460,000",$348,Public Record
+725,658-Arrowhead-Dr_San-Jose_CA_95123_M11724-50372,4bed,2bath,"1,321sqft",05-01-2010,Price Changed,"$468,000",$354,MLSListings
+726,658-Arrowhead-Dr_San-Jose_CA_95123_M11724-50372,4bed,2bath,"1,321sqft",03/16/2010,Listed,"$488,000",$369,MLSListings
+727,658-Arrowhead-Dr_San-Jose_CA_95123_M11724-50372,4bed,2bath,"1,321sqft",02/17/2010,Price Changed,"$400,000",$302,MLSListings
+728,658-Arrowhead-Dr_San-Jose_CA_95123_M11724-50372,4bed,2bath,"1,321sqft",09-04-2009,Listed,"$399,900",$302,MLSListings
+729,658-Arrowhead-Dr_San-Jose_CA_95123_M11724-50372,4bed,2bath,"1,321sqft",10-07-2020,Listed,"$975,000",$738,MLSListings
+730,658-Arrowhead-Dr_San-Jose_CA_95123_M11724-50372,4bed,2bath,"1,321sqft",06/28/2010,Sold,"$460,000",$348,Public Record
+731,658-Arrowhead-Dr_San-Jose_CA_95123_M11724-50372,4bed,2bath,"1,321sqft",05-01-2010,Price Changed,"$468,000",$354,MLSListings
+732,658-Arrowhead-Dr_San-Jose_CA_95123_M11724-50372,4bed,2bath,"1,321sqft",03/16/2010,Listed,"$488,000",$369,MLSListings
+733,658-Arrowhead-Dr_San-Jose_CA_95123_M11724-50372,4bed,2bath,"1,321sqft",02/17/2010,Price Changed,"$400,000",$302,MLSListings
+734,658-Arrowhead-Dr_San-Jose_CA_95123_M11724-50372,4bed,2bath,"1,321sqft",09-04-2009,Listed,"$399,900",$302,MLSListings
+735,1193-S-9th-St_San-Jose_CA_95112_M13927-34433,2bed,2bath,"1,040sqft",10-12-2020,Listed,"$899,000",$864,SanFrancisco
+736,1193-S-9th-St_San-Jose_CA_95112_M13927-34433,2bed,2bath,"1,040sqft",10-10-2020,Listed,"$899,000",$864,MLSListings
+737,1193-S-9th-St_San-Jose_CA_95112_M13927-34433,2bed,2bath,"1,040sqft",08/30/2018,Sold,"$855,000",$822,MLSListings
+738,1193-S-9th-St_San-Jose_CA_95112_M13927-34433,2bed,2bath,"1,040sqft",07/13/2018,Price Changed,"$887,900",$853,MLSListings
+739,1193-S-9th-St_San-Jose_CA_95112_M13927-34433,2bed,2bath,"1,040sqft",07-08-2018,Listed,"$888,000",$853,MLSListings
+740,1193-S-9th-St_San-Jose_CA_95112_M13927-34433,2bed,2bath,"1,040sqft",06/22/2018,Sold,"$850,000",$817,Public Record
+741,1193-S-9th-St_San-Jose_CA_95112_M13927-34433,2bed,2bath,"1,040sqft",02/19/2010,Sold,"$285,000",$274,Public Record
+742,1193-S-9th-St_San-Jose_CA_95112_M13927-34433,2bed,2bath,"1,040sqft",07/29/2005,Sold,"$605,000",$581,Public Record
+743,1193-S-9th-St_San-Jose_CA_95112_M13927-34433,2bed,2bath,"1,040sqft",,,,,
+744,1193-S-9th-St_San-Jose_CA_95112_M13927-34433,2bed,2bath,"1,040sqft",,,,,
+745,1193-S-9th-St_San-Jose_CA_95112_M13927-34433,2bed,2bath,"1,040sqft",10-12-2020,Listed,"$899,000",$864,SanFrancisco
+746,1193-S-9th-St_San-Jose_CA_95112_M13927-34433,2bed,2bath,"1,040sqft",10-10-2020,Listed,"$899,000",$864,MLSListings
+747,1193-S-9th-St_San-Jose_CA_95112_M13927-34433,2bed,2bath,"1,040sqft",08/30/2018,Sold,"$855,000",$822,MLSListings
+748,1193-S-9th-St_San-Jose_CA_95112_M13927-34433,2bed,2bath,"1,040sqft",07/13/2018,Price Changed,"$887,900",$853,MLSListings
+749,1193-S-9th-St_San-Jose_CA_95112_M13927-34433,2bed,2bath,"1,040sqft",07-08-2018,Listed,"$888,000",$853,MLSListings
+750,1193-S-9th-St_San-Jose_CA_95112_M13927-34433,2bed,2bath,"1,040sqft",06/22/2018,Sold,"$850,000",$817,Public Record
+751,1193-S-9th-St_San-Jose_CA_95112_M13927-34433,2bed,2bath,"1,040sqft",02/19/2010,Sold,"$285,000",$274,Public Record
+752,1193-S-9th-St_San-Jose_CA_95112_M13927-34433,2bed,2bath,"1,040sqft",07/29/2005,Sold,"$605,000",$581,Public Record
+753,1193-S-9th-St_San-Jose_CA_95112_M13927-34433,2bed,2bath,"1,040sqft",,,,,
+754,1193-S-9th-St_San-Jose_CA_95112_M13927-34433,2bed,2bath,"1,040sqft",,,,,
+755,1532-Newport-Ave_San-Jose_CA_95125_M11367-62897,4bed,2.5bath,"3,272sqft",10-09-2020,Listed,"$3,299,000","$1,008",MLSListings
+756,1532-Newport-Ave_San-Jose_CA_95125_M11367-62897,4bed,2.5bath,"3,272sqft",02-07-2014,Sold,"$1,875,000",$573,MLSListings
+757,1532-Newport-Ave_San-Jose_CA_95125_M11367-62897,4bed,2.5bath,"3,272sqft",12-10-2013,Listed,"$1,950,000",$595,MLSListings
+758,1532-Newport-Ave_San-Jose_CA_95125_M11367-62897,4bed,2.5bath,"3,272sqft",11-12-2013,Listed,"$2,350,000",$718,MLSListings
+759,1532-Newport-Ave_San-Jose_CA_95125_M11367-62897,4bed,2.5bath,"3,272sqft",09/30/1986,Sold,"$365,000",$111,Public Record
+760,1532-Newport-Ave_San-Jose_CA_95125_M11367-62897,4bed,2.5bath,"3,272sqft",08/13/1976,Sold,"$104,700",$31,Public Record
+761,1532-Newport-Ave_San-Jose_CA_95125_M11367-62897,4bed,2.5bath,"3,272sqft",10-09-2020,Listed,"$3,299,000","$1,008",MLSListings
+762,1532-Newport-Ave_San-Jose_CA_95125_M11367-62897,4bed,2.5bath,"3,272sqft",02-07-2014,Sold,"$1,875,000",$573,MLSListings
+763,1532-Newport-Ave_San-Jose_CA_95125_M11367-62897,4bed,2.5bath,"3,272sqft",12-10-2013,Listed,"$1,950,000",$595,MLSListings
+764,1532-Newport-Ave_San-Jose_CA_95125_M11367-62897,4bed,2.5bath,"3,272sqft",11-12-2013,Listed,"$2,350,000",$718,MLSListings
+765,1532-Newport-Ave_San-Jose_CA_95125_M11367-62897,4bed,2.5bath,"3,272sqft",09/30/1986,Sold,"$365,000",$111,Public Record
+766,1532-Newport-Ave_San-Jose_CA_95125_M11367-62897,4bed,2.5bath,"3,272sqft",08/13/1976,Sold,"$104,700",$31,Public Record
+767,798-Golden-Creek-Ter_San-Jose_CA_95111_M13213-21514,3bed,3bath,"1,640sqft",10-08-2020,Listed,"$743,000",$453,MLSListings
+768,798-Golden-Creek-Ter_San-Jose_CA_95111_M13213-21514,3bed,3bath,"1,640sqft",06/24/2016,Sold,"$530,000",$323,MLSListings
+769,798-Golden-Creek-Ter_San-Jose_CA_95111_M13213-21514,3bed,3bath,"1,640sqft",04-09-2016,Listed,"$525,000",$320,MLSListings
+770,798-Golden-Creek-Ter_San-Jose_CA_95111_M13213-21514,3bed,3bath,"1,640sqft",04-09-2016,Listed,"$525,000",$320,MLSListings
+771,798-Golden-Creek-Ter_San-Jose_CA_95111_M13213-21514,3bed,3bath,"1,640sqft",09-01-1989,Sold,"$158,000",$96,Public Record
+772,798-Golden-Creek-Ter_San-Jose_CA_95111_M13213-21514,3bed,3bath,"1,640sqft",10-08-2020,Listed,"$743,000",$453,MLSListings
+773,798-Golden-Creek-Ter_San-Jose_CA_95111_M13213-21514,3bed,3bath,"1,640sqft",06/24/2016,Sold,"$530,000",$323,MLSListings
+774,798-Golden-Creek-Ter_San-Jose_CA_95111_M13213-21514,3bed,3bath,"1,640sqft",04-09-2016,Listed,"$525,000",$320,MLSListings
+775,798-Golden-Creek-Ter_San-Jose_CA_95111_M13213-21514,3bed,3bath,"1,640sqft",04-09-2016,Listed,"$525,000",$320,MLSListings
+776,798-Golden-Creek-Ter_San-Jose_CA_95111_M13213-21514,3bed,3bath,"1,640sqft",09-01-1989,Sold,"$158,000",$96,Public Record
+777,1424-Sierra-Creek-Way_San-Jose_CA_95132_M23073-23417,5bed,2bath,"1,952sqft",10-10-2020,Listed,"$1,299,000",$665,MLSListings
+778,1424-Sierra-Creek-Way_San-Jose_CA_95132_M23073-23417,5bed,2bath,"1,952sqft",06/23/2020,Sold,"$1,015,000",$519,MLSListings
+779,1424-Sierra-Creek-Way_San-Jose_CA_95132_M23073-23417,5bed,2bath,"1,952sqft",06-03-2020,Listed,"$1,099,888",$563,MLSListings
+780,1424-Sierra-Creek-Way_San-Jose_CA_95132_M23073-23417,5bed,2bath,"1,952sqft",10-10-2020,Listed,"$1,299,000",$665,MLSListings
+781,1424-Sierra-Creek-Way_San-Jose_CA_95132_M23073-23417,5bed,2bath,"1,952sqft",06/23/2020,Sold,"$1,015,000",$519,MLSListings
+782,1424-Sierra-Creek-Way_San-Jose_CA_95132_M23073-23417,5bed,2bath,"1,952sqft",06-03-2020,Listed,"$1,099,888",$563,MLSListings
+783,210-Branham-Ln-E_San-Jose_CA_95111_M22733-31803,3bed,2bath,"1,542sqft",10-08-2020,Listed,"$950,000",$616,MLSListings
+784,210-Branham-Ln-E_San-Jose_CA_95111_M22733-31803,3bed,2bath,"1,542sqft",10/26/1989,Sold,"$225,000",$145,Public Record
+785,210-Branham-Ln-E_San-Jose_CA_95111_M22733-31803,3bed,2bath,"1,542sqft",03/31/1978,Sold,"$82,900",$53,Public Record
+786,210-Branham-Ln-E_San-Jose_CA_95111_M22733-31803,3bed,2bath,"1,542sqft",10-08-2020,Listed,"$950,000",$616,MLSListings
+787,210-Branham-Ln-E_San-Jose_CA_95111_M22733-31803,3bed,2bath,"1,542sqft",10/26/1989,Sold,"$225,000",$145,Public Record
+788,210-Branham-Ln-E_San-Jose_CA_95111_M22733-31803,3bed,2bath,"1,542sqft",03/31/1978,Sold,"$82,900",$53,Public Record
+789,1566-Guadalajara-Dr_San-Jose_CA_95120_M21251-95310,4bed,2.5bath,"2,013sqft",10-11-2020,Listed,"$1,490,000",$740,MLSListings
+790,1566-Guadalajara-Dr_San-Jose_CA_95120_M21251-95310,4bed,2.5bath,"2,013sqft",10-11-2020,Listed,"$1,490,000",$740,MLSListings
+791,1217-Hester-Ave_San-Jose_CA_95126_M24829-36985,3bed,2bath,"1,170sqft",10-11-2020,Listed,"$1,288,000","$1,100",MLSListings
+792,1217-Hester-Ave_San-Jose_CA_95126_M24829-36985,3bed,2bath,"1,170sqft",10-08-2018,Sold,"$1,190,000","$1,017",MLSListings
+793,1217-Hester-Ave_San-Jose_CA_95126_M24829-36985,3bed,2bath,"1,170sqft",08/20/2018,Price Changed,"$825,000",$705,MLSListings
+794,1217-Hester-Ave_San-Jose_CA_95126_M24829-36985,3bed,2bath,"1,170sqft",07/25/2018,Listed,"$1,250,000","$1,068",MLSListings
+795,1217-Hester-Ave_San-Jose_CA_95126_M24829-36985,3bed,2bath,"1,170sqft",02/27/1998,Sold,"$233,000",$199,Public Record
+796,1217-Hester-Ave_San-Jose_CA_95126_M24829-36985,3bed,2bath,"1,170sqft",10-11-2020,Listed,"$1,288,000","$1,100",MLSListings
+797,1217-Hester-Ave_San-Jose_CA_95126_M24829-36985,3bed,2bath,"1,170sqft",10-08-2018,Sold,"$1,190,000","$1,017",MLSListings
+798,1217-Hester-Ave_San-Jose_CA_95126_M24829-36985,3bed,2bath,"1,170sqft",08/20/2018,Price Changed,"$825,000",$705,MLSListings
+799,1217-Hester-Ave_San-Jose_CA_95126_M24829-36985,3bed,2bath,"1,170sqft",07/25/2018,Listed,"$1,250,000","$1,068",MLSListings
+800,1217-Hester-Ave_San-Jose_CA_95126_M24829-36985,3bed,2bath,"1,170sqft",02/27/1998,Sold,"$233,000",$199,Public Record
+801,4685-Albany-Cir-Apt-124_San-Jose_CA_95129_M27805-91440,2bed,2bath,"1,350sqft",10-07-2020,Listed,"$819,950",$607,MLSListings
+802,4685-Albany-Cir-Apt-124_San-Jose_CA_95129_M27805-91440,2bed,2bath,"1,350sqft",04/14/2017,Sold,"$810,000",$600,MLSListings
+803,4685-Albany-Cir-Apt-124_San-Jose_CA_95129_M27805-91440,2bed,2bath,"1,350sqft",03-09-2017,Listed,"$799,000",$591,MLSListings
+804,4685-Albany-Cir-Apt-124_San-Jose_CA_95129_M27805-91440,2bed,2bath,"1,350sqft",08/29/2014,Sold,"$660,000",$488,MLSListings
+805,4685-Albany-Cir-Apt-124_San-Jose_CA_95129_M27805-91440,2bed,2bath,"1,350sqft",07/23/2014,Listed,"$599,999",$444,MLSListings
+806,4685-Albany-Cir-Apt-124_San-Jose_CA_95129_M27805-91440,2bed,2bath,"1,350sqft",07/23/2014,Listed,"$599,999",$444,MLSListings
+807,4685-Albany-Cir-Apt-124_San-Jose_CA_95129_M27805-91440,2bed,2bath,"1,350sqft",08/18/2011,Price Changed,"$416,000",$308,MLSListings
+808,4685-Albany-Cir-Apt-124_San-Jose_CA_95129_M27805-91440,2bed,2bath,"1,350sqft",06-01-2011,Price Changed,"$425,000",$314,MLSListings
+809,4685-Albany-Cir-Apt-124_San-Jose_CA_95129_M27805-91440,2bed,2bath,"1,350sqft",,,,,
+810,4685-Albany-Cir-Apt-124_San-Jose_CA_95129_M27805-91440,2bed,2bath,"1,350sqft",,,,,
+811,4685-Albany-Cir-Apt-124_San-Jose_CA_95129_M27805-91440,2bed,2bath,"1,350sqft",,,,,
+812,4685-Albany-Cir-Apt-124_San-Jose_CA_95129_M27805-91440,2bed,2bath,"1,350sqft",10-07-2020,Listed,"$819,950",$607,MLSListings
+813,4685-Albany-Cir-Apt-124_San-Jose_CA_95129_M27805-91440,2bed,2bath,"1,350sqft",04/14/2017,Sold,"$810,000",$600,MLSListings
+814,4685-Albany-Cir-Apt-124_San-Jose_CA_95129_M27805-91440,2bed,2bath,"1,350sqft",03-09-2017,Listed,"$799,000",$591,MLSListings
+815,4685-Albany-Cir-Apt-124_San-Jose_CA_95129_M27805-91440,2bed,2bath,"1,350sqft",08/29/2014,Sold,"$660,000",$488,MLSListings
+816,4685-Albany-Cir-Apt-124_San-Jose_CA_95129_M27805-91440,2bed,2bath,"1,350sqft",07/23/2014,Listed,"$599,999",$444,MLSListings
+817,4685-Albany-Cir-Apt-124_San-Jose_CA_95129_M27805-91440,2bed,2bath,"1,350sqft",07/23/2014,Listed,"$599,999",$444,MLSListings
+818,4685-Albany-Cir-Apt-124_San-Jose_CA_95129_M27805-91440,2bed,2bath,"1,350sqft",08/18/2011,Price Changed,"$416,000",$308,MLSListings
+819,4685-Albany-Cir-Apt-124_San-Jose_CA_95129_M27805-91440,2bed,2bath,"1,350sqft",06-01-2011,Price Changed,"$425,000",$314,MLSListings
+820,4685-Albany-Cir-Apt-124_San-Jose_CA_95129_M27805-91440,2bed,2bath,"1,350sqft",,,,,
+821,4685-Albany-Cir-Apt-124_San-Jose_CA_95129_M27805-91440,2bed,2bath,"1,350sqft",,,,,
+822,4685-Albany-Cir-Apt-124_San-Jose_CA_95129_M27805-91440,2bed,2bath,"1,350sqft",,,,,
+823,1685-Messina-Dr_San-Jose_CA_95132_M28405-58639,3bed,2bath,"1,742sqft",10-08-2020,Listed,"$1,228,000",$704,MLSListings
+824,1685-Messina-Dr_San-Jose_CA_95132_M28405-58639,3bed,2bath,"1,742sqft",05-12-2015,Sold,"$850,000",$487,MLSListings
+825,1685-Messina-Dr_San-Jose_CA_95132_M28405-58639,3bed,2bath,"1,742sqft",04/17/2015,Listed,"$829,000",$475,MLSListings
+826,1685-Messina-Dr_San-Jose_CA_95132_M28405-58639,3bed,2bath,"1,742sqft",04/17/2015,Listed,"$829,000",$475,MLSListings
+827,1685-Messina-Dr_San-Jose_CA_95132_M28405-58639,3bed,2bath,"1,742sqft",03/16/2007,Sold,"$705,000",$404,Public Record
+828,1685-Messina-Dr_San-Jose_CA_95132_M28405-58639,3bed,2bath,"1,742sqft",01/31/1992,Sold,"$213,181",$122,Public Record
+829,1685-Messina-Dr_San-Jose_CA_95132_M28405-58639,3bed,2bath,"1,742sqft",07/25/1983,Sold,"$114,000",$65,Public Record
+830,1685-Messina-Dr_San-Jose_CA_95132_M28405-58639,3bed,2bath,"1,742sqft",10-08-2020,Listed,"$1,228,000",$704,MLSListings
+831,1685-Messina-Dr_San-Jose_CA_95132_M28405-58639,3bed,2bath,"1,742sqft",05-12-2015,Sold,"$850,000",$487,MLSListings
+832,1685-Messina-Dr_San-Jose_CA_95132_M28405-58639,3bed,2bath,"1,742sqft",04/17/2015,Listed,"$829,000",$475,MLSListings
+833,1685-Messina-Dr_San-Jose_CA_95132_M28405-58639,3bed,2bath,"1,742sqft",04/17/2015,Listed,"$829,000",$475,MLSListings
+834,1685-Messina-Dr_San-Jose_CA_95132_M28405-58639,3bed,2bath,"1,742sqft",03/16/2007,Sold,"$705,000",$404,Public Record
+835,1685-Messina-Dr_San-Jose_CA_95132_M28405-58639,3bed,2bath,"1,742sqft",01/31/1992,Sold,"$213,181",$122,Public Record
+836,1685-Messina-Dr_San-Jose_CA_95132_M28405-58639,3bed,2bath,"1,742sqft",07/25/1983,Sold,"$114,000",$65,Public Record
+837,4613-Hampton-Falls-Pl_San-Jose_CA_95136_M28604-48593,3bed,2.5bath,"1,992sqft",10-11-2020,Listed,"$899,950",$451,MLSListings
+838,4613-Hampton-Falls-Pl_San-Jose_CA_95136_M28604-48593,3bed,2.5bath,"1,992sqft",12-08-2016,Sold,"$680,000",$341,MLSListings
+839,4613-Hampton-Falls-Pl_San-Jose_CA_95136_M28604-48593,3bed,2.5bath,"1,992sqft",10/26/2016,Sold,"$680,000",$341,Public Record
+840,4613-Hampton-Falls-Pl_San-Jose_CA_95136_M28604-48593,3bed,2.5bath,"1,992sqft",09/15/2016,Listed,"$675,000",$338,MLSListings
+841,4613-Hampton-Falls-Pl_San-Jose_CA_95136_M28604-48593,3bed,2.5bath,"1,992sqft",07-07-2010,Sold,"$549,000",$275,Public Record
+842,4613-Hampton-Falls-Pl_San-Jose_CA_95136_M28604-48593,3bed,2.5bath,"1,992sqft",06-01-2010,Price Changed,"$549,000",$275,MLSListings
+843,4613-Hampton-Falls-Pl_San-Jose_CA_95136_M28604-48593,3bed,2.5bath,"1,992sqft",04/30/2010,Listed,"$570,000",$286,MLSListings
+844,4613-Hampton-Falls-Pl_San-Jose_CA_95136_M28604-48593,3bed,2.5bath,"1,992sqft",04-09-2004,Sold,"$530,000",$266,Public Record
+845,4613-Hampton-Falls-Pl_San-Jose_CA_95136_M28604-48593,3bed,2.5bath,"1,992sqft",,,,,
+846,4613-Hampton-Falls-Pl_San-Jose_CA_95136_M28604-48593,3bed,2.5bath,"1,992sqft",10-11-2020,Listed,"$899,950",$451,MLSListings
+847,4613-Hampton-Falls-Pl_San-Jose_CA_95136_M28604-48593,3bed,2.5bath,"1,992sqft",12-08-2016,Sold,"$680,000",$341,MLSListings
+848,4613-Hampton-Falls-Pl_San-Jose_CA_95136_M28604-48593,3bed,2.5bath,"1,992sqft",10/26/2016,Sold,"$680,000",$341,Public Record
+849,4613-Hampton-Falls-Pl_San-Jose_CA_95136_M28604-48593,3bed,2.5bath,"1,992sqft",09/15/2016,Listed,"$675,000",$338,MLSListings
+850,4613-Hampton-Falls-Pl_San-Jose_CA_95136_M28604-48593,3bed,2.5bath,"1,992sqft",07-07-2010,Sold,"$549,000",$275,Public Record
+851,4613-Hampton-Falls-Pl_San-Jose_CA_95136_M28604-48593,3bed,2.5bath,"1,992sqft",06-01-2010,Price Changed,"$549,000",$275,MLSListings
+852,4613-Hampton-Falls-Pl_San-Jose_CA_95136_M28604-48593,3bed,2.5bath,"1,992sqft",04/30/2010,Listed,"$570,000",$286,MLSListings
+853,4613-Hampton-Falls-Pl_San-Jose_CA_95136_M28604-48593,3bed,2.5bath,"1,992sqft",04-09-2004,Sold,"$530,000",$266,Public Record
+854,4613-Hampton-Falls-Pl_San-Jose_CA_95136_M28604-48593,3bed,2.5bath,"1,992sqft",,,,,
+855,6214-Via-de-Adrianna_San-Jose_CA_95120_M20137-58769,4bed,2bath,"1,754sqft",10-12-2020,Listed,"$1,550,000",$883,MLSListings
+856,6214-Via-de-Adrianna_San-Jose_CA_95120_M20137-58769,4bed,2bath,"1,754sqft",07/13/1995,Sold,"$291,000",$165,Public Record
+857,6214-Via-de-Adrianna_San-Jose_CA_95120_M20137-58769,4bed,2bath,"1,754sqft",01/31/1986,Sold,"$182,500",$104,Public Record
+858,6214-Via-de-Adrianna_San-Jose_CA_95120_M20137-58769,4bed,2bath,"1,754sqft",10-12-2020,Listed,"$1,550,000",$883,MLSListings
+859,6214-Via-de-Adrianna_San-Jose_CA_95120_M20137-58769,4bed,2bath,"1,754sqft",07/13/1995,Sold,"$291,000",$165,Public Record
+860,6214-Via-de-Adrianna_San-Jose_CA_95120_M20137-58769,4bed,2bath,"1,754sqft",01/31/1986,Sold,"$182,500",$104,Public Record
+861,3331-Senter-Rd_San-Jose_CA_95111_M25770-85277,3bed,2bath,"1,197sqft",10-12-2020,Listed,"$572,000",$477,MLSListings
+862,3331-Senter-Rd_San-Jose_CA_95111_M25770-85277,3bed,2bath,"1,197sqft",04/20/2018,Sold,"$550,000",$459,MLSListings
+863,3331-Senter-Rd_San-Jose_CA_95111_M25770-85277,3bed,2bath,"1,197sqft",03/26/2018,Relisted,"$509,000",$425,MLSListings
+864,3331-Senter-Rd_San-Jose_CA_95111_M25770-85277,3bed,2bath,"1,197sqft",03-01-2018,Relisted,"$509,000",$425,MLSListings
+865,3331-Senter-Rd_San-Jose_CA_95111_M25770-85277,3bed,2bath,"1,197sqft",06-03-2011,Sold,"$100,000",$83,Public Record
+866,3331-Senter-Rd_San-Jose_CA_95111_M25770-85277,3bed,2bath,"1,197sqft",08/22/1991,Sold,"$51,000",$42,Public Record
+867,3331-Senter-Rd_San-Jose_CA_95111_M25770-85277,3bed,2bath,"1,197sqft",11/29/1984,Sold,"$60,000",$50,Public Record
+868,3331-Senter-Rd_San-Jose_CA_95111_M25770-85277,3bed,2bath,"1,197sqft",10-12-2020,Listed,"$572,000",$477,MLSListings
+869,3331-Senter-Rd_San-Jose_CA_95111_M25770-85277,3bed,2bath,"1,197sqft",04/20/2018,Sold,"$550,000",$459,MLSListings
+870,3331-Senter-Rd_San-Jose_CA_95111_M25770-85277,3bed,2bath,"1,197sqft",03/26/2018,Relisted,"$509,000",$425,MLSListings
+871,3331-Senter-Rd_San-Jose_CA_95111_M25770-85277,3bed,2bath,"1,197sqft",03-01-2018,Relisted,"$509,000",$425,MLSListings
+872,3331-Senter-Rd_San-Jose_CA_95111_M25770-85277,3bed,2bath,"1,197sqft",06-03-2011,Sold,"$100,000",$83,Public Record
+873,3331-Senter-Rd_San-Jose_CA_95111_M25770-85277,3bed,2bath,"1,197sqft",08/22/1991,Sold,"$51,000",$42,Public Record
+874,3331-Senter-Rd_San-Jose_CA_95111_M25770-85277,3bed,2bath,"1,197sqft",11/29/1984,Sold,"$60,000",$50,Public Record
+875,1562-Clampett-Way_San-Jose_CA_95131_M23613-81779,3bed,2.5bath,"1,352sqft",10/13/2020,Listed,"$998,000",$738,MLSListings
+876,1562-Clampett-Way_San-Jose_CA_95131_M23613-81779,3bed,2.5bath,"1,352sqft",11/30/1987,Sold,"$173,500",$128,Public Record
+877,1562-Clampett-Way_San-Jose_CA_95131_M23613-81779,3bed,2.5bath,"1,352sqft",10/13/2020,Listed,"$998,000",$738,MLSListings
+878,1562-Clampett-Way_San-Jose_CA_95131_M23613-81779,3bed,2.5bath,"1,352sqft",11/30/1987,Sold,"$173,500",$128,Public Record
+879,539-Weatherly-Dr_San-Jose_CA_95134_M93464-22323,3bed,2bath,"1,440sqft",10-11-2020,Listed,"$165,000",$114,MLSListings
+880,3055-Manuel-Loop_San-Jose_CA_95136_M25915-25872,4bed,3.5bath,"2,148sqft",10-08-2020,Listed,"$1,069,900",$498,MLSListings
+881,3055-Manuel-Loop_San-Jose_CA_95136_M25915-25872,4bed,3.5bath,"2,148sqft",12-01-2016,Sold,"$882,000",$410,Public Record
+882,3055-Manuel-Loop_San-Jose_CA_95136_M25915-25872,4bed,3.5bath,"2,148sqft",10-08-2020,Listed,"$1,069,900",$498,MLSListings
+883,3055-Manuel-Loop_San-Jose_CA_95136_M25915-25872,4bed,3.5bath,"2,148sqft",12-01-2016,Sold,"$882,000",$410,Public Record
+884,420-Macarthur-Ave_San-Jose_CA_95128_M24297-73006,4bed,3bath,"2,360sqft",10-10-2020,Listed,"$1,250,000",$529,MLSListings
+885,420-Macarthur-Ave_San-Jose_CA_95128_M24297-73006,4bed,3bath,"2,360sqft",10-10-2020,Listed,"$1,250,000",$529,MLSListings
+886,203-Castillon-Way_San-Jose_CA_95119_M27779-34186,4bed,2bath,"2,010sqft",10-12-2020,Listed,"$1,099,000",$546,MLSListings
+887,203-Castillon-Way_San-Jose_CA_95119_M27779-34186,4bed,2bath,"2,010sqft",07/14/2006,Sold,"$811,000",$403,Public Record
+888,203-Castillon-Way_San-Jose_CA_95119_M27779-34186,4bed,2bath,"2,010sqft",04/27/1976,Sold,"$52,500",$26,Public Record
+889,203-Castillon-Way_San-Jose_CA_95119_M27779-34186,4bed,2bath,"2,010sqft",10-12-2020,Listed,"$1,099,000",$546,MLSListings
+890,203-Castillon-Way_San-Jose_CA_95119_M27779-34186,4bed,2bath,"2,010sqft",07/14/2006,Sold,"$811,000",$403,Public Record
+891,203-Castillon-Way_San-Jose_CA_95119_M27779-34186,4bed,2bath,"2,010sqft",04/27/1976,Sold,"$52,500",$26,Public Record
+892,181-Hudson-Pl_San-Jose_CA_95123_M25984-20072,3bed,3.5bath,"1,739sqft",10-07-2020,Listed,"$799,888",$459,MLSListings
+893,181-Hudson-Pl_San-Jose_CA_95123_M25984-20072,3bed,3.5bath,"1,739sqft",07/23/2019,Price Changed,"$829,000",$476,MLSListings
+894,181-Hudson-Pl_San-Jose_CA_95123_M25984-20072,3bed,3.5bath,"1,739sqft",07-09-2019,Price Changed,"$849,000",$488,MLSListings
+895,181-Hudson-Pl_San-Jose_CA_95123_M25984-20072,3bed,3.5bath,"1,739sqft",06/20/2019,Price Changed,"$859,990",$494,MLSListings
+896,181-Hudson-Pl_San-Jose_CA_95123_M25984-20072,3bed,3.5bath,"1,739sqft",06-05-2019,Listed,"$879,990",$506,MLSListings
+897,181-Hudson-Pl_San-Jose_CA_95123_M25984-20072,3bed,3.5bath,"1,739sqft",04/24/2018,Sold,"$812,500",$467,Public Record
+898,181-Hudson-Pl_San-Jose_CA_95123_M25984-20072,3bed,3.5bath,"1,739sqft",10-07-2020,Listed,"$799,888",$459,MLSListings
+899,181-Hudson-Pl_San-Jose_CA_95123_M25984-20072,3bed,3.5bath,"1,739sqft",07/23/2019,Price Changed,"$829,000",$476,MLSListings
+900,181-Hudson-Pl_San-Jose_CA_95123_M25984-20072,3bed,3.5bath,"1,739sqft",07-09-2019,Price Changed,"$849,000",$488,MLSListings
+901,181-Hudson-Pl_San-Jose_CA_95123_M25984-20072,3bed,3.5bath,"1,739sqft",06/20/2019,Price Changed,"$859,990",$494,MLSListings
+902,181-Hudson-Pl_San-Jose_CA_95123_M25984-20072,3bed,3.5bath,"1,739sqft",06-05-2019,Listed,"$879,990",$506,MLSListings
+903,181-Hudson-Pl_San-Jose_CA_95123_M25984-20072,3bed,3.5bath,"1,739sqft",04/24/2018,Sold,"$812,500",$467,Public Record
+904,540-S-8th-St_San-Jose_CA_95112_M22510-17727,3bed,2bath,"1,092sqft",10-08-2020,Listed,"$949,000",$869,MLSListings
+905,540-S-8th-St_San-Jose_CA_95112_M22510-17727,3bed,2bath,"1,092sqft",05-12-2015,Sold,"$540,000",$494,MLSListings
+906,540-S-8th-St_San-Jose_CA_95112_M22510-17727,3bed,2bath,"1,092sqft",10-12-2014,Listed,"$598,000",$547,MLSListings
+907,540-S-8th-St_San-Jose_CA_95112_M22510-17727,3bed,2bath,"1,092sqft",04-05-2013,Listed,"$549,000",$502,MLSListings
+908,540-S-8th-St_San-Jose_CA_95112_M22510-17727,3bed,2bath,"1,092sqft",04/30/1997,Sold,"$200,000",$183,Public Record
+909,540-S-8th-St_San-Jose_CA_95112_M22510-17727,3bed,2bath,"1,092sqft",05/31/1996,Sold,"$199,000",$182,Public Record
+910,540-S-8th-St_San-Jose_CA_95112_M22510-17727,3bed,2bath,"1,092sqft",11/15/1989,Sold,"$215,000",$196,Public Record
+911,540-S-8th-St_San-Jose_CA_95112_M22510-17727,3bed,2bath,"1,092sqft",10-08-2020,Listed,"$949,000",$869,MLSListings
+912,540-S-8th-St_San-Jose_CA_95112_M22510-17727,3bed,2bath,"1,092sqft",05-12-2015,Sold,"$540,000",$494,MLSListings
+913,540-S-8th-St_San-Jose_CA_95112_M22510-17727,3bed,2bath,"1,092sqft",10-12-2014,Listed,"$598,000",$547,MLSListings
+914,540-S-8th-St_San-Jose_CA_95112_M22510-17727,3bed,2bath,"1,092sqft",04-05-2013,Listed,"$549,000",$502,MLSListings
+915,540-S-8th-St_San-Jose_CA_95112_M22510-17727,3bed,2bath,"1,092sqft",04/30/1997,Sold,"$200,000",$183,Public Record
+916,540-S-8th-St_San-Jose_CA_95112_M22510-17727,3bed,2bath,"1,092sqft",05/31/1996,Sold,"$199,000",$182,Public Record
+917,540-S-8th-St_San-Jose_CA_95112_M22510-17727,3bed,2bath,"1,092sqft",11/15/1989,Sold,"$215,000",$196,Public Record
+918,5425-Colony-Green-Dr_San-Jose_CA_95123_M22892-91776,2bed,1bath,942sqft,10-11-2020,Listed,"$612,888",$650,MLSListings
+919,5425-Colony-Green-Dr_San-Jose_CA_95123_M22892-91776,2bed,1bath,942sqft,09/18/2018,Sold,"$615,000",$652,MLSListings
+920,5425-Colony-Green-Dr_San-Jose_CA_95123_M22892-91776,2bed,1bath,942sqft,08/14/2018,Sold,"$625,000",$663,Public Record
+921,5425-Colony-Green-Dr_San-Jose_CA_95123_M22892-91776,2bed,1bath,942sqft,08-08-2018,Price Changed,"$615,000",$652,MLSListings
+922,5425-Colony-Green-Dr_San-Jose_CA_95123_M22892-91776,2bed,1bath,942sqft,08-05-2018,Listed,"$625,000",$663,MLSListings
+923,5425-Colony-Green-Dr_San-Jose_CA_95123_M22892-91776,2bed,1bath,942sqft,01/13/2014,Sold,"$250,000",$265,MLSListings
+924,5425-Colony-Green-Dr_San-Jose_CA_95123_M22892-91776,2bed,1bath,942sqft,03/22/2013,Sold,"$250,000",$265,Public Record
+925,5425-Colony-Green-Dr_San-Jose_CA_95123_M22892-91776,2bed,1bath,942sqft,01/15/2013,Relisted,"$243,000",$257,MLSListings
+926,5425-Colony-Green-Dr_San-Jose_CA_95123_M22892-91776,2bed,1bath,942sqft,,,,,
+927,5425-Colony-Green-Dr_San-Jose_CA_95123_M22892-91776,2bed,1bath,942sqft,,,,,
+928,5425-Colony-Green-Dr_San-Jose_CA_95123_M22892-91776,2bed,1bath,942sqft,,,,,
+929,5425-Colony-Green-Dr_San-Jose_CA_95123_M22892-91776,2bed,1bath,942sqft,,,,,
+930,5425-Colony-Green-Dr_San-Jose_CA_95123_M22892-91776,2bed,1bath,942sqft,10-11-2020,Listed,"$612,888",$650,MLSListings
+931,5425-Colony-Green-Dr_San-Jose_CA_95123_M22892-91776,2bed,1bath,942sqft,09/18/2018,Sold,"$615,000",$652,MLSListings
+932,5425-Colony-Green-Dr_San-Jose_CA_95123_M22892-91776,2bed,1bath,942sqft,08/14/2018,Sold,"$625,000",$663,Public Record
+933,5425-Colony-Green-Dr_San-Jose_CA_95123_M22892-91776,2bed,1bath,942sqft,08-08-2018,Price Changed,"$615,000",$652,MLSListings
+934,5425-Colony-Green-Dr_San-Jose_CA_95123_M22892-91776,2bed,1bath,942sqft,08-05-2018,Listed,"$625,000",$663,MLSListings
+935,5425-Colony-Green-Dr_San-Jose_CA_95123_M22892-91776,2bed,1bath,942sqft,01/13/2014,Sold,"$250,000",$265,MLSListings
+936,5425-Colony-Green-Dr_San-Jose_CA_95123_M22892-91776,2bed,1bath,942sqft,03/22/2013,Sold,"$250,000",$265,Public Record
+937,5425-Colony-Green-Dr_San-Jose_CA_95123_M22892-91776,2bed,1bath,942sqft,01/15/2013,Relisted,"$243,000",$257,MLSListings
+938,5425-Colony-Green-Dr_San-Jose_CA_95123_M22892-91776,2bed,1bath,942sqft,,,,,
+939,5425-Colony-Green-Dr_San-Jose_CA_95123_M22892-91776,2bed,1bath,942sqft,,,,,
+940,5425-Colony-Green-Dr_San-Jose_CA_95123_M22892-91776,2bed,1bath,942sqft,,,,,
+941,5425-Colony-Green-Dr_San-Jose_CA_95123_M22892-91776,2bed,1bath,942sqft,,,,,
+942,30-E-Julian-St-Unit-105_San-Jose_CA_95112_M10736-89326,2bed,2bath,"1,271sqft",10-10-2020,Listed,"$814,999",$641,MLSListings
+943,30-E-Julian-St-Unit-105_San-Jose_CA_95112_M10736-89326,2bed,2bath,"1,271sqft",06-12-2015,Sold,"$575,000",$452,MLSListings
+944,30-E-Julian-St-Unit-105_San-Jose_CA_95112_M10736-89326,2bed,2bath,"1,271sqft",04/16/2015,Listed,"$515,000",$405,MLSListings
+945,30-E-Julian-St-Unit-105_San-Jose_CA_95112_M10736-89326,2bed,2bath,"1,271sqft",02-02-2015,Listed,"$509,000",$400,MLSListings
+946,30-E-Julian-St-Unit-105_San-Jose_CA_95112_M10736-89326,2bed,2bath,"1,271sqft",04-12-2002,Sold,"$395,000",$310,Public Record
+947,30-E-Julian-St-Unit-105_San-Jose_CA_95112_M10736-89326,2bed,2bath,"1,271sqft",10-10-2020,Listed,"$814,999",$641,MLSListings
+948,30-E-Julian-St-Unit-105_San-Jose_CA_95112_M10736-89326,2bed,2bath,"1,271sqft",06-12-2015,Sold,"$575,000",$452,MLSListings
+949,30-E-Julian-St-Unit-105_San-Jose_CA_95112_M10736-89326,2bed,2bath,"1,271sqft",04/16/2015,Listed,"$515,000",$405,MLSListings
+950,30-E-Julian-St-Unit-105_San-Jose_CA_95112_M10736-89326,2bed,2bath,"1,271sqft",02-02-2015,Listed,"$509,000",$400,MLSListings
+951,30-E-Julian-St-Unit-105_San-Jose_CA_95112_M10736-89326,2bed,2bath,"1,271sqft",04-12-2002,Sold,"$395,000",$310,Public Record
+952,3055-Hope-St_San-Jose_CA_95111_M10518-19293,4bed,1bath,"1,210sqft",10-08-2020,Listed,"$850,000",$702,MLSListings
+953,3055-Hope-St_San-Jose_CA_95111_M10518-19293,4bed,1bath,"1,210sqft",10-08-2020,Listed,"$850,000",$702,MLSListings
+954,128-Houlton-Ct_San-Jose_CA_95139_M17913-66997,3bed,2bath,"1,120sqft",10-08-2020,Listed,"$929,000",$829,MLSListings
+955,128-Houlton-Ct_San-Jose_CA_95139_M17913-66997,3bed,2bath,"1,120sqft",11/22/2014,Sold,"$575,000",$513,MLSListings
+956,128-Houlton-Ct_San-Jose_CA_95139_M17913-66997,3bed,2bath,"1,120sqft",10/13/2014,Listed,"$575,000",$513,MLSListings
+957,128-Houlton-Ct_San-Jose_CA_95139_M17913-66997,3bed,2bath,"1,120sqft",12/19/1997,Sold,"$200,000",$178,Public Record
+958,128-Houlton-Ct_San-Jose_CA_95139_M17913-66997,3bed,2bath,"1,120sqft",06/14/1984,Sold,"$94,500",$84,Public Record
+959,128-Houlton-Ct_San-Jose_CA_95139_M17913-66997,3bed,2bath,"1,120sqft",10-08-2020,Listed,"$929,000",$829,MLSListings
+960,128-Houlton-Ct_San-Jose_CA_95139_M17913-66997,3bed,2bath,"1,120sqft",11/22/2014,Sold,"$575,000",$513,MLSListings
+961,128-Houlton-Ct_San-Jose_CA_95139_M17913-66997,3bed,2bath,"1,120sqft",10/13/2014,Listed,"$575,000",$513,MLSListings
+962,128-Houlton-Ct_San-Jose_CA_95139_M17913-66997,3bed,2bath,"1,120sqft",12/19/1997,Sold,"$200,000",$178,Public Record
+963,128-Houlton-Ct_San-Jose_CA_95139_M17913-66997,3bed,2bath,"1,120sqft",06/14/1984,Sold,"$94,500",$84,Public Record
+964,1645-Klipspringer-Dr_San-Jose_CA_95124_M25002-44126,3bed,2.5bath,"1,438sqft",10-08-2020,Listed,"$1,399,000",$972,MLSListings
+965,1645-Klipspringer-Dr_San-Jose_CA_95124_M25002-44126,3bed,2.5bath,"1,438sqft",08/31/1992,Sold,"$280,500",$195,Public Record
+966,1645-Klipspringer-Dr_San-Jose_CA_95124_M25002-44126,3bed,2.5bath,"1,438sqft",10-08-2020,Listed,"$1,399,000",$972,MLSListings
+967,1645-Klipspringer-Dr_San-Jose_CA_95124_M25002-44126,3bed,2.5bath,"1,438sqft",08/31/1992,Sold,"$280,500",$195,Public Record
+968,298-Agustin-Narvaez-St_San-Jose_CA_95136_M93696-47577,3bed,3.5bath,"1,792sqft",10-07-2020,Listed,"$1,058,143",$590,MLSListings
+969,298-Agustin-Narvaez-St_San-Jose_CA_95136_M93696-47577,3bed,3.5bath,"1,792sqft",10-07-2020,Listed,"$1,058,143",$590,MLSListings
+970,15210-Skyview-Dr_San-Jose_CA_95132_M14804-24344,4bed,2.5bath,"3,557sqft",10-12-2020,Listed,"$1,688,888",$474,MLSListings
+971,15210-Skyview-Dr_San-Jose_CA_95132_M14804-24344,4bed,2.5bath,"3,557sqft",10-12-2020,Listed,"$1,688,888",$474,MLSListings
+972,1756-Chevalier-Dr_San-Jose_CA_95124_M17743-29460,3bed,2bath,"1,066sqft",10-09-2020,Listed,"$1,145,000","$1,074",MLSListings
+973,1756-Chevalier-Dr_San-Jose_CA_95124_M17743-29460,3bed,2bath,"1,066sqft",10-09-2020,Listed,"$1,145,000","$1,074",MLSListings
+974,3750-Jasmine-Cir_San-Jose_CA_95135_M21043-87616,2bed,2bath,"1,037sqft",10-08-2020,Listed,"$725,888",$699,MLSListings
+975,3750-Jasmine-Cir_San-Jose_CA_95135_M21043-87616,2bed,2bath,"1,037sqft",01/19/2017,Sold,"$680,000",$655,MLSListings
+976,3750-Jasmine-Cir_San-Jose_CA_95135_M21043-87616,2bed,2bath,"1,037sqft",12/16/2016,Listed,"$668,888",$645,MLSListings
+977,3750-Jasmine-Cir_San-Jose_CA_95135_M21043-87616,2bed,2bath,"1,037sqft",07/22/2016,Price Changed,"$659,888",$636,MLSListings
+978,3750-Jasmine-Cir_San-Jose_CA_95135_M21043-87616,2bed,2bath,"1,037sqft",06/22/2016,Listed,"$678,000",$653,MLSListings
+979,3750-Jasmine-Cir_San-Jose_CA_95135_M21043-87616,2bed,2bath,"1,037sqft",05-08-2002,Sold,"$375,000",$361,Public Record
+980,3750-Jasmine-Cir_San-Jose_CA_95135_M21043-87616,2bed,2bath,"1,037sqft",03-07-2000,Sold,"$295,000",$284,Public Record
+981,3750-Jasmine-Cir_San-Jose_CA_95135_M21043-87616,2bed,2bath,"1,037sqft",10-08-2020,Listed,"$725,888",$699,MLSListings
+982,3750-Jasmine-Cir_San-Jose_CA_95135_M21043-87616,2bed,2bath,"1,037sqft",01/19/2017,Sold,"$680,000",$655,MLSListings
+983,3750-Jasmine-Cir_San-Jose_CA_95135_M21043-87616,2bed,2bath,"1,037sqft",12/16/2016,Listed,"$668,888",$645,MLSListings
+984,3750-Jasmine-Cir_San-Jose_CA_95135_M21043-87616,2bed,2bath,"1,037sqft",07/22/2016,Price Changed,"$659,888",$636,MLSListings
+985,3750-Jasmine-Cir_San-Jose_CA_95135_M21043-87616,2bed,2bath,"1,037sqft",06/22/2016,Listed,"$678,000",$653,MLSListings
+986,3750-Jasmine-Cir_San-Jose_CA_95135_M21043-87616,2bed,2bath,"1,037sqft",05-08-2002,Sold,"$375,000",$361,Public Record
+987,3750-Jasmine-Cir_San-Jose_CA_95135_M21043-87616,2bed,2bath,"1,037sqft",03-07-2000,Sold,"$295,000",$284,Public Record
+988,5461-Spinnaker-Walkway-Apt-4_San-Jose_CA_95123_M20947-54322,2bed,1bath,798sqft,10-12-2020,Listed,"$420,000",$526,MLSListings
+989,5461-Spinnaker-Walkway-Apt-4_San-Jose_CA_95123_M20947-54322,2bed,1bath,798sqft,06/17/2011,Sold,"$141,500",$177,MLSListings
+990,5461-Spinnaker-Walkway-Apt-4_San-Jose_CA_95123_M20947-54322,2bed,1bath,798sqft,02/23/2011,Listed,"$150,000",$187,MLSListings
+991,5461-Spinnaker-Walkway-Apt-4_San-Jose_CA_95123_M20947-54322,2bed,1bath,798sqft,07/29/2003,Sold,"$219,000",$274,Public Record
+992,5461-Spinnaker-Walkway-Apt-4_San-Jose_CA_95123_M20947-54322,2bed,1bath,798sqft,10/27/2000,Sold,"$208,000",$260,Public Record
+993,5461-Spinnaker-Walkway-Apt-4_San-Jose_CA_95123_M20947-54322,2bed,1bath,798sqft,11-10-1987,Sold,"$68,000",$85,Public Record
+994,5461-Spinnaker-Walkway-Apt-4_San-Jose_CA_95123_M20947-54322,2bed,1bath,798sqft,10-12-2020,Listed,"$420,000",$526,MLSListings
+995,5461-Spinnaker-Walkway-Apt-4_San-Jose_CA_95123_M20947-54322,2bed,1bath,798sqft,06/17/2011,Sold,"$141,500",$177,MLSListings
+996,5461-Spinnaker-Walkway-Apt-4_San-Jose_CA_95123_M20947-54322,2bed,1bath,798sqft,02/23/2011,Listed,"$150,000",$187,MLSListings
+997,5461-Spinnaker-Walkway-Apt-4_San-Jose_CA_95123_M20947-54322,2bed,1bath,798sqft,07/29/2003,Sold,"$219,000",$274,Public Record
+998,5461-Spinnaker-Walkway-Apt-4_San-Jose_CA_95123_M20947-54322,2bed,1bath,798sqft,10/27/2000,Sold,"$208,000",$260,Public Record
+999,5461-Spinnaker-Walkway-Apt-4_San-Jose_CA_95123_M20947-54322,2bed,1bath,798sqft,11-10-1987,Sold,"$68,000",$85,Public Record
+1000,1550-Technology-Dr-Unit-2070_San-Jose_CA_95110_M11422-00576,2bed,2bath,"1,133sqft",10-09-2020,Listed,"$699,800",$617,MLSListings
+1001,1550-Technology-Dr-Unit-2070_San-Jose_CA_95110_M11422-00576,2bed,2bath,"1,133sqft",12-11-2015,Sold,"$580,000",$511,MLSListings
+1002,1550-Technology-Dr-Unit-2070_San-Jose_CA_95110_M11422-00576,2bed,2bath,"1,133sqft",10/31/2015,Listed,"$565,800",$499,MLSListings
+1003,1550-Technology-Dr-Unit-2070_San-Jose_CA_95110_M11422-00576,2bed,2bath,"1,133sqft",11/30/2005,Sold,"$450,000",$397,Public Record
+1004,1550-Technology-Dr-Unit-2070_San-Jose_CA_95110_M11422-00576,2bed,2bath,"1,133sqft",10-09-2020,Listed,"$699,800",$617,MLSListings
+1005,1550-Technology-Dr-Unit-2070_San-Jose_CA_95110_M11422-00576,2bed,2bath,"1,133sqft",12-11-2015,Sold,"$580,000",$511,MLSListings
+1006,1550-Technology-Dr-Unit-2070_San-Jose_CA_95110_M11422-00576,2bed,2bath,"1,133sqft",10/31/2015,Listed,"$565,800",$499,MLSListings
+1007,1550-Technology-Dr-Unit-2070_San-Jose_CA_95110_M11422-00576,2bed,2bath,"1,133sqft",11/30/2005,Sold,"$450,000",$397,Public Record
+1008,3206-Woodcrest-Dr_San-Jose_CA_95118_M18650-44914,3bed,2bath,"1,573sqft",10-10-2020,Listed,"$1,299,000",$825,MLSListings
+1009,3206-Woodcrest-Dr_San-Jose_CA_95118_M18650-44914,3bed,2bath,"1,573sqft",11/16/1995,Sold,"$257,000",$176,Public Record
+1010,3206-Woodcrest-Dr_San-Jose_CA_95118_M18650-44914,3bed,2bath,"1,573sqft",09/24/1976,Sold,"$43,200",$29,Public Record
+1011,3206-Woodcrest-Dr_San-Jose_CA_95118_M18650-44914,3bed,2bath,"1,573sqft",10-10-2020,Listed,"$1,299,000",$825,MLSListings
+1012,3206-Woodcrest-Dr_San-Jose_CA_95118_M18650-44914,3bed,2bath,"1,573sqft",11/16/1995,Sold,"$257,000",$176,Public Record
+1013,3206-Woodcrest-Dr_San-Jose_CA_95118_M18650-44914,3bed,2bath,"1,573sqft",09/24/1976,Sold,"$43,200",$29,Public Record
+1014,220-Mountain-Springs-Dr_San-Jose_CA_95136_M92619-51210,2bed,2bath,"1,320sqft",10-09-2020,Listed,"$275,000",$208,MLSListings
+1015,220-Mountain-Springs-Dr_San-Jose_CA_95136_M92619-51210,2bed,2bath,"1,320sqft",10-09-2020,Listed,"$275,000",$208,MetroList
+1016,1750-Hudson-Dr_San-Jose_CA_95124_M21872-81593,4bed,2bath,"1,546sqft",10-07-2020,Listed,"$1,548,000","$1,001",MLSListings
+1017,1750-Hudson-Dr_San-Jose_CA_95124_M21872-81593,4bed,2bath,"1,546sqft",11/27/2007,Sold,"$808,000",$522,Public Record
+1018,1750-Hudson-Dr_San-Jose_CA_95124_M21872-81593,4bed,2bath,"1,546sqft",10-07-2020,Listed,"$1,548,000","$1,001",MLSListings
+1019,1750-Hudson-Dr_San-Jose_CA_95124_M21872-81593,4bed,2bath,"1,546sqft",11/27/2007,Sold,"$808,000",$522,Public Record
+1020,2711-Aida-Ave_San-Jose_CA_95122_M25491-71160,4bed,2bath,"1,502sqft",10-07-2020,Listed,"$848,000",$564,Bareis
+1021,2711-Aida-Ave_San-Jose_CA_95122_M25491-71160,4bed,2bath,"1,502sqft",11/25/2014,Sold,"$530,000",$430,MLSListings
+1022,2711-Aida-Ave_San-Jose_CA_95122_M25491-71160,4bed,2bath,"1,502sqft",10/23/2014,Listed,"$529,888",$430,MLSListings
+1023,2711-Aida-Ave_San-Jose_CA_95122_M25491-71160,4bed,2bath,"1,502sqft",10-07-2020,Listed,"$848,000",$564,Bareis
+1024,2711-Aida-Ave_San-Jose_CA_95122_M25491-71160,4bed,2bath,"1,502sqft",11/25/2014,Sold,"$530,000",$430,MLSListings
+1025,2711-Aida-Ave_San-Jose_CA_95122_M25491-71160,4bed,2bath,"1,502sqft",10/23/2014,Listed,"$529,888",$430,MLSListings
+1026,2416-Glen-Fox-Ct_San-Jose_CA_95148_M21056-67956,5bed,2bath,"2,206sqft",10-08-2020,Listed,"$1,199,000",$543,MLSListings
+1027,2416-Glen-Fox-Ct_San-Jose_CA_95148_M21056-67956,5bed,2bath,"2,206sqft",08/15/2020,Listed,"$1,199,000",$543,MLSListings
+1028,2416-Glen-Fox-Ct_San-Jose_CA_95148_M21056-67956,5bed,2bath,"2,206sqft",06/30/2008,Sold,"$625,000",$283,Public Record
+1029,2416-Glen-Fox-Ct_San-Jose_CA_95148_M21056-67956,5bed,2bath,"2,206sqft",09/21/2004,Sold,"$645,000",$292,Public Record
+1030,2416-Glen-Fox-Ct_San-Jose_CA_95148_M21056-67956,5bed,2bath,"2,206sqft",08-07-1985,Sold,"$152,500",$69,Public Record
+1031,2416-Glen-Fox-Ct_San-Jose_CA_95148_M21056-67956,5bed,2bath,"2,206sqft",10-08-2020,Listed,"$1,199,000",$543,MLSListings
+1032,2416-Glen-Fox-Ct_San-Jose_CA_95148_M21056-67956,5bed,2bath,"2,206sqft",08/15/2020,Listed,"$1,199,000",$543,MLSListings
+1033,2416-Glen-Fox-Ct_San-Jose_CA_95148_M21056-67956,5bed,2bath,"2,206sqft",06/30/2008,Sold,"$625,000",$283,Public Record
+1034,2416-Glen-Fox-Ct_San-Jose_CA_95148_M21056-67956,5bed,2bath,"2,206sqft",09/21/2004,Sold,"$645,000",$292,Public Record
+1035,2416-Glen-Fox-Ct_San-Jose_CA_95148_M21056-67956,5bed,2bath,"2,206sqft",08-07-1985,Sold,"$152,500",$69,Public Record
+1036,4423-Latimer-Ave_San-Jose_CA_95130_M16450-98172,3bed,2bath,"1,363sqft",10/13/2020,Listed,"$1,348,000",$988,MLSListings
+1037,4423-Latimer-Ave_San-Jose_CA_95130_M16450-98172,3bed,2bath,"1,363sqft",03-01-1995,Sold,"$232,000",$170,Public Record
+1038,4423-Latimer-Ave_San-Jose_CA_95130_M16450-98172,3bed,2bath,"1,363sqft",03/25/1985,Sold,"$133,500",$97,Public Record
+1039,4423-Latimer-Ave_San-Jose_CA_95130_M16450-98172,3bed,2bath,"1,363sqft",04/19/1983,Sold,"$62,000",$45,Public Record
+1040,4423-Latimer-Ave_San-Jose_CA_95130_M16450-98172,3bed,2bath,"1,363sqft",10/13/2020,Listed,"$1,348,000",$988,MLSListings
+1041,4423-Latimer-Ave_San-Jose_CA_95130_M16450-98172,3bed,2bath,"1,363sqft",03-01-1995,Sold,"$232,000",$170,Public Record
+1042,4423-Latimer-Ave_San-Jose_CA_95130_M16450-98172,3bed,2bath,"1,363sqft",03/25/1985,Sold,"$133,500",$97,Public Record
+1043,4423-Latimer-Ave_San-Jose_CA_95130_M16450-98172,3bed,2bath,"1,363sqft",04/19/1983,Sold,"$62,000",$45,Public Record
+1044,4444-Terra-Brava-Pl_San-Jose_CA_95121_M21618-17582,5bed,3.5bath,"4,029sqft",10-07-2020,Listed,"$2,465,000",$611,MLSListings
+1045,4444-Terra-Brava-Pl_San-Jose_CA_95121_M21618-17582,5bed,3.5bath,"4,029sqft",12-01-2011,Sold,"$1,215,000",$301,MLSListings
+1046,4444-Terra-Brava-Pl_San-Jose_CA_95121_M21618-17582,5bed,3.5bath,"4,029sqft",10/27/2011,Listed,"$1,218,000",$302,MLSListings
+1047,4444-Terra-Brava-Pl_San-Jose_CA_95121_M21618-17582,5bed,3.5bath,"4,029sqft",03-09-2005,Sold,"$1,600,000",$397,Public Record
+1048,4444-Terra-Brava-Pl_San-Jose_CA_95121_M21618-17582,5bed,3.5bath,"4,029sqft",11-06-2002,Sold,"$1,030,000",$255,Public Record
+1049,4444-Terra-Brava-Pl_San-Jose_CA_95121_M21618-17582,5bed,3.5bath,"4,029sqft",12-10-1999,Sold,"$844,000",$209,Public Record
+1050,4444-Terra-Brava-Pl_San-Jose_CA_95121_M21618-17582,5bed,3.5bath,"4,029sqft",10-07-2020,Listed,"$2,465,000",$611,MLSListings
+1051,4444-Terra-Brava-Pl_San-Jose_CA_95121_M21618-17582,5bed,3.5bath,"4,029sqft",12-01-2011,Sold,"$1,215,000",$301,MLSListings
+1052,4444-Terra-Brava-Pl_San-Jose_CA_95121_M21618-17582,5bed,3.5bath,"4,029sqft",10/27/2011,Listed,"$1,218,000",$302,MLSListings
+1053,4444-Terra-Brava-Pl_San-Jose_CA_95121_M21618-17582,5bed,3.5bath,"4,029sqft",03-09-2005,Sold,"$1,600,000",$397,Public Record
+1054,4444-Terra-Brava-Pl_San-Jose_CA_95121_M21618-17582,5bed,3.5bath,"4,029sqft",11-06-2002,Sold,"$1,030,000",$255,Public Record
+1055,4444-Terra-Brava-Pl_San-Jose_CA_95121_M21618-17582,5bed,3.5bath,"4,029sqft",12-10-1999,Sold,"$844,000",$209,Public Record
+1056,1560-Wawona-Dr_San-Jose_CA_95125_M27548-59567,3bed,2bath,"1,800sqft",10-08-2020,Listed,"$1,588,000",$882,MLSListings
+1057,1560-Wawona-Dr_San-Jose_CA_95125_M27548-59567,3bed,2bath,"1,800sqft",10-08-2020,Listed,"$1,588,000",$882,MLSListings
+1058,2993-Knights-Bridge-Rd_San-Jose_CA_95132_M13119-35572,4bed,2bath,"1,480sqft",10-10-2020,Listed,"$1,050,000",$709,MLSListings
+1059,2993-Knights-Bridge-Rd_San-Jose_CA_95132_M13119-35572,4bed,2bath,"1,480sqft",10-10-2020,Listed,"$1,050,000",$709,MLSListings
+1060,860-Tybalt-Dr_San-Jose_CA_95127_M19144-86670,4bed,3bath,"2,388sqft",10-08-2020,Listed,"$1,148,800",$481,MLSListings
+1061,860-Tybalt-Dr_San-Jose_CA_95127_M19144-86670,4bed,3bath,"2,388sqft",10-08-2020,Listed,"$1,148,800",$481,MLSListings
+1062,85-Mountain-View-Ave_San-Jose_CA_95127_M25510-31308,2bed,1.5bath,"1,297sqft",10-07-2020,Listed,"$799,000",$616,MLSListings
+1063,85-Mountain-View-Ave_San-Jose_CA_95127_M25510-31308,2bed,1.5bath,"1,297sqft",02-06-2014,Sold,"$475,000",$366,Public Record
+1064,85-Mountain-View-Ave_San-Jose_CA_95127_M25510-31308,2bed,1.5bath,"1,297sqft",10-07-2020,Listed,"$799,000",$616,MLSListings
+1065,85-Mountain-View-Ave_San-Jose_CA_95127_M25510-31308,2bed,1.5bath,"1,297sqft",02-06-2014,Sold,"$475,000",$366,Public Record
+1066,5569-Perugia-Cir_San-Jose_CA_95138_M26546-12958,5bed,4.5bath,"4,366sqft",10-09-2020,Listed,"$3,100,000",$710,MLSListings
+1067,5569-Perugia-Cir_San-Jose_CA_95138_M26546-12958,5bed,4.5bath,"4,366sqft",12-05-2008,Sold,"$1,640,000",$375,Public Record
+1068,5569-Perugia-Cir_San-Jose_CA_95138_M26546-12958,5bed,4.5bath,"4,366sqft",06/21/1996,Sold,"$771,000",$176,Public Record
+1069,5569-Perugia-Cir_San-Jose_CA_95138_M26546-12958,5bed,4.5bath,"4,366sqft",10-09-2020,Listed,"$3,100,000",$710,MLSListings
+1070,5569-Perugia-Cir_San-Jose_CA_95138_M26546-12958,5bed,4.5bath,"4,366sqft",12-05-2008,Sold,"$1,640,000",$375,Public Record
+1071,5569-Perugia-Cir_San-Jose_CA_95138_M26546-12958,5bed,4.5bath,"4,366sqft",06/21/1996,Sold,"$771,000",$176,Public Record
+1072,30-E-Julian-St-Unit-102_San-Jose_CA_95112_M10685-09360,2bed,2bath,"1,235sqft",10-11-2020,Listed,"$769,000",$622,MLSListings
+1073,30-E-Julian-St-Unit-102_San-Jose_CA_95112_M10685-09360,2bed,2bath,"1,235sqft",10/25/2007,Sold,"$430,000",$348,Public Record
+1074,30-E-Julian-St-Unit-102_San-Jose_CA_95112_M10685-09360,2bed,2bath,"1,235sqft",12/19/2001,Sold,"$405,000",$327,Public Record
+1075,30-E-Julian-St-Unit-102_San-Jose_CA_95112_M10685-09360,2bed,2bath,"1,235sqft",10-11-2020,Listed,"$769,000",$622,MLSListings
+1076,30-E-Julian-St-Unit-102_San-Jose_CA_95112_M10685-09360,2bed,2bath,"1,235sqft",10/25/2007,Sold,"$430,000",$348,Public Record
+1077,30-E-Julian-St-Unit-102_San-Jose_CA_95112_M10685-09360,2bed,2bath,"1,235sqft",12/19/2001,Sold,"$405,000",$327,Public Record
+1078,1350-Oakland-Rd-Spc-82_San-Jose_CA_95112_M25924-84335,2bed,2bath,880sqft,10-12-2020,Relisted,"$219,900",$249,MLSListings
+1079,1350-Oakland-Rd-Spc-82_San-Jose_CA_95112_M25924-84335,2bed,2bath,880sqft,04/25/2011,Sold,"$50,000",$56,MLSListings
+1080,1350-Oakland-Rd-Spc-82_San-Jose_CA_95112_M25924-84335,2bed,2bath,880sqft,02-03-2011,Listed,"$55,000",$62,MLSListings
+1081,637-Boardwalk_San-Jose_CA_95112_M19649-39221,3bed,2.5bath,"1,507sqft",10-09-2020,Listed,"$818,888",$543,MLSListings
+1082,637-Boardwalk_San-Jose_CA_95112_M19649-39221,3bed,2.5bath,"1,507sqft",12-08-2016,Sold,"$702,000",$465,MLSListings
+1083,637-Boardwalk_San-Jose_CA_95112_M19649-39221,3bed,2.5bath,"1,507sqft",10-01-2016,Listed,"$649,000",$430,MLSListings
+1084,637-Boardwalk_San-Jose_CA_95112_M19649-39221,3bed,2.5bath,"1,507sqft",04/29/2009,Sold,"$452,000",$299,Public Record
+1085,637-Boardwalk_San-Jose_CA_95112_M19649-39221,3bed,2.5bath,"1,507sqft",10-09-2020,Listed,"$818,888",$543,MLSListings
+1086,637-Boardwalk_San-Jose_CA_95112_M19649-39221,3bed,2.5bath,"1,507sqft",12-08-2016,Sold,"$702,000",$465,MLSListings
+1087,637-Boardwalk_San-Jose_CA_95112_M19649-39221,3bed,2.5bath,"1,507sqft",10-01-2016,Listed,"$649,000",$430,MLSListings
+1088,637-Boardwalk_San-Jose_CA_95112_M19649-39221,3bed,2.5bath,"1,507sqft",04/29/2009,Sold,"$452,000",$299,Public Record
+1089,1417-Searcy-Dr_San-Jose_CA_95118_M23467-21742,3bed,2bath,"1,217sqft",10-07-2020,Listed,"$1,148,000",$943,MLSListings
+1090,1417-Searcy-Dr_San-Jose_CA_95118_M23467-21742,3bed,2bath,"1,217sqft",12-11-2015,Sold,"$804,500",$661,MLSListings
+1091,1417-Searcy-Dr_San-Jose_CA_95118_M23467-21742,3bed,2bath,"1,217sqft",10/23/2015,Listed,"$769,000",$631,MLSListings
+1092,1417-Searcy-Dr_San-Jose_CA_95118_M23467-21742,3bed,2bath,"1,217sqft",10/23/2015,Listed,"$769,000",$631,MLSListings
+1093,1417-Searcy-Dr_San-Jose_CA_95118_M23467-21742,3bed,2bath,"1,217sqft",05-02-2012,Sold,"$581,000",$477,MLSListings
+1094,1417-Searcy-Dr_San-Jose_CA_95118_M23467-21742,3bed,2bath,"1,217sqft",03/28/2012,Relisted,"$580,000",$476,MLSListings
+1095,1417-Searcy-Dr_San-Jose_CA_95118_M23467-21742,3bed,2bath,"1,217sqft",02-11-2012,Listed,"$580,000",$476,MLSListings
+1096,1417-Searcy-Dr_San-Jose_CA_95118_M23467-21742,3bed,2bath,"1,217sqft",02/26/1998,Sold,"$274,000",$225,Public Record
+1097,1417-Searcy-Dr_San-Jose_CA_95118_M23467-21742,3bed,2bath,"1,217sqft",,,,,
+1098,1417-Searcy-Dr_San-Jose_CA_95118_M23467-21742,3bed,2bath,"1,217sqft",,,,,
+1099,1417-Searcy-Dr_San-Jose_CA_95118_M23467-21742,3bed,2bath,"1,217sqft",10-07-2020,Listed,"$1,148,000",$943,MLSListings
+1100,1417-Searcy-Dr_San-Jose_CA_95118_M23467-21742,3bed,2bath,"1,217sqft",12-11-2015,Sold,"$804,500",$661,MLSListings
+1101,1417-Searcy-Dr_San-Jose_CA_95118_M23467-21742,3bed,2bath,"1,217sqft",10/23/2015,Listed,"$769,000",$631,MLSListings
+1102,1417-Searcy-Dr_San-Jose_CA_95118_M23467-21742,3bed,2bath,"1,217sqft",10/23/2015,Listed,"$769,000",$631,MLSListings
+1103,1417-Searcy-Dr_San-Jose_CA_95118_M23467-21742,3bed,2bath,"1,217sqft",05-02-2012,Sold,"$581,000",$477,MLSListings
+1104,1417-Searcy-Dr_San-Jose_CA_95118_M23467-21742,3bed,2bath,"1,217sqft",03/28/2012,Relisted,"$580,000",$476,MLSListings
+1105,1417-Searcy-Dr_San-Jose_CA_95118_M23467-21742,3bed,2bath,"1,217sqft",02-11-2012,Listed,"$580,000",$476,MLSListings
+1106,1417-Searcy-Dr_San-Jose_CA_95118_M23467-21742,3bed,2bath,"1,217sqft",02/26/1998,Sold,"$274,000",$225,Public Record
+1107,1417-Searcy-Dr_San-Jose_CA_95118_M23467-21742,3bed,2bath,"1,217sqft",,,,,
+1108,1417-Searcy-Dr_San-Jose_CA_95118_M23467-21742,3bed,2bath,"1,217sqft",,,,,
+1109,5976-Mayflower-Ct_San-Jose_CA_95129_M19003-30687,4bed,2bath,"1,687sqft",10-10-2020,Listed,"$1,998,000","$1,184",MLSListings
+1110,5976-Mayflower-Ct_San-Jose_CA_95129_M19003-30687,4bed,2bath,"1,687sqft",10-10-2020,Listed,"$1,998,000","$1,184",MLSListings
+1111,2262-Plummer-Ave_San-Jose_CA_95125_M13038-95574,3bed,1.5bath,"1,452sqft",10-08-2020,Listed,"$1,499,000","$1,032",MLSListings
+1112,2262-Plummer-Ave_San-Jose_CA_95125_M13038-95574,3bed,1.5bath,"1,452sqft",10-08-2020,Listed,"$1,499,000","$1,032",MLSListings
+1113,2622-Raritan-Pl_San-Jose_CA_95148_M25044-82997,3bed,3bath,"1,966sqft",10/13/2020,Listed,"$1,179,000",$599,MLSListings
+1114,2622-Raritan-Pl_San-Jose_CA_95148_M25044-82997,3bed,3bath,"1,966sqft",05/18/2012,Sold,"$608,350",$309,MLSListings
+1115,2622-Raritan-Pl_San-Jose_CA_95148_M25044-82997,3bed,3bath,"1,966sqft",04-12-2012,Listed,"$589,000",$299,MLSListings
+1116,2622-Raritan-Pl_San-Jose_CA_95148_M25044-82997,3bed,3bath,"1,966sqft",10/19/2011,Price Changed,"$629,000",$319,MLSListings
+1117,2622-Raritan-Pl_San-Jose_CA_95148_M25044-82997,3bed,3bath,"1,966sqft",09-07-2011,Price Changed,"$659,000",$335,MLSListings
+1118,2622-Raritan-Pl_San-Jose_CA_95148_M25044-82997,3bed,3bath,"1,966sqft",08/26/2011,Price Changed,"$699,900",$356,MLSListings
+1119,2622-Raritan-Pl_San-Jose_CA_95148_M25044-82997,3bed,3bath,"1,966sqft",08-05-2011,Listed,"$720,000",$366,MLSListings
+1120,2622-Raritan-Pl_San-Jose_CA_95148_M25044-82997,3bed,3bath,"1,966sqft",10/13/2020,Listed,"$1,179,000",$599,MLSListings
+1121,2622-Raritan-Pl_San-Jose_CA_95148_M25044-82997,3bed,3bath,"1,966sqft",05/18/2012,Sold,"$608,350",$309,MLSListings
+1122,2622-Raritan-Pl_San-Jose_CA_95148_M25044-82997,3bed,3bath,"1,966sqft",04-12-2012,Listed,"$589,000",$299,MLSListings
+1123,2622-Raritan-Pl_San-Jose_CA_95148_M25044-82997,3bed,3bath,"1,966sqft",10/19/2011,Price Changed,"$629,000",$319,MLSListings
+1124,2622-Raritan-Pl_San-Jose_CA_95148_M25044-82997,3bed,3bath,"1,966sqft",09-07-2011,Price Changed,"$659,000",$335,MLSListings
+1125,2622-Raritan-Pl_San-Jose_CA_95148_M25044-82997,3bed,3bath,"1,966sqft",08/26/2011,Price Changed,"$699,900",$356,MLSListings
+1126,2622-Raritan-Pl_San-Jose_CA_95148_M25044-82997,3bed,3bath,"1,966sqft",08-05-2011,Listed,"$720,000",$366,MLSListings
+1127,5016-Grey-Feather-Cir_San-Jose_CA_95136_M25664-13919,2bed,1bath,816sqft,10-08-2020,Listed,"$529,000",$648,MLSListings
+1128,5016-Grey-Feather-Cir_San-Jose_CA_95136_M25664-13919,2bed,1bath,816sqft,05/26/2017,Sold,"$465,000",$569,MLSListings
+1129,5016-Grey-Feather-Cir_San-Jose_CA_95136_M25664-13919,2bed,1bath,816sqft,04-05-2017,Listed,"$425,000",$520,MLSListings
+1130,5016-Grey-Feather-Cir_San-Jose_CA_95136_M25664-13919,2bed,1bath,816sqft,02-01-2016,Sold,"$420,000",$514,MLSListings
+1131,5016-Grey-Feather-Cir_San-Jose_CA_95136_M25664-13919,2bed,1bath,816sqft,01-09-2016,Listed,"$399,000",$488,MLSListings
+1132,5016-Grey-Feather-Cir_San-Jose_CA_95136_M25664-13919,2bed,1bath,816sqft,01-09-2016,Listed,"$399,000",$488,MLSListings
+1133,5016-Grey-Feather-Cir_San-Jose_CA_95136_M25664-13919,2bed,1bath,816sqft,07/30/2013,Price Changed,"$335,000",$410,MLSListings
+1134,5016-Grey-Feather-Cir_San-Jose_CA_95136_M25664-13919,2bed,1bath,816sqft,06/17/2013,Listed,"$335,000",$410,MLSListings
+1135,5016-Grey-Feather-Cir_San-Jose_CA_95136_M25664-13919,2bed,1bath,816sqft,,,,,
+1136,5016-Grey-Feather-Cir_San-Jose_CA_95136_M25664-13919,2bed,1bath,816sqft,,,,,
+1137,5016-Grey-Feather-Cir_San-Jose_CA_95136_M25664-13919,2bed,1bath,816sqft,,,,,
+1138,5016-Grey-Feather-Cir_San-Jose_CA_95136_M25664-13919,2bed,1bath,816sqft,,,,,
+1139,5016-Grey-Feather-Cir_San-Jose_CA_95136_M25664-13919,2bed,1bath,816sqft,,,,,
+1140,5016-Grey-Feather-Cir_San-Jose_CA_95136_M25664-13919,2bed,1bath,816sqft,,,,,
+1141,5016-Grey-Feather-Cir_San-Jose_CA_95136_M25664-13919,2bed,1bath,816sqft,,,,,
+1142,5016-Grey-Feather-Cir_San-Jose_CA_95136_M25664-13919,2bed,1bath,816sqft,10-08-2020,Listed,"$529,000",$648,MLSListings
+1143,5016-Grey-Feather-Cir_San-Jose_CA_95136_M25664-13919,2bed,1bath,816sqft,05/26/2017,Sold,"$465,000",$569,MLSListings
+1144,5016-Grey-Feather-Cir_San-Jose_CA_95136_M25664-13919,2bed,1bath,816sqft,04-05-2017,Listed,"$425,000",$520,MLSListings
+1145,5016-Grey-Feather-Cir_San-Jose_CA_95136_M25664-13919,2bed,1bath,816sqft,02-01-2016,Sold,"$420,000",$514,MLSListings
+1146,5016-Grey-Feather-Cir_San-Jose_CA_95136_M25664-13919,2bed,1bath,816sqft,01-09-2016,Listed,"$399,000",$488,MLSListings
+1147,5016-Grey-Feather-Cir_San-Jose_CA_95136_M25664-13919,2bed,1bath,816sqft,01-09-2016,Listed,"$399,000",$488,MLSListings
+1148,5016-Grey-Feather-Cir_San-Jose_CA_95136_M25664-13919,2bed,1bath,816sqft,07/30/2013,Price Changed,"$335,000",$410,MLSListings
+1149,5016-Grey-Feather-Cir_San-Jose_CA_95136_M25664-13919,2bed,1bath,816sqft,06/17/2013,Listed,"$335,000",$410,MLSListings
+1150,5016-Grey-Feather-Cir_San-Jose_CA_95136_M25664-13919,2bed,1bath,816sqft,,,,,
+1151,5016-Grey-Feather-Cir_San-Jose_CA_95136_M25664-13919,2bed,1bath,816sqft,,,,,
+1152,5016-Grey-Feather-Cir_San-Jose_CA_95136_M25664-13919,2bed,1bath,816sqft,,,,,
+1153,5016-Grey-Feather-Cir_San-Jose_CA_95136_M25664-13919,2bed,1bath,816sqft,,,,,
+1154,5016-Grey-Feather-Cir_San-Jose_CA_95136_M25664-13919,2bed,1bath,816sqft,,,,,
+1155,5016-Grey-Feather-Cir_San-Jose_CA_95136_M25664-13919,2bed,1bath,816sqft,,,,,
+1156,5016-Grey-Feather-Cir_San-Jose_CA_95136_M25664-13919,2bed,1bath,816sqft,,,,,
+1157,6277-Valroy-Dr_San-Jose_CA_95123_M28329-48163,4bed,2bath,"1,619sqft",10-09-2020,Listed,"$1,000,000",$617,MLSListings
+1158,6277-Valroy-Dr_San-Jose_CA_95123_M28329-48163,4bed,2bath,"1,619sqft",07/31/2006,Sold,"$727,000",$449,Public Record
+1159,6277-Valroy-Dr_San-Jose_CA_95123_M28329-48163,4bed,2bath,"1,619sqft",05/19/2000,Sold,"$435,000",$268,Public Record
+1160,6277-Valroy-Dr_San-Jose_CA_95123_M28329-48163,4bed,2bath,"1,619sqft",06/30/1997,Sold,"$292,000",$180,Public Record
+1161,6277-Valroy-Dr_San-Jose_CA_95123_M28329-48163,4bed,2bath,"1,619sqft",10-09-2020,Listed,"$1,000,000",$617,MLSListings
+1162,6277-Valroy-Dr_San-Jose_CA_95123_M28329-48163,4bed,2bath,"1,619sqft",07/31/2006,Sold,"$727,000",$449,Public Record
+1163,6277-Valroy-Dr_San-Jose_CA_95123_M28329-48163,4bed,2bath,"1,619sqft",05/19/2000,Sold,"$435,000",$268,Public Record
+1164,6277-Valroy-Dr_San-Jose_CA_95123_M28329-48163,4bed,2bath,"1,619sqft",06/30/1997,Sold,"$292,000",$180,Public Record
+1165,2592-Baton-Rouge-Dr_San-Jose_CA_95133_M12692-57844,2bed,2.5bath,"1,504sqft",10-08-2020,Listed,"$828,000",$550,MLSListings
+1166,2592-Baton-Rouge-Dr_San-Jose_CA_95133_M12692-57844,2bed,2.5bath,"1,504sqft",03/28/2006,Sold,"$550,000",$365,Public Record
+1167,2592-Baton-Rouge-Dr_San-Jose_CA_95133_M12692-57844,2bed,2.5bath,"1,504sqft",10-08-2020,Listed,"$828,000",$550,MLSListings
+1168,2592-Baton-Rouge-Dr_San-Jose_CA_95133_M12692-57844,2bed,2.5bath,"1,504sqft",03/28/2006,Sold,"$550,000",$365,Public Record
+1169,1065-Hedgecroft-Pl_San-Jose_CA_95120_M10827-48099,3bed,2.5bath,"2,052sqft",10-09-2020,Listed,"$1,539,999",$750,MLSListings
+1170,1065-Hedgecroft-Pl_San-Jose_CA_95120_M10827-48099,3bed,2.5bath,"2,052sqft",06/16/2016,Sold,"$1,300,000",$633,MLSListings
+1171,1065-Hedgecroft-Pl_San-Jose_CA_95120_M10827-48099,3bed,2.5bath,"2,052sqft",05/17/2016,Listed,"$1,298,000",$632,MLSListings
+1172,1065-Hedgecroft-Pl_San-Jose_CA_95120_M10827-48099,3bed,2.5bath,"2,052sqft",12-05-1986,Sold,"$175,000",$85,Public Record
+1173,1065-Hedgecroft-Pl_San-Jose_CA_95120_M10827-48099,3bed,2.5bath,"2,052sqft",10-09-2020,Listed,"$1,539,999",$750,MLSListings
+1174,1065-Hedgecroft-Pl_San-Jose_CA_95120_M10827-48099,3bed,2.5bath,"2,052sqft",06/16/2016,Sold,"$1,300,000",$633,MLSListings
+1175,1065-Hedgecroft-Pl_San-Jose_CA_95120_M10827-48099,3bed,2.5bath,"2,052sqft",05/17/2016,Listed,"$1,298,000",$632,MLSListings
+1176,1065-Hedgecroft-Pl_San-Jose_CA_95120_M10827-48099,3bed,2.5bath,"2,052sqft",12-05-1986,Sold,"$175,000",$85,Public Record
+1177,315-Avenida-Pinos_San-Jose_CA_95123_M14073-90098,3bed,2bath,"1,374sqft",10-09-2020,Listed,"$925,000",$673,MLSListings
+1178,315-Avenida-Pinos_San-Jose_CA_95123_M14073-90098,3bed,2bath,"1,374sqft",08/14/1974,Sold,"$31,000",$22,Public Record
+1179,315-Avenida-Pinos_San-Jose_CA_95123_M14073-90098,3bed,2bath,"1,374sqft",10-09-2020,Listed,"$925,000",$673,MLSListings
+1180,315-Avenida-Pinos_San-Jose_CA_95123_M14073-90098,3bed,2bath,"1,374sqft",08/14/1974,Sold,"$31,000",$22,Public Record
+1181,1550-Technology-Dr-Unit-3035_San-Jose_CA_95110_M17027-92149,2bed,2bath,"1,133sqft",10-09-2020,Listed,"$699,000",$616,BayEast
+1182,1550-Technology-Dr-Unit-3035_San-Jose_CA_95110_M17027-92149,2bed,2bath,"1,133sqft",10-09-2015,Sold,"$535,000",$472,Public Record
+1183,1550-Technology-Dr-Unit-3035_San-Jose_CA_95110_M17027-92149,2bed,2bath,"1,133sqft",10/25/2005,Sold,"$489,000",$431,Public Record
+1184,1550-Technology-Dr-Unit-3035_San-Jose_CA_95110_M17027-92149,2bed,2bath,"1,133sqft",10-09-2020,Listed,"$699,000",$616,BayEast
+1185,1550-Technology-Dr-Unit-3035_San-Jose_CA_95110_M17027-92149,2bed,2bath,"1,133sqft",10-09-2015,Sold,"$535,000",$472,Public Record
+1186,1550-Technology-Dr-Unit-3035_San-Jose_CA_95110_M17027-92149,2bed,2bath,"1,133sqft",10/25/2005,Sold,"$489,000",$431,Public Record
+1187,2491-Ocala-Ave_San-Jose_CA_95122_M13916-99210,3bed,2bath,"1,094sqft",10-10-2020,Listed,"$775,000",$708,MLSListings
+1188,2491-Ocala-Ave_San-Jose_CA_95122_M13916-99210,3bed,2bath,"1,094sqft",09/18/2018,Sold,"$700,000",$639,MLSListings
+1189,2491-Ocala-Ave_San-Jose_CA_95122_M13916-99210,3bed,2bath,"1,094sqft",07-06-2018,Listed,"$715,000",$653,MLSListings
+1190,2491-Ocala-Ave_San-Jose_CA_95122_M13916-99210,3bed,2bath,"1,094sqft",07/22/1988,Sold,"$135,000",$123,Public Record
+1191,2491-Ocala-Ave_San-Jose_CA_95122_M13916-99210,3bed,2bath,"1,094sqft",04/29/1988,Sold,"$35,000",$31,Public Record
+1192,2491-Ocala-Ave_San-Jose_CA_95122_M13916-99210,3bed,2bath,"1,094sqft",10-10-2020,Listed,"$775,000",$708,MLSListings
+1193,2491-Ocala-Ave_San-Jose_CA_95122_M13916-99210,3bed,2bath,"1,094sqft",09/18/2018,Sold,"$700,000",$639,MLSListings
+1194,2491-Ocala-Ave_San-Jose_CA_95122_M13916-99210,3bed,2bath,"1,094sqft",07-06-2018,Listed,"$715,000",$653,MLSListings
+1195,2491-Ocala-Ave_San-Jose_CA_95122_M13916-99210,3bed,2bath,"1,094sqft",07/22/1988,Sold,"$135,000",$123,Public Record
+1196,2491-Ocala-Ave_San-Jose_CA_95122_M13916-99210,3bed,2bath,"1,094sqft",04/29/1988,Sold,"$35,000",$31,Public Record
+1197,934-Catkin-Ct_San-Jose_CA_95128_M24652-48257,1bed,1bath,658sqft,10-08-2020,Listed,"$448,888",$682,MLSListings
+1198,934-Catkin-Ct_San-Jose_CA_95128_M24652-48257,1bed,1bath,658sqft,12/19/2011,Sold,"$170,000",$258,MLSListings
+1199,934-Catkin-Ct_San-Jose_CA_95128_M24652-48257,1bed,1bath,658sqft,11/18/2011,Listed,"$169,000",$256,MLSListings
+1200,934-Catkin-Ct_San-Jose_CA_95128_M24652-48257,1bed,1bath,658sqft,11/30/2006,Sold,"$299,000",$454,Public Record
+1201,934-Catkin-Ct_San-Jose_CA_95128_M24652-48257,1bed,1bath,658sqft,10-08-2020,Listed,"$448,888",$682,MLSListings
+1202,934-Catkin-Ct_San-Jose_CA_95128_M24652-48257,1bed,1bath,658sqft,12/19/2011,Sold,"$170,000",$258,MLSListings
+1203,934-Catkin-Ct_San-Jose_CA_95128_M24652-48257,1bed,1bath,658sqft,11/18/2011,Listed,"$169,000",$256,MLSListings
+1204,934-Catkin-Ct_San-Jose_CA_95128_M24652-48257,1bed,1bath,658sqft,11/30/2006,Sold,"$299,000",$454,Public Record
+1205,365-Esfahan-Ct_San-Jose_CA_95111_M12486-23912,3bed,2.5bath,"1,724sqft",10-10-2020,Listed,"$865,888",$502,MLSListings
+1206,365-Esfahan-Ct_San-Jose_CA_95111_M12486-23912,3bed,2.5bath,"1,724sqft",09/26/2012,Sold,"$448,500",$260,Public Record
+1207,365-Esfahan-Ct_San-Jose_CA_95111_M12486-23912,3bed,2.5bath,"1,724sqft",10-10-2020,Listed,"$865,888",$502,MLSListings
+1208,365-Esfahan-Ct_San-Jose_CA_95111_M12486-23912,3bed,2.5bath,"1,724sqft",09/26/2012,Sold,"$448,500",$260,Public Record
+1209,1812-Frobisher-Way_San-Jose_CA_95124_M14114-04670,4bed,2.5bath,"2,295sqft",10-07-2020,Listed,"$1,949,000",$849,MLSListings
+1210,1812-Frobisher-Way_San-Jose_CA_95124_M14114-04670,4bed,2.5bath,"2,295sqft",09-03-1998,Sold,"$485,000",$211,Public Record
+1211,1812-Frobisher-Way_San-Jose_CA_95124_M14114-04670,4bed,2.5bath,"2,295sqft",09/18/1991,Sold,"$366,000",$159,Public Record
+1212,1812-Frobisher-Way_San-Jose_CA_95124_M14114-04670,4bed,2.5bath,"2,295sqft",10-07-2020,Listed,"$1,949,000",$849,MLSListings
+1213,1812-Frobisher-Way_San-Jose_CA_95124_M14114-04670,4bed,2.5bath,"2,295sqft",09-03-1998,Sold,"$485,000",$211,Public Record
+1214,1812-Frobisher-Way_San-Jose_CA_95124_M14114-04670,4bed,2.5bath,"2,295sqft",09/18/1991,Sold,"$366,000",$159,Public Record
+1215,1189-Garfield-Ave_San-Jose_CA_95125_M13931-20390,4bed,3.5bath,"2,954sqft",10-09-2020,Listed,"$2,499,000",$845,MLSListings
+1216,1189-Garfield-Ave_San-Jose_CA_95125_M13931-20390,4bed,3.5bath,"2,954sqft",08/18/2015,Sold,"$2,000,000",$677,MLSListings
+1217,1189-Garfield-Ave_San-Jose_CA_95125_M13931-20390,4bed,3.5bath,"2,954sqft",07-10-2015,Sold,"$2,000,000",$677,MLSListings
+1218,1189-Garfield-Ave_San-Jose_CA_95125_M13931-20390,4bed,3.5bath,"2,954sqft",06-05-2015,Listed,"$1,980,000",$670,MLSListings
+1219,1189-Garfield-Ave_San-Jose_CA_95125_M13931-20390,4bed,3.5bath,"2,954sqft",06-05-2015,Listed,"$1,980,000",$670,MLSListings
+1220,1189-Garfield-Ave_San-Jose_CA_95125_M13931-20390,4bed,3.5bath,"2,954sqft",04/15/2013,Sold,"$1,350,000",$457,Public Record
+1221,1189-Garfield-Ave_San-Jose_CA_95125_M13931-20390,4bed,3.5bath,"2,954sqft",03/18/2013,Listed,"$1,400,000",$473,MLSListings
+1222,1189-Garfield-Ave_San-Jose_CA_95125_M13931-20390,4bed,3.5bath,"2,954sqft",04-03-2007,Sold,"$1,560,000",$528,Public Record
+1223,1189-Garfield-Ave_San-Jose_CA_95125_M13931-20390,4bed,3.5bath,"2,954sqft",,,,,
+1224,1189-Garfield-Ave_San-Jose_CA_95125_M13931-20390,4bed,3.5bath,"2,954sqft",,,,,
+1225,1189-Garfield-Ave_San-Jose_CA_95125_M13931-20390,4bed,3.5bath,"2,954sqft",,,,,
+1226,1189-Garfield-Ave_San-Jose_CA_95125_M13931-20390,4bed,3.5bath,"2,954sqft",10-09-2020,Listed,"$2,499,000",$845,MLSListings
+1227,1189-Garfield-Ave_San-Jose_CA_95125_M13931-20390,4bed,3.5bath,"2,954sqft",08/18/2015,Sold,"$2,000,000",$677,MLSListings
+1228,1189-Garfield-Ave_San-Jose_CA_95125_M13931-20390,4bed,3.5bath,"2,954sqft",07-10-2015,Sold,"$2,000,000",$677,MLSListings
+1229,1189-Garfield-Ave_San-Jose_CA_95125_M13931-20390,4bed,3.5bath,"2,954sqft",06-05-2015,Listed,"$1,980,000",$670,MLSListings
+1230,1189-Garfield-Ave_San-Jose_CA_95125_M13931-20390,4bed,3.5bath,"2,954sqft",06-05-2015,Listed,"$1,980,000",$670,MLSListings
+1231,1189-Garfield-Ave_San-Jose_CA_95125_M13931-20390,4bed,3.5bath,"2,954sqft",04/15/2013,Sold,"$1,350,000",$457,Public Record
+1232,1189-Garfield-Ave_San-Jose_CA_95125_M13931-20390,4bed,3.5bath,"2,954sqft",03/18/2013,Listed,"$1,400,000",$473,MLSListings
+1233,1189-Garfield-Ave_San-Jose_CA_95125_M13931-20390,4bed,3.5bath,"2,954sqft",04-03-2007,Sold,"$1,560,000",$528,Public Record
+1234,1189-Garfield-Ave_San-Jose_CA_95125_M13931-20390,4bed,3.5bath,"2,954sqft",,,,,
+1235,1189-Garfield-Ave_San-Jose_CA_95125_M13931-20390,4bed,3.5bath,"2,954sqft",,,,,
+1236,1189-Garfield-Ave_San-Jose_CA_95125_M13931-20390,4bed,3.5bath,"2,954sqft",,,,,
+1237,491-Holly-Hock-Ct_San-Jose_CA_95117_M14361-05692,1bed,1bath,712sqft,10-10-2020,Listed,"$618,888",$869,MLSListings
+1238,491-Holly-Hock-Ct_San-Jose_CA_95117_M14361-05692,1bed,1bath,712sqft,06-01-2001,Sold,"$270,000",$379,Public Record
+1239,491-Holly-Hock-Ct_San-Jose_CA_95117_M14361-05692,1bed,1bath,712sqft,06/16/1993,Sold,"$127,000",$178,Public Record
+1240,491-Holly-Hock-Ct_San-Jose_CA_95117_M14361-05692,1bed,1bath,712sqft,03/13/1987,Sold,"$91,000",$127,Public Record
+1241,491-Holly-Hock-Ct_San-Jose_CA_95117_M14361-05692,1bed,1bath,712sqft,10-10-2020,Listed,"$618,888",$869,MLSListings
+1242,491-Holly-Hock-Ct_San-Jose_CA_95117_M14361-05692,1bed,1bath,712sqft,06-01-2001,Sold,"$270,000",$379,Public Record
+1243,491-Holly-Hock-Ct_San-Jose_CA_95117_M14361-05692,1bed,1bath,712sqft,06/16/1993,Sold,"$127,000",$178,Public Record
+1244,491-Holly-Hock-Ct_San-Jose_CA_95117_M14361-05692,1bed,1bath,712sqft,03/13/1987,Sold,"$91,000",$127,Public Record
+1245,966-Bellhurst-Ave_San-Jose_CA_95122_M13600-76872,2bed,1.5bath,986sqft,10-07-2020,Listed,"$499,900",$506,MLSListings
+1246,966-Bellhurst-Ave_San-Jose_CA_95122_M13600-76872,2bed,1.5bath,986sqft,08/31/2011,Sold,"$157,000",$159,MLSListings
+1247,966-Bellhurst-Ave_San-Jose_CA_95122_M13600-76872,2bed,1.5bath,986sqft,08-05-2011,Relisted,"$169,900",$172,MLSListings
+1248,966-Bellhurst-Ave_San-Jose_CA_95122_M13600-76872,2bed,1.5bath,986sqft,06/24/2011,Relisted,"$169,900",$172,MLSListings
+1249,966-Bellhurst-Ave_San-Jose_CA_95122_M13600-76872,2bed,1.5bath,986sqft,06-02-2011,Listed,"$160,000",$162,MLSListings
+1250,966-Bellhurst-Ave_San-Jose_CA_95122_M13600-76872,2bed,1.5bath,986sqft,02/23/1996,Sold,"$81,000",$82,Public Record
+1251,966-Bellhurst-Ave_San-Jose_CA_95122_M13600-76872,2bed,1.5bath,986sqft,10-07-2020,Listed,"$499,900",$506,MLSListings
+1252,966-Bellhurst-Ave_San-Jose_CA_95122_M13600-76872,2bed,1.5bath,986sqft,08/31/2011,Sold,"$157,000",$159,MLSListings
+1253,966-Bellhurst-Ave_San-Jose_CA_95122_M13600-76872,2bed,1.5bath,986sqft,08-05-2011,Relisted,"$169,900",$172,MLSListings
+1254,966-Bellhurst-Ave_San-Jose_CA_95122_M13600-76872,2bed,1.5bath,986sqft,06/24/2011,Relisted,"$169,900",$172,MLSListings
+1255,966-Bellhurst-Ave_San-Jose_CA_95122_M13600-76872,2bed,1.5bath,986sqft,06-02-2011,Listed,"$160,000",$162,MLSListings
+1256,966-Bellhurst-Ave_San-Jose_CA_95122_M13600-76872,2bed,1.5bath,986sqft,02/23/1996,Sold,"$81,000",$82,Public Record
+1257,1025-N-12th-St_San-Jose_CA_95112_M20479-17117,3bed,2bath,"1,040sqft",10-11-2020,Listed,"$748,888",$720,MLSListings
+1258,1025-N-12th-St_San-Jose_CA_95112_M20479-17117,3bed,2bath,"1,040sqft",08/28/2014,Sold,"$396,000",$380,Public Record
+1259,1025-N-12th-St_San-Jose_CA_95112_M20479-17117,3bed,2bath,"1,040sqft",04-01-2010,Sold,"$200,000",$192,Public Record
+1260,1025-N-12th-St_San-Jose_CA_95112_M20479-17117,3bed,2bath,"1,040sqft",02/16/2010,Listed,"$184,900",$246,MLSListings
+1261,1025-N-12th-St_San-Jose_CA_95112_M20479-17117,3bed,2bath,"1,040sqft",02-12-2010,Listed,"$184,900",$246,ContraCosta
+1262,1025-N-12th-St_San-Jose_CA_95112_M20479-17117,3bed,2bath,"1,040sqft",02-06-2010,Listed,"$199,000",$265,MLSListings
+1263,1025-N-12th-St_San-Jose_CA_95112_M20479-17117,3bed,2bath,"1,040sqft",06-05-2009,Listed,"$239,000",$318,MLSListings
+1264,1025-N-12th-St_San-Jose_CA_95112_M20479-17117,3bed,2bath,"1,040sqft",05-04-2006,Sold,"$380,000",$365,Public Record
+1265,1025-N-12th-St_San-Jose_CA_95112_M20479-17117,3bed,2bath,"1,040sqft",10-11-2020,Listed,"$748,888",$720,MLSListings
+1266,1025-N-12th-St_San-Jose_CA_95112_M20479-17117,3bed,2bath,"1,040sqft",08/28/2014,Sold,"$396,000",$380,Public Record
+1267,1025-N-12th-St_San-Jose_CA_95112_M20479-17117,3bed,2bath,"1,040sqft",04-01-2010,Sold,"$200,000",$192,Public Record
+1268,1025-N-12th-St_San-Jose_CA_95112_M20479-17117,3bed,2bath,"1,040sqft",02/16/2010,Listed,"$184,900",$246,MLSListings
+1269,1025-N-12th-St_San-Jose_CA_95112_M20479-17117,3bed,2bath,"1,040sqft",02-12-2010,Listed,"$184,900",$246,ContraCosta
+1270,1025-N-12th-St_San-Jose_CA_95112_M20479-17117,3bed,2bath,"1,040sqft",02-06-2010,Listed,"$199,000",$265,MLSListings
+1271,1025-N-12th-St_San-Jose_CA_95112_M20479-17117,3bed,2bath,"1,040sqft",06-05-2009,Listed,"$239,000",$318,MLSListings
+1272,1025-N-12th-St_San-Jose_CA_95112_M20479-17117,3bed,2bath,"1,040sqft",05-04-2006,Sold,"$380,000",$365,Public Record
+1273,4843-Yamato-Dr_San-Jose_CA_95111_M23828-19142,4bed,2.5bath,"2,020sqft",10-09-2020,Listed,"$799,000",$395,MLSListings
+1274,4843-Yamato-Dr_San-Jose_CA_95111_M23828-19142,4bed,2.5bath,"2,020sqft",03/31/1998,Sold,"$292,000",$144,Public Record
+1275,4843-Yamato-Dr_San-Jose_CA_95111_M23828-19142,4bed,2.5bath,"2,020sqft",05-12-1989,Sold,"$275,000",$136,Public Record
+1276,4843-Yamato-Dr_San-Jose_CA_95111_M23828-19142,4bed,2.5bath,"2,020sqft",11/23/1988,Sold,"$237,500",$117,Public Record
+1277,4843-Yamato-Dr_San-Jose_CA_95111_M23828-19142,4bed,2.5bath,"2,020sqft",10-09-2020,Listed,"$799,000",$395,MLSListings
+1278,4843-Yamato-Dr_San-Jose_CA_95111_M23828-19142,4bed,2.5bath,"2,020sqft",03/31/1998,Sold,"$292,000",$144,Public Record
+1279,4843-Yamato-Dr_San-Jose_CA_95111_M23828-19142,4bed,2.5bath,"2,020sqft",05-12-1989,Sold,"$275,000",$136,Public Record
+1280,4843-Yamato-Dr_San-Jose_CA_95111_M23828-19142,4bed,2.5bath,"2,020sqft",11/23/1988,Sold,"$237,500",$117,Public Record
+1281,3586-Slopeview-Dr_San-Jose_CA_95148_M15683-13884,4bed,3bath,"2,106sqft",10-08-2020,Listed,"$1,388,000",$659,MLSListings
+1282,3586-Slopeview-Dr_San-Jose_CA_95148_M15683-13884,4bed,3bath,"2,106sqft",10/27/2015,Sold,"$985,000",$467,MLSListings
+1283,3586-Slopeview-Dr_San-Jose_CA_95148_M15683-13884,4bed,3bath,"2,106sqft",09/23/2015,Listed,"$924,900",$439,MLSListings
+1284,3586-Slopeview-Dr_San-Jose_CA_95148_M15683-13884,4bed,3bath,"2,106sqft",09/23/2015,Listed,"$924,900",$439,MLSListings
+1285,3586-Slopeview-Dr_San-Jose_CA_95148_M15683-13884,4bed,3bath,"2,106sqft",01/29/2004,Sold,"$725,000",$344,Public Record
+1286,3586-Slopeview-Dr_San-Jose_CA_95148_M15683-13884,4bed,3bath,"2,106sqft",04/30/1986,Sold,"$186,000",$88,Public Record
+1287,3586-Slopeview-Dr_San-Jose_CA_95148_M15683-13884,4bed,3bath,"2,106sqft",01/17/1983,Sold,"$146,000",$69,Public Record
+1288,3586-Slopeview-Dr_San-Jose_CA_95148_M15683-13884,4bed,3bath,"2,106sqft",10-08-2020,Listed,"$1,388,000",$659,MLSListings
+1289,3586-Slopeview-Dr_San-Jose_CA_95148_M15683-13884,4bed,3bath,"2,106sqft",10/27/2015,Sold,"$985,000",$467,MLSListings
+1290,3586-Slopeview-Dr_San-Jose_CA_95148_M15683-13884,4bed,3bath,"2,106sqft",09/23/2015,Listed,"$924,900",$439,MLSListings
+1291,3586-Slopeview-Dr_San-Jose_CA_95148_M15683-13884,4bed,3bath,"2,106sqft",09/23/2015,Listed,"$924,900",$439,MLSListings
+1292,3586-Slopeview-Dr_San-Jose_CA_95148_M15683-13884,4bed,3bath,"2,106sqft",01/29/2004,Sold,"$725,000",$344,Public Record
+1293,3586-Slopeview-Dr_San-Jose_CA_95148_M15683-13884,4bed,3bath,"2,106sqft",04/30/1986,Sold,"$186,000",$88,Public Record
+1294,3586-Slopeview-Dr_San-Jose_CA_95148_M15683-13884,4bed,3bath,"2,106sqft",01/17/1983,Sold,"$146,000",$69,Public Record
+1295,3581-Flint-Creek-Dr_San-Jose_CA_95148_M13377-75391,3bed,2.5bath,"1,720sqft",10-08-2020,Listed,"$755,000",$438,MLSListings
+1296,3581-Flint-Creek-Dr_San-Jose_CA_95148_M13377-75391,3bed,2.5bath,"1,720sqft",04-09-1998,Sold,"$230,000",$133,Public Record
+1297,3581-Flint-Creek-Dr_San-Jose_CA_95148_M13377-75391,3bed,2.5bath,"1,720sqft",08-08-1989,Sold,"$220,000",$127,Public Record
+1298,3581-Flint-Creek-Dr_San-Jose_CA_95148_M13377-75391,3bed,2.5bath,"1,720sqft",10-08-2020,Listed,"$755,000",$438,MLSListings
+1299,3581-Flint-Creek-Dr_San-Jose_CA_95148_M13377-75391,3bed,2.5bath,"1,720sqft",04-09-1998,Sold,"$230,000",$133,Public Record
+1300,3581-Flint-Creek-Dr_San-Jose_CA_95148_M13377-75391,3bed,2.5bath,"1,720sqft",08-08-1989,Sold,"$220,000",$127,Public Record
+1301,718-Choctaw-Dr_San-Jose_CA_95123_M12992-29108,3bed,2bath,"1,072sqft",10-09-2020,Listed,"$949,000",$885,MLSListings
+1302,718-Choctaw-Dr_San-Jose_CA_95123_M12992-29108,3bed,2bath,"1,072sqft",09/15/1998,Sold,"$285,000",$265,Public Record
+1303,718-Choctaw-Dr_San-Jose_CA_95123_M12992-29108,3bed,2bath,"1,072sqft",10-09-2020,Listed,"$949,000",$885,MLSListings
+1304,718-Choctaw-Dr_San-Jose_CA_95123_M12992-29108,3bed,2bath,"1,072sqft",09/15/1998,Sold,"$285,000",$265,Public Record
+1305,960-Sunbonnet-Loop_San-Jose_CA_95125_M25540-22030,5bed,3bath,"2,200sqft",10-07-2020,Listed,"$1,200,000",$545,MLSListings
+1306,960-Sunbonnet-Loop_San-Jose_CA_95125_M25540-22030,5bed,3bath,"2,200sqft",03/13/2001,Sold,"$675,000",$306,Public Record
+1307,960-Sunbonnet-Loop_San-Jose_CA_95125_M25540-22030,5bed,3bath,"2,200sqft",08-04-2000,Sold,"$569,500",$258,Public Record
+1308,960-Sunbonnet-Loop_San-Jose_CA_95125_M25540-22030,5bed,3bath,"2,200sqft",10-07-2020,Listed,"$1,200,000",$545,MLSListings
+1309,960-Sunbonnet-Loop_San-Jose_CA_95125_M25540-22030,5bed,3bath,"2,200sqft",03/13/2001,Sold,"$675,000",$306,Public Record
+1310,960-Sunbonnet-Loop_San-Jose_CA_95125_M25540-22030,5bed,3bath,"2,200sqft",08-04-2000,Sold,"$569,500",$258,Public Record
+1311,507-Bella-Calais-Way_San-Jose_CA_95138_M19916-37321,4bed,2.5bath,"1,942sqft",10-07-2020,Listed,"$1,259,888",$648,MLSListings
+1312,507-Bella-Calais-Way_San-Jose_CA_95138_M19916-37321,4bed,2.5bath,"1,942sqft",01-03-2018,Sold,"$1,150,000",$592,MLSListings
+1313,507-Bella-Calais-Way_San-Jose_CA_95138_M19916-37321,4bed,2.5bath,"1,942sqft",12-01-2017,Listed,"$995,000",$512,MLSListings
+1314,507-Bella-Calais-Way_San-Jose_CA_95138_M19916-37321,4bed,2.5bath,"1,942sqft",06/26/1998,Sold,"$372,000",$191,Public Record
+1315,507-Bella-Calais-Way_San-Jose_CA_95138_M19916-37321,4bed,2.5bath,"1,942sqft",10-07-2020,Listed,"$1,259,888",$648,MLSListings
+1316,507-Bella-Calais-Way_San-Jose_CA_95138_M19916-37321,4bed,2.5bath,"1,942sqft",01-03-2018,Sold,"$1,150,000",$592,MLSListings
+1317,507-Bella-Calais-Way_San-Jose_CA_95138_M19916-37321,4bed,2.5bath,"1,942sqft",12-01-2017,Listed,"$995,000",$512,MLSListings
+1318,507-Bella-Calais-Way_San-Jose_CA_95138_M19916-37321,4bed,2.5bath,"1,942sqft",06/26/1998,Sold,"$372,000",$191,Public Record
+1319,86-N-33rd-St_San-Jose_CA_95116_M13885-13935,3bed,1bath,905sqft,10-10-2020,Listed,"$769,000",$849,MLSListings
+1320,86-N-33rd-St_San-Jose_CA_95116_M13885-13935,3bed,1bath,905sqft,04/28/2017,Sold,"$655,000",$723,Public Record
+1321,86-N-33rd-St_San-Jose_CA_95116_M13885-13935,3bed,1bath,905sqft,03/21/2017,Listed,"$575,000",$635,MLSListings
+1322,86-N-33rd-St_San-Jose_CA_95116_M13885-13935,3bed,1bath,905sqft,08/31/2009,Sold,"$295,000",$325,Public Record
+1323,86-N-33rd-St_San-Jose_CA_95116_M13885-13935,3bed,1bath,905sqft,06-08-2009,Listed,"$287,900",$318,MLSListings
+1324,86-N-33rd-St_San-Jose_CA_95116_M13885-13935,3bed,1bath,905sqft,05/22/2007,Sold,"$637,000",$703,Public Record
+1325,86-N-33rd-St_San-Jose_CA_95116_M13885-13935,3bed,1bath,905sqft,02-09-2006,Sold,"$610,000",$674,Public Record
+1326,86-N-33rd-St_San-Jose_CA_95116_M13885-13935,3bed,1bath,905sqft,08/31/2005,Sold,"$450,000",$497,Public Record
+1327,86-N-33rd-St_San-Jose_CA_95116_M13885-13935,3bed,1bath,905sqft,10-10-2020,Listed,"$769,000",$849,MLSListings
+1328,86-N-33rd-St_San-Jose_CA_95116_M13885-13935,3bed,1bath,905sqft,04/28/2017,Sold,"$655,000",$723,Public Record
+1329,86-N-33rd-St_San-Jose_CA_95116_M13885-13935,3bed,1bath,905sqft,03/21/2017,Listed,"$575,000",$635,MLSListings
+1330,86-N-33rd-St_San-Jose_CA_95116_M13885-13935,3bed,1bath,905sqft,08/31/2009,Sold,"$295,000",$325,Public Record
+1331,86-N-33rd-St_San-Jose_CA_95116_M13885-13935,3bed,1bath,905sqft,06-08-2009,Listed,"$287,900",$318,MLSListings
+1332,86-N-33rd-St_San-Jose_CA_95116_M13885-13935,3bed,1bath,905sqft,05/22/2007,Sold,"$637,000",$703,Public Record
+1333,86-N-33rd-St_San-Jose_CA_95116_M13885-13935,3bed,1bath,905sqft,02-09-2006,Sold,"$610,000",$674,Public Record
+1334,86-N-33rd-St_San-Jose_CA_95116_M13885-13935,3bed,1bath,905sqft,08/31/2005,Sold,"$450,000",$497,Public Record
+1335,821-Blue-Opal-Dr_San-Jose_CA_95123_M23024-97735,3bed,3.5bath,"1,901sqft",10-12-2020,Listed,"$899,000",$472,MLSListings
+1336,821-Blue-Opal-Dr_San-Jose_CA_95123_M23024-97735,3bed,3.5bath,"1,901sqft",05/22/2017,Sold,"$778,000",$409,MLSListings
+1337,821-Blue-Opal-Dr_San-Jose_CA_95123_M23024-97735,3bed,3.5bath,"1,901sqft",03/30/2017,Listed,"$799,888",$420,MLSListings
+1338,821-Blue-Opal-Dr_San-Jose_CA_95123_M23024-97735,3bed,3.5bath,"1,901sqft",10-12-2020,Listed,"$899,000",$472,MLSListings
+1339,821-Blue-Opal-Dr_San-Jose_CA_95123_M23024-97735,3bed,3.5bath,"1,901sqft",05/22/2017,Sold,"$778,000",$409,MLSListings
+1340,821-Blue-Opal-Dr_San-Jose_CA_95123_M23024-97735,3bed,3.5bath,"1,901sqft",03/30/2017,Listed,"$799,888",$420,MLSListings
+1341,3441-Wine-Cork-Way_San-Jose_CA_95124_M18842-48247,2bed,1bath,868sqft,10-09-2020,Listed,"$629,950",$725,MLSListings
+1342,3441-Wine-Cork-Way_San-Jose_CA_95124_M18842-48247,2bed,1bath,868sqft,04-01-2019,Price Changed for rent,"$2,695",$3,ShowMojo
+1343,3441-Wine-Cork-Way_San-Jose_CA_95124_M18842-48247,2bed,1bath,868sqft,03/21/2019,Price Changed for rent,"$2,895",$3,ShowMojo
+1344,3441-Wine-Cork-Way_San-Jose_CA_95124_M18842-48247,2bed,1bath,868sqft,08-08-2014,Sold,"$415,000",$478,MLSListings
+1345,3441-Wine-Cork-Way_San-Jose_CA_95124_M18842-48247,2bed,1bath,868sqft,07-08-2014,Listed,"$399,000",$459,MLSListings
+1346,3441-Wine-Cork-Way_San-Jose_CA_95124_M18842-48247,2bed,1bath,868sqft,07-08-2014,Listed,"$399,000",$459,MLSListings
+1347,3441-Wine-Cork-Way_San-Jose_CA_95124_M18842-48247,2bed,1bath,868sqft,10/28/1988,Sold,"$120,000",$138,Public Record
+1348,3441-Wine-Cork-Way_San-Jose_CA_95124_M18842-48247,2bed,1bath,868sqft,10-09-2020,Listed,"$629,950",$725,MLSListings
+1349,3441-Wine-Cork-Way_San-Jose_CA_95124_M18842-48247,2bed,1bath,868sqft,04-01-2019,Price Changed for rent,"$2,695",$3,ShowMojo
+1350,3441-Wine-Cork-Way_San-Jose_CA_95124_M18842-48247,2bed,1bath,868sqft,03/21/2019,Price Changed for rent,"$2,895",$3,ShowMojo
+1351,3441-Wine-Cork-Way_San-Jose_CA_95124_M18842-48247,2bed,1bath,868sqft,08-08-2014,Sold,"$415,000",$478,MLSListings
+1352,3441-Wine-Cork-Way_San-Jose_CA_95124_M18842-48247,2bed,1bath,868sqft,07-08-2014,Listed,"$399,000",$459,MLSListings
+1353,3441-Wine-Cork-Way_San-Jose_CA_95124_M18842-48247,2bed,1bath,868sqft,07-08-2014,Listed,"$399,000",$459,MLSListings
+1354,3441-Wine-Cork-Way_San-Jose_CA_95124_M18842-48247,2bed,1bath,868sqft,10/28/1988,Sold,"$120,000",$138,Public Record
+1355,952-S-11th-St-Unit-230_San-Jose_CA_95112_M10053-17694,2bed,2bath,"1,241sqft",10-09-2020,Listed,"$599,000",$482,MLSListings
+1356,952-S-11th-St-Unit-230_San-Jose_CA_95112_M10053-17694,2bed,2bath,"1,241sqft",01/13/2017,Sold,"$525,000",$423,MLSListings
+1357,952-S-11th-St-Unit-230_San-Jose_CA_95112_M10053-17694,2bed,2bath,"1,241sqft",12-06-2016,Listed,"$499,000",$402,ContraCosta
+1358,952-S-11th-St-Unit-230_San-Jose_CA_95112_M10053-17694,2bed,2bath,"1,241sqft",12-06-2016,Listed,"$499,000",$402,MLSListings
+1359,952-S-11th-St-Unit-230_San-Jose_CA_95112_M10053-17694,2bed,2bath,"1,241sqft",03/28/2014,Sold,"$409,000",$329,MLSListings
+1360,952-S-11th-St-Unit-230_San-Jose_CA_95112_M10053-17694,2bed,2bath,"1,241sqft",02/20/2014,Listed,"$395,000",$318,MLSListings
+1361,952-S-11th-St-Unit-230_San-Jose_CA_95112_M10053-17694,2bed,2bath,"1,241sqft",02/20/2014,Listed,"$395,000",$318,MLSListings
+1362,952-S-11th-St-Unit-230_San-Jose_CA_95112_M10053-17694,2bed,2bath,"1,241sqft",05/14/2003,Sold,"$330,000",$265,Public Record
+1363,952-S-11th-St-Unit-230_San-Jose_CA_95112_M10053-17694,2bed,2bath,"1,241sqft",,,,,
+1364,952-S-11th-St-Unit-230_San-Jose_CA_95112_M10053-17694,2bed,2bath,"1,241sqft",,,,,
+1365,952-S-11th-St-Unit-230_San-Jose_CA_95112_M10053-17694,2bed,2bath,"1,241sqft",10-09-2020,Listed,"$599,000",$482,MLSListings
+1366,952-S-11th-St-Unit-230_San-Jose_CA_95112_M10053-17694,2bed,2bath,"1,241sqft",01/13/2017,Sold,"$525,000",$423,MLSListings
+1367,952-S-11th-St-Unit-230_San-Jose_CA_95112_M10053-17694,2bed,2bath,"1,241sqft",12-06-2016,Listed,"$499,000",$402,ContraCosta
+1368,952-S-11th-St-Unit-230_San-Jose_CA_95112_M10053-17694,2bed,2bath,"1,241sqft",12-06-2016,Listed,"$499,000",$402,MLSListings
+1369,952-S-11th-St-Unit-230_San-Jose_CA_95112_M10053-17694,2bed,2bath,"1,241sqft",03/28/2014,Sold,"$409,000",$329,MLSListings
+1370,952-S-11th-St-Unit-230_San-Jose_CA_95112_M10053-17694,2bed,2bath,"1,241sqft",02/20/2014,Listed,"$395,000",$318,MLSListings
+1371,952-S-11th-St-Unit-230_San-Jose_CA_95112_M10053-17694,2bed,2bath,"1,241sqft",02/20/2014,Listed,"$395,000",$318,MLSListings
+1372,952-S-11th-St-Unit-230_San-Jose_CA_95112_M10053-17694,2bed,2bath,"1,241sqft",05/14/2003,Sold,"$330,000",$265,Public Record
+1373,952-S-11th-St-Unit-230_San-Jose_CA_95112_M10053-17694,2bed,2bath,"1,241sqft",,,,,
+1374,952-S-11th-St-Unit-230_San-Jose_CA_95112_M10053-17694,2bed,2bath,"1,241sqft",,,,,
+1375,1359-Cherrywood-Sq_San-Jose_CA_95117_M22991-36282,2bed,2bath,"1,056sqft",10-07-2020,Listed,"$859,000",$813,MLSListings
+1376,1359-Cherrywood-Sq_San-Jose_CA_95117_M22991-36282,2bed,2bath,"1,056sqft",04/25/1975,Sold,"$35,900",$33,Public Record
+1377,1359-Cherrywood-Sq_San-Jose_CA_95117_M22991-36282,2bed,2bath,"1,056sqft",10-07-2020,Listed,"$859,000",$813,MLSListings
+1378,1359-Cherrywood-Sq_San-Jose_CA_95117_M22991-36282,2bed,2bath,"1,056sqft",04/25/1975,Sold,"$35,900",$33,Public Record
+1379,975-S-Monroe-St_San-Jose_CA_95128_M21016-12266,3bed,1.5bath,"1,301sqft",10-07-2020,Listed,"$1,188,888",$913,MLSListings
+1380,975-S-Monroe-St_San-Jose_CA_95128_M21016-12266,3bed,1.5bath,"1,301sqft",12/19/1990,Sold,"$230,500",$177,Public Record
+1381,975-S-Monroe-St_San-Jose_CA_95128_M21016-12266,3bed,1.5bath,"1,301sqft",10-07-2020,Listed,"$1,188,888",$913,MLSListings
+1382,975-S-Monroe-St_San-Jose_CA_95128_M21016-12266,3bed,1.5bath,"1,301sqft",12/19/1990,Sold,"$230,500",$177,Public Record
+1383,510-Lyndale-Ave_San-Jose_CA_95127_M26347-09796,3bed,1bath,"1,130sqft",10-08-2020,Listed,"$825,000",$730,MLSListings
+1384,510-Lyndale-Ave_San-Jose_CA_95127_M26347-09796,3bed,1bath,"1,130sqft",10-08-2020,Listed,"$825,000",$730,MLSListings
+1385,5936-Liska-Ln_San-Jose_CA_95119_M16736-98820,4bed,3bath,"2,039sqft",10-09-2020,Listed,"$1,158,000",$567,MLSListings
+1386,5936-Liska-Ln_San-Jose_CA_95119_M16736-98820,4bed,3bath,"2,039sqft",04/17/1996,Sold,"$260,000",$127,Public Record
+1387,5936-Liska-Ln_San-Jose_CA_95119_M16736-98820,4bed,3bath,"2,039sqft",10-09-2020,Listed,"$1,158,000",$567,MLSListings
+1388,5936-Liska-Ln_San-Jose_CA_95119_M16736-98820,4bed,3bath,"2,039sqft",04/17/1996,Sold,"$260,000",$127,Public Record
+1389,3300-Narvaez-Ave-Spc-116_San-Jose_CA_95136_M28216-05710,2bed,2bath,960sqft,10-09-2020,Listed,"$120,000",$125,MLSListings
+1390,3300-Narvaez-Ave-Spc-116_San-Jose_CA_95136_M28216-05710,2bed,2bath,960sqft,09-05-2014,Sold,"$82,000",$85,MLSListings
+1391,3300-Narvaez-Ave-Spc-116_San-Jose_CA_95136_M28216-05710,2bed,2bath,960sqft,07/29/2014,Listed,"$83,800",$87,MLSListings
+1392,3271-Fallen-Oak-Ct_San-Jose_CA_95148_M18336-90958,3bed,1.5bath,892sqft,10-09-2020,Listed,"$919,888","$1,031",MLSListings
+1393,3271-Fallen-Oak-Ct_San-Jose_CA_95148_M18336-90958,3bed,1.5bath,892sqft,10/18/2005,Sold,"$580,000",$650,Public Record
+1394,3271-Fallen-Oak-Ct_San-Jose_CA_95148_M18336-90958,3bed,1.5bath,892sqft,08/16/1995,Sold,"$173,000",$193,Public Record
+1395,3271-Fallen-Oak-Ct_San-Jose_CA_95148_M18336-90958,3bed,1.5bath,892sqft,09/15/1988,Sold,"$155,000",$173,Public Record
+1396,3271-Fallen-Oak-Ct_San-Jose_CA_95148_M18336-90958,3bed,1.5bath,892sqft,10-09-2020,Listed,"$919,888","$1,031",MLSListings
+1397,3271-Fallen-Oak-Ct_San-Jose_CA_95148_M18336-90958,3bed,1.5bath,892sqft,10/18/2005,Sold,"$580,000",$650,Public Record
+1398,3271-Fallen-Oak-Ct_San-Jose_CA_95148_M18336-90958,3bed,1.5bath,892sqft,08/16/1995,Sold,"$173,000",$193,Public Record
+1399,3271-Fallen-Oak-Ct_San-Jose_CA_95148_M18336-90958,3bed,1.5bath,892sqft,09/15/1988,Sold,"$155,000",$173,Public Record
