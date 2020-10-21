@@ -3,6 +3,8 @@ import numpy as np
 import math
 import pandas as pd
 import pydeck as pdk
+import altair as alt
+from vega_datasets import data
 
 #Declaring functions Get Data and Map
 @st.cache
