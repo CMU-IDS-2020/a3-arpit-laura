@@ -2,7 +2,7 @@
 
 ![A screenshot of your application. Could be a GIF.](screenshot.png)
 
-TODO: Short abstract describing the main goals and how you achieved them.
+Analyzing the impact (if any) of COVID-19 on housing prices in the San Francisco Bay Area
 
 ## Project Goals
 
