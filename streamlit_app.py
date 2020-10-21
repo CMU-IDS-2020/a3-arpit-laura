@@ -195,13 +195,39 @@ month_map = {1:'Jan', 2:'Feb', 3:'Mar', 4:'Apr', 5:'May', 6:'Jun', 7:'Jul', 8:'A
             9:'Sep', 10:'Oct', 11:'Nov', 12:'Dec'}
 sc_dt_data = sc_data[sc_data['month']== month_map[month_selected]]
 
-#bar chart
-if sc_dt_data.count()[0] > 0:
-    bar_chart = st.bar_chart(sc_dt_data[['Confirmed', 'Deaths', 'Active']].iloc[0])
+#bar chart (streamlit)
+#if sc_dt_data.count()[0] > 0:
+    #bar_chart = st.bar_chart(sc_dt_data[['Confirmed', 'Deaths', 'Active']].iloc[0])
     #st.write(bar_chart)
 
 #st.write(sc_dt_data)
 
+#bar chart (altair)
+COVID_confirmed_chart = alt.Chart(sc_dt_data).mark_bar().encode(
+    x = 'Confirmed:Q',
+    y = 'sc_dt_data:N'   
+    ).properties(
+    width=500,
+    height=40
+)
+
+COVID_deaths_chart = alt.Chart(sc_dt_data).mark_bar().encode(
+    x = 'Deaths:Q',
+    y = 'sc_dt_data:N' label 
+    ).properties(
+    width=500,
+    height=40
+)
+
+COVID_active_chart= alt.Chart(sc_dt_data).mark_bar().encode(
+    x = 'Active:Q',
+    y = 'sc_dt_data:N'
+    ).properties(
+    width=500,
+    height=40
+)
+
+st.write(alt.vconcat(COVID_confirmed_chart, COVID_deaths_chart, COVID_active_chart))
 
 #Raw Datasets (Row 4)
 row4_1 = st.beta_columns((1))
