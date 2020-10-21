@@ -110,7 +110,7 @@ no_of_bed_rooms.sort()
 
 #Month slider
 #st.sidebar.markdown("Select the month of 2020")
-month_selected = st.sidebar.slider('Select the month of 2020 (1=Jan, 2=Feb, etc.'), 1, 9, 3)
+month_selected = st.sidebar.slider('Select the month of 2020, 1=Jan, 2=Feb, etc.', 1, 9, 3)
 
 #Beds slider
 beds_selected = st.sidebar.slider('Select # of bedrooms', int(min(no_of_bed_rooms)), int(max(no_of_bed_rooms)), 2)
