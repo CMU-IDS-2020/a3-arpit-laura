@@ -1,6 +1,6 @@
 # Impact of COVID19 on Property Rates in Bay Area
 
-![A screenshot of your application. Could be a GIF.](screenshot.png)
+![A screenshot of your application. Could be a GIF.](Streamlit screenshot.png)
 
 Analyzing the impact (if any) of COVID-19 on housing prices in the San Francisco Bay Area
 
