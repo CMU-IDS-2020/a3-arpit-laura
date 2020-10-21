@@ -6,7 +6,7 @@ Analyzing the impact (if any) of COVID-19 on housing prices in the San Francisco
 
 ## Project Goals
 
-In the news recently, there have been many reports of unusual fluctuations in housing prices, as people’s lifestyles have been completely upended.  We were specifically interested in the Bay Area because we both are looking to find jobs and live in the area after graduation.  Our thinking was that any trends could help us to make more informed decisions, as the COVID-19 pandemic persists. 
+In the news recently, there have been many reports of unusual fluctuations in housing prices, as people’s lifestyles have been completely upended.  We were specifically interested in the Bay Area because we both are looking to find jobs and live in the area after graduation.  Our thinking was that any trends could help us to make more informed housing decisions, as the COVID-19 pandemic persists. 
 
 ## Design
 
