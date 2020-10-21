@@ -213,7 +213,7 @@ COVID_confirmed_chart = alt.Chart(sc_dt_data).mark_bar().encode(
 
 COVID_deaths_chart = alt.Chart(sc_dt_data).mark_bar().encode(
     x = 'Deaths:Q',
-    y = 'sc_dt_data:N' label 
+    y = 'sc_dt_data:N' 
     ).properties(
     width=500,
     height=40
