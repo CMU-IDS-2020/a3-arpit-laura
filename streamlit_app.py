@@ -205,24 +205,24 @@ sc_dt_data = sc_data[sc_data['month']== month_map[month_selected]]
 
 #bar chart (altair)
 COVID_confirmed_chart = alt.Chart(sc_dt_data).mark_bar().encode(
-    x = 'Confirmed:Q',
-    y = 'sc_dt_data:N'   
+    x = alt.X('Confirmed:Q', title = ''),
+    y = alt.Y('sc_dt_data:N', title = 'Confirmed')
     ).properties(
     width=500,
     height=40
 )
 
 COVID_deaths_chart = alt.Chart(sc_dt_data).mark_bar().encode(
-    x = 'Deaths:Q',
-    y = 'sc_dt_data:N' 
+    x = alt.X('Deaths:Q', title = ''),
+    y = alt.Y('sc_dt_data:N', title = 'Deaths')
     ).properties(
     width=500,
     height=40
 )
 
 COVID_active_chart= alt.Chart(sc_dt_data).mark_bar().encode(
-    x = 'Active:Q',
-    y = 'sc_dt_data:N'
+    x = alt.X('Active:Q', title = ''),
+    y = alt.Y('sc_dt_data:N', title = 'Active')
     ).properties(
     width=500,
     height=40
