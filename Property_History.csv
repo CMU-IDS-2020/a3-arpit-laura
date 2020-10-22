@@ -1,4 +1,4 @@
-ID,Address,Zip_Code,beds,baths,Area,Date,Action,Amount_dollar,Rate_dollar_,Source
+ID,Address,Zip_Code,Beds,Baths,Area,Date,Action,Amount_dollar,Rate_dollar_,Source
 1,10023-Long-Oak-Ln_Cupertino_CA_95014_M21807-44400,95014,3,2.5,1341,10-02-2020,Listed,1498000,1117,MLSListings
 2,10023-Long-Oak-Ln_Cupertino_CA_95014_M21807-44400,95014,3,2.5,1341,10-02-2020,Listed,1498000,1117,MLSListings
 3,10023-Long-Oak-Ln_Cupertino_CA_95014_M21807-44400,95014,3,2.5,1341,22-01-2014,Sold,910000,678,MLSListings
