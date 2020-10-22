@@ -212,15 +212,6 @@ bars = alt.Chart(chart_data).mark_bar().encode(
     color='deeppink'
 )
 
-text = bars.mark_text(
-    align='left',
-    baseline='middle',
-    dx=3,
-    color='black'
-).encode(
-    text='Number of Cases'
-)
-
 st.write(bars)
 
 st.write(chart_data)
