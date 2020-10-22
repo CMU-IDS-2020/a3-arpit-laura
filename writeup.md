@@ -20,5 +20,6 @@ For the development process, we first came to an agreement on the overarching qu
 
 Laura - I do not have a technical background, and am fairly new to coding.  In total, I spent about 35 hours on this assignment. Setting up and installing the environment took up a large chunk of time as I had to troubleshoot a variety of issues.  Creating the visualizations also took a while, as I am still working to understand and learn python syntax and core functionality.  I mostly tried to figure things out on my own by Googling, and looking back, I wish I had used the office hours sooner in the process, as the TA’s were very helpful.
 
-Arpit - 
+Arpit - With a limited background in coding languages such as VBA, Java, Python, etc, I spent around 30 hours on the assignment. 
+
 
