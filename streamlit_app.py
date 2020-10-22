@@ -196,39 +196,22 @@ month_map = {1:'Jan', 2:'Feb', 3:'Mar', 4:'Apr', 5:'May', 6:'Jun', 7:'Jul', 8:'A
             9:'Sep', 10:'Oct', 11:'Nov', 12:'Dec'}
 sc_dt_data = sc_data[sc_data['month']== month_map[month_selected]]
 
-#bar chart (streamlit)
-#if sc_dt_data.count()[0] > 0:
-    #bar_chart = st.bar_chart(sc_dt_data[['Confirmed', 'Deaths', 'Active']].iloc[0])
-    #st.write(bar_chart)
+con = int(sc_dt_data['Confirmed'])
+dth = int(sc_dt_data['Deaths'])
+act = int(sc_dt_data['Active'])
 
-#st.write(sc_dt_data)
+data = [['Confirmed',con],['Deaths',dth],['Active',act]]
+chart_data = pd.DataFrame(data, columns = ['Metric', 'Number of Cases']) 
 
-#bar chart (altair)
-COVID_confirmed_chart = alt.Chart(sc_dt_data).mark_bar().encode(
-    x = alt.X('Confirmed:Q', title = '', scale=alt.Scale(domain=(0, 20000))),
-    y = alt.Y('sc_dt_data:N', title = 'Confirmed')
-    ).properties(
-    width=500,
-    height=40
+bars = alt.Chart(chart_data).mark_bar().encode(
+    x='Number of Cases:Q',
+    y='Metric:O'
+).properties(width = 600, height=200).configure_mark(
+    color='teal'
 )
 
-COVID_deaths_chart = alt.Chart(sc_dt_data).mark_bar().encode(
-    x = alt.X('Deaths:Q', title = '', scale=alt.Scale(domain=(0, 20000))),
-    y = alt.Y('sc_dt_data:N', title = 'Deaths')
-    ).properties(
-    width=500,
-    height=40
-)
-
-COVID_active_chart= alt.Chart(sc_dt_data).mark_bar().encode(
-    x = alt.X('Active:Q', title = '', scale=alt.Scale(domain=(0, 20000))),
-    y = alt.Y('sc_dt_data:N', title = 'Active')
-    ).properties(
-    width=500,
-    height=40
-)
-
-st.write(alt.vconcat(COVID_confirmed_chart, COVID_deaths_chart, COVID_active_chart))
+st.write(bars)
+st.write(chart_data)
 
 #Raw Datasets (Row 4)
 row4_1 = st.beta_columns((1))
