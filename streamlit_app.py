@@ -196,6 +196,7 @@ month_map = {1:'Jan', 2:'Feb', 3:'Mar', 4:'Apr', 5:'May', 6:'Jun', 7:'Jul', 8:'A
             9:'Sep', 10:'Oct', 11:'Nov', 12:'Dec'}
 sc_dt_data = sc_data[sc_data['month']== month_map[month_selected]]
 
+#creating dataframe for bar chart
 con = int(sc_dt_data['Confirmed'])
 dth = int(sc_dt_data['Deaths'])
 act = int(sc_dt_data['Active'])
@@ -203,8 +204,9 @@ act = int(sc_dt_data['Active'])
 data = [['Confirmed',con],['Deaths',dth],['Active',act]]
 chart_data = pd.DataFrame(data, columns = ['Metric', 'Number of Cases']) 
 
+#plotting Altair bar chart
 bars = alt.Chart(chart_data).mark_bar().encode(
-    x='Number of Cases:Q',
+    alt.X('Number of Cases:Q', scale=alt.Scale(domain=(0, 20000))),
     y='Metric:O'
 ).properties(width = 600, height=200).configure_mark(
     color='teal'
