@@ -29,12 +29,11 @@ def map1(data, lat, long, zoom):
                     elevation_scale=2,
                     elevation_range=[0, 100],
                     get_fill_color = ["Rate_dollar_sqft",140],
-                    radius=250,
+                    radius=350,
                     pickable=True,
                     extruded=True
                 )
-            ]
-        ,
+            ],
             tooltip={
                 'html': '<b>Rate per sqft:</b> {Rate_dollar_sqft}',
                 'style': {
@@ -57,17 +56,16 @@ def map2(data, lat, long, zoom):
                     "ColumnLayer",
                     data=data,
                     get_position=["Long", "Lat"],
-                    get_elevation=score_type_map[score_selected],
-                    get_elevation_weight=0.8,
-                    elevation_scale=2,
+                    get_elevation=score_type_map_norm[score_selected],
+                    get_elevation_weight=1,
+                    elevation_scale=100,
                     elevation_range=[0, 100],
                     get_fill_color = [score_type_map[score_selected],140],
-                    radius=250,
+                    radius=350,
                     pickable=True,
                     extruded=True
                 )
-            ]
-        ,
+            ],
             tooltip={
                 'html': '<b>Score:</b> {' + score_type_map[score_selected] + '}',
                 'style': {
@@ -77,11 +75,19 @@ def map2(data, lat, long, zoom):
         ))
     
 def preprocess(data):
-    
+    data.fillna(0, inplace=True)
     if data['Rate_dollar_sqft'] == '-':
         data['Rate_dollar_sqft'] = data['Amount_dollar']/data['Area']
     return data
 
+def norm(df):
+    df = df.add_suffix("_norm")    
+    df_norm = abs(((df - df.mean()) / (df.max() - df.min()))*1000)
+    return df_norm
+
+def preprocess_2(data):
+    data.fillna(0, inplace=True)
+    
 
 #Links to all datasets on Github
 COVID19_CA_data_link = 'https://raw.githubusercontent.com/CMU-IDS-2020/a3-arpit-laura/master/COVID19_CA.csv'
@@ -110,10 +116,10 @@ no_of_bed_rooms.sort()
 
 #Month slider
 #st.sidebar.markdown("Select the month of 2020")
-month_selected = st.sidebar.slider('Select the month of 2020', 1, 9, 3)
+month_selected = st.sidebar.slider('Select the month of 2020', 1, 9)
 
 #Beds slider
-beds_selected = st.sidebar.slider('Select # of bedrooms', int(min(no_of_bed_rooms)), int(max(no_of_bed_rooms)), 2)
+beds_selected = st.sidebar.slider('Select # of bedrooms', int(min(no_of_bed_rooms)), int(max(no_of_bed_rooms)))
     
 #Check box for mean and median
 stat_selected = st.sidebar.radio('Select aggreation type on the map', ('Mean','Median'), index=0)
@@ -123,6 +129,10 @@ score_selected = st.sidebar.radio('Select the neighbourhood score type', ('Livel
 
 score_type_map = {'Livelihood Score':'liv_score' , 'School Test Score':'School_test_scores', 'Total Crime':'Total_Crime', 'Overall User Rating':'Overall_user_rating', 'Cost of Living':'Cost_of_living_city', 'Median HH Income':'Median_household_income', 'Income Per Capita':'Income_per_capita', 'Unemployment Rate':'Unemployment_rate', 'Median Home Value':'Median_home_value', 'Median Rent Price':'Median_rent_price', 'Home Ownership':'Home_ownership'}
 
+score_type_map_norm = {'Livelihood Score':'liv_score_norm' , 'School Test Score':'School_test_scores_norm', 'Total Crime':'Total_Crime_norm', 'Overall User Rating':'Overall_user_rating_norm', 'Cost of Living':'Cost_of_living_city_norm', 'Median HH Income':'Median_household_income_norm', 'Income Per Capita':'Income_per_capita_norm', 'Unemployment Rate':'Unemployment_rate_norm', 'Median Home Value':'Median_home_value_norm', 'Median Rent Price':'Median_rent_price_norm', 'Home Ownership':'Home_ownership_norm'}
+
+#Filter for county
+county_selected = st.sidebar.selectbox('Select the county for COVID19 statistics', ('San Francisco', 'San Mateo', 'Santa Clara', 'Alameda'), index=0)
 
 #Placing Title (Row 1)
 row1_1 = st.beta_columns((1))
@@ -136,35 +146,53 @@ st.subheader("Property Rates vs Neighborhood Scores")
 row2_1, row2_2, row2_3 = st.beta_columns((10,1,10))
 
 with row2_1:
-    #data filtered by beds
-    data = zip_codes[zip_codes['Beds'] <= beds_selected]
+    try:
+        #data filtered by beds
+        data = zip_codes[zip_codes['Beds'] <= beds_selected]
+
+        #data filtered by month
+        data['Month'] = pd.DatetimeIndex(data['Date']).month
+        data['year'] = pd.DatetimeIndex(data['Date']).year
+        data['Amount_dollar'] = data.Amount_dollar.apply(lambda x: 0 if x == '-' else x)
+        data.Amount_dollar = data.Amount_dollar.astype('int')
+        data = data[data['year'] == 2020]
+        data = data.apply(preprocess, axis = 1)
+        data['Rate_dollar_sqft'] = data['Rate_dollar_sqft'].astype('float')
+
+        if stat_selected == 'Mean':
+            data = data[data['year'] == 2020].groupby(['Zip_Code','year','Month','Lat','Long'])['Rate_dollar_sqft'].mean().reset_index()
+        else:
+            data = data[data['year'] == 2020].groupby(['Zip_Code','year','Month','Lat','Long'])['Rate_dollar_sqft'].median().reset_index()
+
+        property_rates = data[data['Month']==month_selected]
+        map1(property_rates[['Rate_dollar_sqft','Lat','Long']], 37.224371, -121.905867 , 8)
+        
+        if property_rates.size == 0:
+            st.write('No data was found for the selected filters')
     
-    #data filtered by month
-    data['Month'] = pd.DatetimeIndex(data['Date']).month
-    data['year'] = pd.DatetimeIndex(data['Date']).year
-    data['Amount_dollar'] = data.Amount_dollar.apply(lambda x: 0 if x == '-' else x)
-    data.Amount_dollar = data.Amount_dollar.astype('int')
-    
-    data = data[data['year'] == 2020]
-    data = data.apply(preprocess, axis = 1)
-    data['Rate_dollar_sqft'] = data['Rate_dollar_sqft'].astype('float')
-    
-    if stat_selected == 'Mean':
-        data = data[data['year'] == 2020].groupby(['Zip_Code','year','Month','Lat','Long'])['Rate_dollar_sqft'].mean().reset_index()
-    else:
-        data = data[data['year'] == 2020].groupby(['Zip_Code','year','Month','Lat','Long'])['Rate_dollar_sqft'].median().reset_index()
-    
-    property_rates = data[data['Month']==month_selected]
-    map1(property_rates[['Rate_dollar_sqft','Lat','Long']], np.average(data['Lat']),np.average(data['Long']),10)
+    except Exception as e:
+        st.write('No data was found for the selected filters')
+        pass
     
 with row2_3:
-    score_on_map = pd.merge(df_Neighborhood_Score, data, on='Zip_Code')
+    score_on_map = pd.merge(df_Neighborhood_Score, property_rates, on='Zip_Code')
     score_on_map = score_on_map.fillna(0)
-    map2(score_on_map[['Lat','Long',score_type_map[score_selected]]], np.average(data['Lat']),np.average(data['Long']),10)
+    score_on_map['Total_Crime'] = score_on_map['Total_Crime'].astype('int')
+    score_on_map['Zip_Code'] = score_on_map['Zip_Code'].astype('str')
+    df_Neighborhood_Score_norm = score_on_map.drop(['Zip_Code', 'Chance_of_being_a_victim','City', 'year', 'Month', 'Lat', 'Long', 'Rate_dollar_sqft'], axis=1).apply(norm,axis=1)
+
+    try:
+        score_on_map = score_on_map.join(df_Neighborhood_Score_norm)
+        map2(score_on_map[['Lat','Long',score_type_map[score_selected], score_type_map_norm[score_selected]]], 37.224371, -121.905867, 8)
+    
+    except:
+        map2(score_on_map[['Lat','Long']], 37.224371, -121.905867, 8)
+        st.write('No data was found for the selected filters')
+        pass
     
 #Placing Graph (Row 3)
 row3_1 = st.beta_columns((1))
-st.subheader("COVID statistics in Santa Clara County")
+st.subheader("COVID statistics in " + county_selected + " County")
 
 #create map to get the last date of each month
 last_date_map = {
@@ -181,7 +209,6 @@ last_date_map = {
 }
 
 df_COVID_CA['Last_Update'] = pd.to_datetime(df_COVID_CA['Last_Update'], format='%d-%m-%Y')
-
 df_COVID_CA['date'] = df_COVID_CA['Last_Update'].dt.strftime('%d').astype(int)
 df_COVID_CA['month'] = df_COVID_CA['Last_Update'].dt.strftime('%b')
 df_COVID_CA['last_date'] = df_COVID_CA['month'].map(last_date_map)
@@ -190,31 +217,38 @@ df_COVID_CA['last_date'] = df_COVID_CA['month'].map(last_date_map)
 df_COVID_CA = df_COVID_CA[df_COVID_CA['date']==df_COVID_CA['last_date']]
 
 #filter on Santa Clara county
-sc_data = df_COVID_CA[df_COVID_CA["County"] == "Santa Clara"]
+sc_data = df_COVID_CA[df_COVID_CA["County"] == county_selected]
 
 month_map = {1:'Jan', 2:'Feb', 3:'Mar', 4:'Apr', 5:'May', 6:'Jun', 7:'Jul', 8:'Aug',
             9:'Sep', 10:'Oct', 11:'Nov', 12:'Dec'}
 sc_dt_data = sc_data[sc_data['month']== month_map[month_selected]]
 
-
-#bar chart (Altair)
-con = int(sc_dt_data['Confirmed'])
-dth = int(sc_dt_data['Deaths'])
-act = int(sc_dt_data['Active'])
-
-data = [['Confirmed',con],['Deaths',dth],['Active',act]]
-chart_data = pd.DataFrame(data, columns = ['Metric', 'Number of Cases']) 
-
-bars = alt.Chart(chart_data).mark_bar().encode(
-    x=alt.X('Number of Cases:Q', scale=alt.Scale(domain=(0, 20000))),
-    y='Metric:O'
-).properties(width = 600, height=200).configure_mark(
-    color='deeppink'
+#bar chart (altair)
+COVID_confirmed_chart = alt.Chart(sc_dt_data).mark_bar().encode(
+    x = alt.X('Confirmed:Q', title = '', scale=alt.Scale(domain=(0, 20000))),
+    y = alt.Y('sc_dt_data:N', title = 'Confirmed')
+    ).properties(
+    width=500,
+    height=40
 )
 
-st.write(bars)
+COVID_deaths_chart = alt.Chart(sc_dt_data).mark_bar().encode(
+    x = alt.X('Deaths:Q', title = '', scale=alt.Scale(domain=(0, 20000))),
+    y = alt.Y('sc_dt_data:N', title = 'Deaths')
+    ).properties(
+    width=500,
+    height=40
+)
 
-st.write(chart_data)
+COVID_active_chart= alt.Chart(sc_dt_data).mark_bar().encode(
+    x = alt.X('Active:Q', title = '', scale=alt.Scale(domain=(0, 20000))),
+    y = alt.Y('sc_dt_data:N', title = 'Active')
+    ).properties(
+    width=500,
+    height=40
+)
+
+st.write(alt.vconcat(COVID_confirmed_chart, COVID_deaths_chart, COVID_active_chart))
 
 #Raw Datasets (Row 4)
 row4_1 = st.beta_columns((1))
