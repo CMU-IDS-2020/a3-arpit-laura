@@ -222,7 +222,7 @@ sc_data = df_COVID_CA[df_COVID_CA["County"] == county_selected]
 month_map = {1:'Jan', 2:'Feb', 3:'Mar', 4:'Apr', 5:'May', 6:'Jun', 7:'Jul', 8:'Aug',
             9:'Sep', 10:'Oct', 11:'Nov', 12:'Dec'}
 
-if value > 2:
+if month_selected > 2:
     sc_dt_data = sc_data[sc_data['month']== month_map[month_selected]]
 
     #bar chart (altair)
