@@ -221,36 +221,38 @@ sc_data = df_COVID_CA[df_COVID_CA["County"] == county_selected]
 
 month_map = {1:'Jan', 2:'Feb', 3:'Mar', 4:'Apr', 5:'May', 6:'Jun', 7:'Jul', 8:'Aug',
             9:'Sep', 10:'Oct', 11:'Nov', 12:'Dec'}
-sc_dt_data = sc_data[sc_data['month']== month_map[month_selected]]
 
-#bar chart (altair)
-con = int(sc_dt_data['Confirmed'])
-dth = int(sc_dt_data['Deaths'])
-act = int(sc_dt_data['Active'])
+if value > 2:
+    sc_dt_data = sc_data[sc_data['month']== month_map[month_selected]]
 
-data = [['Confirmed',con],['Deaths',dth],['Active',act]]
-chart_data = pd.DataFrame(data, columns = ['Metric', 'Number of Cases']) 
+    #bar chart (altair)
+    con = int(sc_dt_data['Confirmed'])
+    dth = int(sc_dt_data['Deaths'])
+    act = int(sc_dt_data['Active'])
 
-if sc_dt_data.count()[0] > 0:
-    bars = alt.Chart(chart_data).mark_bar().encode(
-    x=alt.X('Number of Cases:Q', scale=alt.Scale(domain=(0, 20000))),
-    y='Metric:O'
-).properties(width = 600, height=200).configure_mark(
-    color='deeppink'
-)
+    data = [['Confirmed',con],['Deaths',dth],['Active',act]]
+    chart_data = pd.DataFrame(data, columns = ['Metric', 'Number of Cases']) 
 
-text = bars.mark_text(
-    align='left',
-    baseline='middle',
-    dx=3,
-    color='black'
-).encode(
-    text='Number of Cases'
-)
+    if sc_dt_data.count()[0] > 0:
+        bars = alt.Chart(chart_data).mark_bar().encode(
+        x=alt.X('Number of Cases:Q', scale=alt.Scale(domain=(0, 20000))),
+        y='Metric:O'
+    ).properties(width = 600, height=200).configure_mark(
+        color='deeppink'
+    )
 
-st.write(bars)
+    text = bars.mark_text(
+        align='left',
+        baseline='middle',
+        dx=3,
+        color='black'
+    ).encode(
+        text='Number of Cases'
+    )
 
-st.write(chart_data)
+    st.write(bars)
+
+    st.write(chart_data)
 
 #Raw Datasets (Row 4)
 row4_1 = st.beta_columns((1))
